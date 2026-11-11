@@ -6,8 +6,25 @@ from sklearn.metrics import accuracy_score, f1_score
 TARGET = 'target_hs4'
 norm = lambda s: re.sub(r'[\s\-·,()\[\]./\'’]', '', str(s)).lower()
 
-def load(path='gold_814_split.csv'):
+def apply_corrections(g, path):
+    """2026-11-11: 시트1 정답 수정표(sheet1_corrections.csv)를 덮어씀. 원본 시트(다인 소유)는 바꾸지 않고, 원래 값은 비고에 남김"""
+    import os
+    if not os.path.exists(path): return g
+    c = pd.read_csv(path, dtype=str).fillna('')
+    for _, r in c.iterrows():
+        m = g.entity_id == r.entity_id
+        if not m.any(): continue
+        g.loc[m, 'target_hs4'] = r['수정 HS4']; g.loc[m, 'target_hs2'] = r['수정 HS4'][:2]
+        if 'target_hs6' in g: g.loc[m, 'target_hs6'] = r['수정 HS6']
+        cc = [x for x in g.columns if x.startswith('hs6_후보')]
+        if cc: g.loc[m, cc[0]] = ''
+        if '비고' in g: g.loc[m, '비고'] = g.loc[m, '비고'] + f" | 정답 수정(2026-11-11): {r['원래 HS4']}→{r['수정 HS4']} {r['근거']}"
+    return g
+
+def load(path='gold_814_split.csv', corrections=True):
+    import os
     g = pd.read_csv(path, dtype=str).fillna('').reset_index(drop=True)
+    if corrections: g = apply_corrections(g, os.path.join(os.path.dirname(os.path.abspath(path)), 'sheet1_corrections.csv'))
     # 같은 원료(표기만 다른 것 포함)를 한 그룹으로: 영문명 기준, 국문명이 같으면 합침
     grp = [norm(e) if e else norm(k) for e, k in zip(g.material_name_en, g.material_name)]
     first = {}
