@@ -1,0 +1,16 @@
+name: README 변경 기록 확인
+on:
+  pull_request:
+    branches: [main]
+jobs:
+  changelog:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - name: README.md 변경 기록에 이 브랜치 항목이 있는지 확인
+        env:
+          BASE: ${{ github.event.pull_request.base.sha }}
+          BRANCH: ${{ github.head_ref }}
+        run: bash scripts/check_changelog.sh "$BASE" "$BRANCH"
