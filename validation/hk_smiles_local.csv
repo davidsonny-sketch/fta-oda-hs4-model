@@ -1,0 +1,62 @@
+﻿구분,키,국문명,영문명,SMILES
+HK,HK035,헵탄,Heptane,CCCCCCC
+HK,HK036,헥센,Hexene,CCCCC=C
+HK,HK037,옥텐,Octene,CCCCCCC=C
+HK,HK038,사이클로헥세인,Cyclohexane,C1CCCCC1
+HK,HK039,톨루엔,Toluene,Cc1ccccc1
+HK,HK040,스타이렌,Styrene,C=Cc1ccccc1
+HK,HK041,시트로넬올,Citronellol,CC(CCC=C(C)C)CCO
+HK,HK042,제라니올,Geraniol,CC(=CCCC(=CCO)C)C
+HK,HK043,에칠렌글라이콜,Ethylene Glycol,OCCO
+HK,HK044,네오펜틸글라이콜,Neopentyl Glycol,CC(C)(CO)CO
+HK,HK045,이노시톨,Inositol,OC1C(O)C(O)C(O)C(O)C1O
+HK,HK046,티몰,Thymol,Cc1ccc(C(C)C)c(O)c1
+HK,HK047,레조시놀,Resorcinol,Oc1cccc(O)c1
+HK,HK048,카테콜,Catechol,Oc1ccccc1O
+HK,HK049,아네솔,Anethole,COc1ccc(C=CC)cc1
+HK,HK050,트라이에틸글라이콜,Triethylene Glycol,OCCOCCOCCO
+HK,HK051,에틸바닐린,Ethyl Vanillin,CCOc1cc(C=O)ccc1O
+HK,HK052,아세톤,Acetone,CC(C)=O
+HK,HK053,사이클로헥산온,Cyclohexanone,O=C1CCCCC1
+HK,HK054,메틸아이오논,Methyl Ionones,CC1=CCCC(C)(C)C1C=C(C)C(C)=O
+HK,HK055,포믹애씨드,Formic Acid,OC=O
+HK,HK056,아세틱애씨드,Acetic Acid,CC(O)=O
+HK,HK057,칼슘아세테이트,Calcium Acetate,CC(=O)[O-].CC(=O)[O-].[Ca+2]
+HK,HK058,소듐아세테이트,Sodium Acetate,CC(=O)[O-].[Na+]
+HK,HK059,에틸아세테이트,Ethyl Acetate,CCOC(C)=O
+HK,HK060,비닐아세테이트,Vinyl Acetate,CC(=O)OC=C
+HK,HK061,아밀아세테이트,Amyl Acetate,CCCCCOC(C)=O
+HK,HK062,아이소아밀아세테이트,Isoamyl Acetate,CC(C)CCOC(C)=O
+HK,HK063,아이소부틸아세테이트,Isobutyl Acetate,CC(C)COC(C)=O
+HK,HK064,프로피오닉애씨드,Propionic Acid,CCC(O)=O
+HK,HK065,징크스테아레이트,Zinc Stearate,CCCCCCCCCCCCCCCCCC(=O)[O-].CCCCCCCCCCCCCCCCCC(=O)[O-].[Zn+2]
+HK,HK066,칼슘스테아레이트,Calcium Stearate,CCCCCCCCCCCCCCCCCC(=O)[O-].CCCCCCCCCCCCCCCCCC(=O)[O-].[Ca+2]
+HK,HK067,아크릴릭애씨드,Acrylic Acid,C=CC(O)=O
+HK,HK068,메타크릴릭애씨드,Methacrylic Acid,CC(=C)C(O)=O
+HK,HK069,벤조일클로라이드,Benzoyl Chloride,ClC(=O)c1ccccc1
+HK,HK070,신나믹애씨드,Cinnamic Acid,OC(=O)C=Cc1ccccc1
+HK,HK071,옥살릭애씨드,Oxalic Acid,OC(=O)C(O)=O
+HK,HK072,아디픽애씨드,Adipic Acid,OC(=O)CCCCC(O)=O
+HK,HK073,세바식애씨드,Sebacic Acid,OC(=O)CCCCCCCCC(O)=O
+HK,HK074,말레익안하이드라이드,Maleic Anhydride,O=C1OC(=O)C=C1
+HK,HK075,소듐석시네이트,Sodium Succinate,[O-]C(=O)CCC([O-])=O.[Na+].[Na+]
+HK,HK076,트라이옥틸트라이멜리테이트,Trioctyl Trimellitate,CCCCCCCCOC(=O)c1ccc(C(=O)OCCCCCCCC)c(C(=O)OCCCCCCCC)c1
+HK,HK077,락틱애씨드,Lactic Acid,CC(O)C(O)=O
+HK,HK078,타타릭애씨드,Tartaric Acid,OC(C(O)C(O)=O)C(O)=O
+HK,HK079,시트릭애씨드,Citric Acid,OC(=O)CC(O)(CC(O)=O)C(O)=O
+HK,HK080,갈릭애씨드,Gallic Acid,OC(=O)c1cc(O)c(O)c(O)c1
+HK,HK081,메틸다이에탄올아민,Methyl Diethanolamine,CN(CCO)CCO
+HK,HK082,라이신,Lysine,NCCCCC(N)C(O)=O
+HK,HK083,소듐글루타메이트,Sodium Glutamate,NC(CCC(O)=O)C(=O)[O-].[Na+]
+HK,HK084,알라닌,Alanine,CC(N)C(O)=O
+HK,HK085,아세트아미노펜,Acetaminophen,CC(=O)Nc1ccc(O)cc1
+HK,HK086,시스테인,Cysteine,NC(CS)C(O)=O
+HK,HK087,테트라하이드로퍼퓨릴알코올,Tetrahydrofurfuryl Alcohol,OCC1CCCO1
+HK,HK088,쿠마린,Coumarin,O=C1C=Cc2ccccc2O1
+HK,HK089,부티로락톤,Butyrolactone,O=C1CCCO1
+HK,HK090,아스코빅애씨드,Ascorbic Acid,OCC(O)C1OC(=O)C(O)=C1O
+HK,HK091,소듐아스코베이트,Sodium Ascorbate,OCC(O)C1OC(=O)C(O)=C1[O-].[Na+]
+HK,HK092,칼슘아스코베이트,Calcium Ascorbate,OCC(O)C1OC(=O)C(O)=C1[O-].OCC(O)C1OC(=O)C(O)=C1[O-].[Ca+2]
+HK,HK094,카페인,Caffeine,Cn1cnc2c1c(=O)n(C)c(=O)n2C
+HK,HK095,갈락토오스,Galactose,OCC1OC(O)C(O)C(O)C1O
+HK,HK096,자일로오스,Xylose,OC1COC(O)C(O)C1O
