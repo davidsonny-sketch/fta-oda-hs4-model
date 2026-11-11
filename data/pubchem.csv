@@ -1,0 +1,698 @@
+﻿entity_id,material_name,material_name_en,cas,조회값,후보수,CID,MolecularFormula,IUPACName,SMILES
+KB0001,가지열매추출물,Solanum Melongena (Eggplant) Fruit Extract,84012-19-1,,0,,,,
+KB0002,리마콩씨추출물,Phaseolus Lunatus (Green Bean) Seed Extract,85085-22-9,85085-22-9,1,160866267,C98H178O9,"2,3-dimethyl-4-(2-methylprop-1-enyl)cyclohexan-1-ol;2,5-dimethyl-4-(2-methylprop-1-enyl)cyclohexan-1-ol;2,6-dimethyl-4-(2-methylprop-1-enyl)cyclohexan-1-ol;3,5-dimethyl-4-(2-methylprop-1-enyl)cyclohexan-1-ol;2-ethenyl-3,3-dimethylcyclohexan-1-ol;2-ethenyl-4,4-dimethylcyclohexan-1-ol;2-ethenyl-5,5-dimethylcyclohexan-1-ol;3-ethenyl-2,2-dimethylcyclohexan-1-ol;6-ethenyl-2,2-dimethylcyclohexan-1-ol",CC1CC(CC(C1O)C)C=C(C)C.CC1CC(CC(C1C=C(C)C)C)O.CC1CC(C(CC1O)C)C=C(C)C.CC1C(C(CCC1C=C(C)C)O)C.CC1(CCC(C(C1)O)C=C)C.CC1(CCC(C(C1)C=C)O)C.CC1(CCCC(C1C=C)O)C.CC1(CCCC(C1O)C=C)C.CC1(C(CCCC1O)C=C)C
+KB0003,리치과피추출물,Litchi Chinensis Pericarp Extract,91722-81-5,,0,,,,
+KB0004,마늘추출물,Allium Sativum (Garlic) Bulb Extract,8008-99-9,8008-99-9,1,16315,C6H10S3,3-(prop-2-enyltrisulfanyl)prop-1-ene,C=CCSSSCC=C
+KB0005,마돈나백합비늘줄기추출물,Lilium Candidum Bulb Extract,84776-67-0,,0,,,,
+KB0006,가시칠엽수씨추출물,Aesculus Hippocastanum (Horse Chestnut) Seed Extract,8053-39-2,,0,,,,
+KB0007,구아바잎추출물,Psidium Guajava Leaf Extract,90045-46-8;91770-12-6 (generic),,0,,,,
+KB0008,마시멜로뿌리추출물,Althaea Officinalis Root Extract,73049-65-7,,0,,,,
+KB0009,쇠비름추출물,Portulaca Oleracea Extract,90083-07-1,,0,,,,
+KB0010,구아바열매추출물,Psidium Guajava Fruit Extract,90045-46-8;91770-12-6,,0,,,,
+KB0011,마테잎추출물,Ilex Paraguariensis Leaf Extract,84082-59-7;73296-98-7,,0,,,,
+KB0012,마텔추출물,Myrtus Communis Extract,84082-67-7,,0,,,,
+KB0013,초마황추출물,Ephedra Sinica Extract,85940-38-1,,0,,,,
+KB0014,필리핀오렌지껍질추출물,Citrus Nobilis (Mandarin Orange) Peel Extract,84929-38-4 (generic);90063-83-5,,0,,,,
+KB0015,필리핀오렌지추출물,Citrus Nobilis (Mandarin Orange) Fruit Extract,84929-38-4 (generic),,0,,,,
+KB0017,망고스틴껍질추출물,Garcinia Mangostana Peel Extract,90045-25-3,,0,,,,
+KB0018,망고잎추출물,Mangifera Indica (Mango) Leaf Extract,90063-86-8 (generic),,0,,,,
+KB0019,구주물푸레잎추출물,Fraxinus Excelsior Leaf Extract,84625-28-5,,0,,,,
+KB0020,망고추출물,Mangifera Indica (Mango) Fruit Extract,90063-86-8,,0,,,,
+KB0021,메도우스위트꽃추출물,Spiraea Ulmaria Flower Extract,84775-57-5,,0,,,,
+KB0022,메도우스위트잎추출물,Spiraea Ulmaria Leaf Extract,84775-57-5,,0,,,,
+KB0023,메도우스위트추출물,Spiraea Ulmaria Extract,84775-57-5,,0,,,,
+KB0024,우단담배풀추출물,Verbascum Thapsus Extract,84012-25-9;90064-13-4,,0,,,,
+KB0025,구주소나무잎추출물,Pinus Sylvestris Leaf Extract,84012-35-1,,0,,,,
+KB0026,암브레트추출물,Hibiscus Abelmoschus Extract,84455-19-6,,0,,,,
+KB0027,멜론추출물,Cucumis Melo (Melon) Fruit Extract,90063-94-8,,0,,,,
+KB0028,모란껍질추출물,Paeonia Suffruticosa Bark Extract,223747-88-4(generic),,0,,,,
+KB0029,모란뿌리추출물,Paeonia Suffruticosa Root Extract,223747-88-4(generic),,0,,,,
+KB0030,목향추출물,Inula Helenium Extract,84012-20-4,,0,,,,
+KB0031,중국당귀뿌리추출물,Angelica Polymorpha Sinensis Root Extract,299184-76-2;308068-61-3,,0,,,,
+KB0032,무추출물,Raphanus Sativus (Radish) Root Extract,84775-94-0,,0,,,,
+KB0034,무화과추출물,Ficus Carica (Fig) Fruit Extract,90028-74-3,,0,,,,
+KB0036,칡뿌리추출물,Pueraria Lobata Root Extract,223748-08-1(generic),,0,,,,
+KB0037,바닐라열매추출물,Vanilla Planifolia Fruit Extract,84650-63-5;8024-06-4,,0,,,,
+KB0038,불가리스매자뿌리추출물,Berberis Vulgaris Root Extract,8054-40-8;84649-92-3,,0,,,,
+KB0039,콘민트잎추출물,Mentha Arvensis Leaf Extract,90063-97-1,,0,,,,
+KB0040,코치닐선인장꽃추출물,Opuntia Coccinellifera Flower Extract,90082-21-6,,0,,,,
+KB0041,가는범꼬리뿌리추출물,Polygonum Bistorta Root Extract,84012-36-2,,0,,,,
+KB0042,아메리카베스우드꽃추출물,Tilia Americana Flower Extract,90063-53-9,,0,,,,
+KB0043,별꽃추출물,Stellaria Media (Chickweed) Extract,90131-34-3,,0,,,,
+KB0044,병풀잎추출물,Centella Asiatica Leaf Extract,84696-21-9(generic),,0,,,,
+KB0045,병풀추출물,Centella Asiatica Extract,84696-21-9;84776-24-9,,0,,,,
+KB0046,보리뿌리추출물,Hordeum Vulgare Root Extract,85251-64-5,,0,,,,
+KB0047,보리씨추출물,Hordeum Vulgare Seed Extract,85251-64-5,,0,,,,
+KB0048,보리잎추출물,Hordeum Vulgare Leaf Extract,85251-64-5,,0,,,,
+KB0049,발레이추출물,Hordeum Distichon (Barley) Extract,85251-64-5;94349-67-4,,0,,,,
+KB0050,복사나무꽃추출물,Prunus Persica (Peach) Flower Extract,84012-34-0(generic),,0,,,,
+KB0051,복사나무잎추출물,Prunus Persica (Peach) Leaf Extract,84012-34-0,,0,,,,
+KB0052,봉작고사리잎추출물,Adiantum Capillus-Veneris Leaf Extract,84649-72-9,,0,,,,
+KB0054,부처스브룸뿌리추출물,Ruscus Aculeatus Root Extract,84012-38-4,,0,,,,
+KB0057,분홍바늘꽃잎추출물,Epilobium Angustifolium Leaf Extract,90028-31-2(generic),,0,,,,
+KB0058,블루플래그아이리스추출물,Iris Versicolor Extract,90045-93-5,,0,,,,
+KB0059,검은뽕나무잎추출물,Morus Nigra Leaf Extract,90064-11-2,,0,,,,
+KB0062,비터오렌지껍질추출물,Citrus Aurantium Amara (Bitter Orange) Peel Extract,72968-50-4,,0,,,,
+KB0063,사탕무뿌리추출물,Beta Vulgaris (Beet) Root Extract,89957-89-1;89957-90-4,,0,,,,
+KB0064,비파나무잎추출물,Eriobotrya Japonica Leaf Extract,91770-19-3,,0,,,,
+KB0066,빌베리열매추출물,Vaccinium Myrtillus Fruit Extract,84082-34-8,,0,,,,
+KB0067,사과나무잎추출물,Pyrus Malus (Apple) Leaf Extract,85251-63-4;89957-48-2,85251-63-4,1,168266297,C59H102O4,"bis(6,6-dimethyl-1'-propan-2-ylspiro[bicyclo[3.1.1]heptane-2,3'-cyclobutane]-1'-ol);1'-propan-2-ylspiro[bicyclo[3.3.1]nonane-9,3'-cyclobutane]-1'-ol;1'-propan-2-ylspiro[bicyclo[2.2.2]octane-2,3'-cyclobutane]-1'-ol",CC(C)C1(CC2(C1)CCC3CC2C3(C)C)O.CC(C)C1(CC2(C1)CCC3CC2C3(C)C)O.CC(C)C1(CC2(C1)CC3CCC2CC3)O.CC(C)C1(CC2(C1)C3CCCC2CCC3)O
+KB0068,사발팜열매추출물,Serenoa Serrulata Fruit Extract,84604-15-9,,0,,,,
+KB0069,야생딸기추출물,Fragaria Vesca (Strawberry) Fruit Extract,84929-78-2,,0,,,,
+KB0070,비타민나무열매추출물,Hippophae Rhamnoides Fruit Extract,90106-68-6,,0,,,,
+KB0071,살구추출물,Prunus Armeniaca (Apricot) Fruit Extract,68650-44-2,,0,,,,
+KB0072,삼색제비꽃추출물,Viola Tricolor Extract,84012-42-0,,0,,,,
+KB0073,새삼씨추출물,Cuscuta Japonica Seed Extract,89998-10-7,,0,,,,
+KB0074,생강추출물,Zingiber Officinale (Ginger) Root Extract,84696-15-1,84696-15-1,1,6850776,C35H52O6,(E)-1-(4-hydroxy-3-methoxyphenyl)dec-4-en-3-one;1-(4-hydroxy-3-methoxyphenyl)-5-methyldecan-3-one,CCCCC/C=C/C(=O)CCC1=CC(=C(C=C1)O)OC.CCCCCC(C)CC(=O)CCC1=CC(=C(C=C1)O)OC
+KB0078,서양민들레잎추출물,Taraxacum Officinale (Dandelion) Leaf Extract,68990-74-9,,0,,,,
+KB0079,서양배추출물,Pyrus Communis (Pear) Fruit Extract,90082-43-2,,0,,,,
+KB0080,서양벌노랑이꽃추출물,Lotus Corniculatus Flower Extract,84696-24-2,,0,,,,
+KB0081,서양산사자추출물,Crataegus Oxyacantha Extract,84603-61-2,,0,,,,
+KB0082,검은서양송로추출물,Tuber Melanosporum Extract,85085-76-3,,0,,,,
+KB0084,서양자두추출물,Prunus Domestica Fruit Extract,90082-87-4,,0,,,,
+KB0085,프로방스장미꽃추출물,Rosa Centifolia Flower Extract,84604-12-6,,0,,,,
+KB0086,서양톱풀추출물,Achillea Millefolium Extract,84082-83-7,,0,,,,
+KB0088,석류나무껍질추출물,Punica Granatum Bark Extract,84961-57-9,,0,,,,
+KB0089,석류추출물,Punica Granatum Fruit Extract,84961-57-9,,0,,,,
+KB0091,타임잎추출물,Thymus Vulgaris (Thyme) Leaf Extract,84650-52-2;84929-51-1,,0,,,,
+KB0092,타임추출물,Thymus Vulgaris (Thyme) Extract,84650-52-2;84929-51-1,,0,,,,
+KB0093,나이트블루밍세레우스꽃추출물,Cereus Grandiflorus (Cactus) Flower Extract,8007-78-1,,0,,,,
+KB0094,보검선인장줄기추출물,Opuntia Ficus-Indica Stem Extract,90082-21-6,,0,,,,
+KB0095,보검선인장추출물,Opuntia Ficus-Indica Extract,90082-21-6,,0,,,,
+KB0096,설탕단풍추출물,Acer Saccharum (Sugar Maple) Extract,91770-22-8,,0,,,,
+KB0097,레이디스맨틀추출물,Alchemilla Vulgaris Extract,84695-94-3,,0,,,,
+KB0098,세네가뿌리추출물,Polygala Senega Root Extract,8057-58-7;90082-95-4,,0,,,,
+KB0099,여름세이보리추출물,Satureja Hortensis Extract,84775-98-4,,0,,,,
+KB0100,살비아잎추출물,Salvia Officinalis (Sage) Leaf Extract,8022-56-8;84082-79-1,,0,,,,
+KB0101,쥐오줌풀뿌리추출물,Valeriana Fauriei Root Extract,8057-49-6,,0,,,,
+KB0102,아위뿌리추출물,Ferula Assa-Foetida Root Extract,90028-70-9,,0,,,,
+KB0103,연꽃꽃추출물,Nelumbium Speciosum Flower Extract,85085-51-4 (generic),,0,,,,
+KB0104,오이풀뿌리추출물,Poterium Officinale Root Extract,84787-71-3,,0,,,,
+KB0105,육계나무껍질추출물,Cinnamomum Cassia Bark Extract,84961-46-6,,0,,,,
+KB0106,은행나무잎추출물,Ginkgo Biloba Leaf Extract,90045-36-6,90045-36-6,1,17388989,C14H11N7O6S,"azane;3,5-dinitro-4-(1-phenyltetrazol-5-yl)sulfanylbenzoic acid",C1=CC=C(C=C1)N2C(=NN=N2)SC3=C(C=C(C=C3[N+](=O)[O-])C(=O)O)[N+](=O)[O-].N
+KB0107,피멘토열매추출물,Pimenta Officinalis (Pimento) Fruit Extract,84929-57-7,,0,,,,
+KB0108,홍삼추출물,Panax Ginseng Root Extract,72480-62-7;1449115-64-3,,0,,,,
+KB0110,회향열매추출물,Foeniculum Vulgare (Fennel) Fruit Extract,84625-39-8;85085-33-2,,0,,,,
+KB0111,고추추출물,Capsicum Annuum Extract,84625-29-6,,0,,,,
+KB0112,라즈베리추출물,Rubus Idaeus (Raspberry) Fruit Extract,84929-76-0,,0,,,,
+KB0113,콘두란고껍질추출물,Marsdenia Cundurango Bark Extract,84787-66-6,,0,,,,
+KB0114,서양민들레추출물,Taraxacum Officinale (Dandelion) Extract,68990-74-9,,0,,,,
+KB0115,소엽씨추출물,Perilla Frutescens Seed Extract,90082-61-4,,0,,,,
+KB0116,해안에린지움추출물,Eryngium Maritimum Extract,90028-44-7,,0,,,,
+KB0117,페루기네움철쭉꽃추출물,Rhododendron Ferrugineum Flower Extract,90106-21-1,,0,,,,
+KB0118,해안에린지움캘러스배양추출물,Eryngium Maritimum Callus Culture Extract,90028-44-7,,0,,,,
+KB0120,콘두란고뿌리추출물,Marsdenia Cundurango Root Extract,84787-66-6,,0,,,,
+KB0122,가시오갈피추출물,Acanthopanax Senticosus (Eleuthero) Extract,84696-12-8,,0,,,,
+KB0123,태산목꽃추출물,Magnolia Grandiflora Flower Extract,85085-47-8,,0,,,,
+KB0125,페퍼민트줄기추출물,Mentha Piperita (Peppermint) Stem Extract,84082-70-2 (generic),,0,,,,
+KB0126,베르가못캘러스추출물,Monarda Didyma Callus Extract,91722-89-3,,0,,,,
+KB0127,마시멜로꽃추출물,Althaea Officinalis Flower Extract,73049-65-7,,0,,,,
+KB0128,마리아나가문비나무껍질추출물,Picea Mariana Bark Extract,91722-19-9,,0,,,,
+KB0130,석류껍질추출물,Punica Granatum Peel Extract,84961-57-9 (generic),,0,,,,
+KB0131,히비스커스열매추출물,Hibiscus Sabdariffa Fruit Extract,84775-96-2,,0,,,,
+KB0132,큰노랑용담추출물,Gentiana Lutea Extract,72968-42-4;97676-22-7,,0,,,,
+KB0133,창질경이씨추출물,Plantago Lanceolata Seed Extract,85085-64-9,,0,,,,
+KB0134,스위트아몬드나무껍질추출물,Prunus Amygdalus Dulcis (Sweet Almond) Bark Extract,90320-37-9 (generic),,0,,,,
+KB0135,삼뿌리추출물,Cannabis Sativa Root Extract,89958-21-4 (generic),,0,,,,
+KB0136,프로방스장미줄기추출물,Rosa Centifolia Stem Extract,84604-12-6,,0,,,,
+KB0137,펠라르고니움 로세움잎추출물,Pelargonium Roseum Leaf Extract,90082-55-6,,0,,,,
+KB0138,안젤리카캘러스추출물,Angelica Archangelica Callus Extract,84775-41-7,,0,,,,
+KB0139,옻나무추출물,Rhus Verniciflua Extract,90028-66-3,,0,,,,
+KB0140,오미자가지추출물,Schisandra Chinensis Branch Extract,90028-66-3,,0,,,,
+KB0142,만다린나무추출물,Citrus Reticulata (Tangerine) Extract,8008-31-9,,0,,,,
+KB0145,카우슬립꽃추출물,Primula Veris Flower Extract,84787-68-8,,0,,,,
+KB0146,입술연지수선화캘러스추출물,Narcissus Poeticus Callus Extract,90064-26-9,,0,,,,
+KB0147,단삼잎추출물,Salvia Miltiorrhiza Leaf Extract,90106-50-6,,0,,,,
+KB0148,참식나무열매추출물,Neolitsea Sericea Fruit Extract,84837-05-8,,0,,,,
+KB0150,황차추출물,Camellia Sinensis Leaf Extract,84650-60-2,84650-60-2,1,1287,C22H18O11,"[5,7-dihydroxy-2-(3,4,5-trihydroxyphenyl)-3,4-dihydro-2H-chromen-3-yl] 3,4,5-trihydroxybenzoate",C1C(C(OC2=CC(=CC(=C21)O)O)C3=CC(=C(C(=C3)O)O)O)OC(=O)C4=CC(=C(C(=C4)O)O)O
+KB0151,블래더랙추출물,Fucus Vesiculosus Extract,84696-13-9,,0,,,,
+KB0152,명자나무씨추출물,Pyrus Cydonia Seed Extract,,,0,,,,
+KB0154,마텔오일,Myrtus Communis Oil,8008-46-6,,0,,,,
+KB0155,필리핀오렌지껍질 오일,Citrus Nobilis (Mandarin Orange) Peel Oil,84929-38-4 (generic);8008-31-9;84696-35-5,,0,,,,
+KB0156,몰약오일,Commiphora Myrrha Oil,8016-37-3,,0,,,,
+KB0157,미네랄오일,Mineral Oil,8012-95-1;8020-83-5;8042-47-5,8020-83-5,1,139291139,C55H88N7O17P3S-4,"[5-(6-aminopurin-9-yl)-4-hydroxy-2-[[[[3-hydroxy-2,2-dimethyl-4-oxo-4-[[3-oxo-3-(2-tetratriaconta-16,19,22,25,28-pentaenoylsulfanylethylamino)propyl]amino]butoxy]-oxidophosphoryl]oxy-oxidophosphoryl]oxymethyl]oxolan-3-yl] phosphate",CCCCCC=CCC=CCC=CCC=CCC=CCCCCCCCCCCCCCCC(=O)SCCNC(=O)CCNC(=O)C(C(C)(C)COP(=O)([O-])OP(=O)([O-])OCC1C(C(C(O1)N2C=NC3=C(N=CN=C32)N)O)OP(=O)([O-])[O-])O
+KB0159,바닐라열매오일,Vanilla Planifolia Fruit Oil,8024-06-4;84650-63-5,,0,,,,
+KB0160,양까막까치밥나무씨오일,Ribes Nigrum (Black Currant) Seed Oil,97676-19-2,,0,,,,
+KB0161,비타민나무오일,Hippophae Rhamnoides Oil,90106-68-6,,0,,,,
+KB0162,살구씨오일,Prunus Armeniaca (Apricot) Kernel Oil,68650-44-2;72869-69-3,,0,,,,
+KB0163,생강오일,Zingiber Officinale (Ginger) Root Oil,,,0,,,,
+KB0164,유채씨오일,Brassica Campestris (Rapeseed) Seed Oil,8002-13-9,,0,,,,
+KB0168,편백잎오일,Chamaecyparis Obtusa Leaf Oil,91745-97-0,,0,,,,
+KB0173,올스파이스열매오일,Pimenta Officinalis (Pimento) Fruit Oil,84929-57-7,,0,,,,
+KB0175,블랙라즈베리씨오일,Rubus Occidentalis Seed Oil,68915-99-1,,0,,,,
+KB0177,리날루리페라녹나무잎오일,Cinnamomum Camphora Linaloolifera Leaf Oil,92201-50-8;91745-89-0,,0,,,,
+KB0178,삼씨오일,Cannabis Sativa Seed Oil,8016-24-8,,0,,,,
+KB0179,류신,Leucine,328-39-2(DL-);61-90-5(L-),Leucine,1,6106,C6H13NO2,(2S)-2-amino-4-methylpentanoic acid,CC(C)C[C@@H](C(=O)O)N
+KB0180,리놀레닉애씨드,Linolenic Acid,463-40-1,463-40-1,1,5280934,C18H30O2,"(9Z,12Z,15Z)-octadeca-9,12,15-trienoic acid",CC/C=C\C/C=C\C/C=C\CCCCCCCC(=O)O
+KB0181,리놀레익애씨드,Linoleic Acid,342889-37-6;60-33-3,342889-37-6,1,5312457,C18H32O2,"(2E,4E)-octadeca-2,4-dienoic acid",CCCCCCCCCCCCC/C=C/C=C/C(=O)O
+KB0182,리보플라빈,Riboflavin,83-88-5,83-88-5,1,493570,C17H20N4O6,"7,8-dimethyl-10-[(2S,3S,4R)-2,3,4,5-tetrahydroxypentyl]benzo[g]pteridine-2,4-dione",CC1=CC2=C(C=C1C)N(C3=NC(=O)NC(=O)C3=N2)C[C@@H]([C@@H]([C@@H](CO)O)O)O
+KB0183,리파아제,Lipase,9001-62-1,9001-62-1,1,135534490,C11H9N3NaO2+,"sodium 4-(pyridin-2-yldiazenyl)benzene-1,3-diol",C1=CC=NC(=C1)N=NC2=C(C=C(C=C2)O)O.[Na+]
+KB0184,마그네슘글루코네이트,Magnesium Gluconate,3632-91-5,3632-91-5,1,11418570,C12H22MgO14,"magnesium bis((2R,3S,4R,5R)-2,3,4,5,6-pentahydroxyhexanoate)",C([C@H]([C@H]([C@@H]([C@H](C(=O)[O-])O)O)O)O)O.C([C@H]([C@H]([C@@H]([C@H](C(=O)[O-])O)O)O)O)O.[Mg+2]
+KB0185,마그네슘나이트레이트,Magnesium Nitrate,10377-60-3,10377-60-3,1,25212,MgN2O6,magnesium dinitrate,[N+](=O)([O-])[O-].[N+](=O)([O-])[O-].[Mg+2]
+KB0186,마그네슘락테이트,Magnesium Lactate,18917-93-6,18917-93-6,1,6536825,C6H10MgO6,magnesium bis(2-hydroxypropanoate),CC(C(=O)[O-])O.CC(C(=O)[O-])O.[Mg+2]
+KB0187,구아노신,Guanosine,118-00-3,118-00-3,1,135398635,C10H13N5O5,"2-amino-9-[(2R,3R,4S,5R)-3,4-dihydroxy-5-(hydroxymethyl)oxolan-2-yl]-1H-purin-6-one",C1=NC2=C(N1[C@H]3[C@@H]([C@@H]([C@H](O3)CO)O)O)N=C(NC2=O)N
+KB0188,마그네슘시트레이트,Magnesium Citrate,7779-25-1;6150-79-4;144-23-0,7779-25-1,7,6099959,C12H10Mg3O14,"trimagnesium bis(2-hydroxypropane-1,2,3-tricarboxylate)",C(C(=O)[O-])C(CC(=O)[O-])(C(=O)[O-])O.C(C(=O)[O-])C(CC(=O)[O-])(C(=O)[O-])O.[Mg+2].[Mg+2].[Mg+2]
+KB0189,마그네슘아스코빌포스페이트,Magnesium Ascorbyl Phosphate,113170-55-1;114040-31-2,113170-55-1,1,71587428,C12H12Mg3O18P2,"trimagnesium bis([(2R)-2-[(1S)-1,2-dihydroxyethyl]-3-oxido-5-oxo-2H-furan-4-yl] phosphate)",C([C@@H]([C@@H]1C(=C(C(=O)O1)OP(=O)([O-])[O-])[O-])O)O.C([C@@H]([C@@H]1C(=C(C(=O)O1)OP(=O)([O-])[O-])[O-])O)O.[Mg+2].[Mg+2].[Mg+2]
+KB0190,마그네슘아스파테이트,Magnesium Aspartate,1187-91-3 (DL-);18962-61-3 (L-);2068-80-6 (L-);52101-01-6 (DL-),Magnesium Aspartate,1,56841975,C8H20MgN2O12,magnesium;bis((2S)-2-amino-4-hydroxy-4-oxobutanoate);tetrahydrate,C([C@@H](C(=O)[O-])N)C(=O)O.C([C@@H](C(=O)[O-])N)C(=O)O.O.O.O.O.[Mg+2]
+KB0191,만니톨,Mannitol,87-78-5;69-65-8,87-78-5,1,6251,C6H14O6,"(2R,3R,4R,5R)-hexane-1,2,3,4,5,6-hexol",C([C@H]([C@H]([C@@H]([C@@H](CO)O)O)O)O)O
+KB0192,필리핀오렌지수,Citrus Nobilis (Mandarin Orange) Water,84929-38-4 (generic),,0,,,,
+KB0193,말토덱스트린,Maltodextrin,9050-36-6,,0,,,,
+KB0194,망고씨버터,Mangifera Indica (Mango) Seed Butter,90063-86-8 (generic),,0,,,,
+KB0195,망고즙,Mangifera Indica (Mango) Juice,90063-86-8,,0,,,,
+KB0196,메티오닌,Methionine,63-68-3;59-51-8;348-67-4(D-),63-68-3,1,6137,C5H11NO2S,(2S)-2-amino-4-methylsulfanylbutanoic acid,CSCC[C@@H](C(=O)O)N
+KB0199,메틸니코티네이트,Methyl Nicotinate,93-60-7,93-60-7,1,7151,C7H7NO2,methyl pyridine-3-carboxylate,COC(=O)C1=CN=CC=C1
+KB0201,메틸카프로에이트,Methyl Caproate,106-70-7,106-70-7,1,7824,C7H14O2,methyl hexanoate,CCCCCC(=O)OC
+KB0203,메틸펠라고네이트,Methyl Pelargonate,1731-84-6,1731-84-6,1,15606,C10H20O2,methyl nonanoate,CCCCCCCCC(=O)OC
+KB0205,멜리바이오스,Melibiose,585-99-9;5340-95-4,585-99-9,1,440658,C12H22O11,"(3R,4S,5S,6R)-6-[[(2S,3R,4S,5R,6R)-3,4,5-trihydroxy-6-(hydroxymethyl)oxan-2-yl]oxymethyl]oxane-2,3,4,5-tetrol",C([C@@H]1[C@@H]([C@@H]([C@H]([C@H](O1)OC[C@@H]2[C@H]([C@@H]([C@H](C(O2)O)O)O)O)O)O)O)O
+KB0207,무화과수,Ficus Carica (Fig) Fruit Water,90028-74-3,,0,,,,
+KB0208,미리스틸에틸헥사노에이트,Myristyl Ethylhexanoate,72201-45-7,72201-45-7,1,545679,C22H44O2,tetradecyl 2-ethylhexanoate,CCCCCCCCCCCCCCOC(=O)C(CC)CCCC
+KB0209,밀배아글리세라이즈,Wheat Germ Glycerides,68990-07-8,,0,,,,
+KB0210,귀리발효효소,Avena Sativa (Oat) Ferment Enzyme,,,0,,,,
+KB0211,바닐라열매수,Vanilla Planifolia Fruit Water,84650-63-5;8024-06-4,,0,,,,
+KB0212,바이오틴,Biotin,58-85-5,58-85-5,1,171548,C10H16N2O3S,"5-[(3aS,4S,6aR)-2-oxo-1,3,3a,4,6,6a-hexahydrothieno[3,4-d]imidazol-4-yl]pentanoic acid",C1[C@H]2[C@@H]([C@@H](S1)CCCCC(=O)O)NC(=O)N2
+KB0213,글라우신,Glaucine,475-81-0,475-81-0,1,16754,C21H25NO4,"(6aS)-1,2,9,10-tetramethoxy-6-methyl-5,6,6a,7-tetrahydro-4H-dibenzo[de,g]quinoline",CN1CCC2=CC(=C(C3=C2[C@@H]1CC4=CC(=C(C=C43)OC)OC)OC)OC
+KB0216,벤질니코티네이트,Benzyl Nicotinate,94-44-0,94-44-0,1,7191,C13H11NO2,benzyl pyridine-3-carboxylate,C1=CC=C(C=C1)COC(=O)C2=CN=CC=C2
+KB0217,글라이코젠,Glycogen,9005-79-2,9005-79-2,1,439177,C24H42O21,"(2S,3R,4S,5S,6R)-2-[[(2R,3S,4R,5R,6R)-4,5-dihydroxy-3-[(2R,3R,4S,5S,6R)-3,4,5-trihydroxy-6-(hydroxymethyl)oxan-2-yl]oxy-6-[(2R,3S,4R,5R,6S)-4,5,6-trihydroxy-2-(hydroxymethyl)oxan-3-yl]oxyoxan-2-yl]methoxy]-6-(hydroxymethyl)oxane-3,4,5-triol",C([C@@H]1[C@H]([C@@H]([C@H]([C@H](O1)OC[C@@H]2[C@H]([C@@H]([C@H]([C@H](O2)O[C@@H]3[C@H](O[C@@H]([C@@H]([C@H]3O)O)O)CO)O)O)O[C@@H]4[C@@H]([C@H]([C@@H]([C@H](O4)CO)O)O)O)O)O)O)O
+KB0218,복숭아즙,Prunus Persica (Peach) Juice,84012-34-0(generic),,0,,,,
+KB0219,부톡시에틸스테아레이트,Butoxyethyl Stearate,109-38-6,109-38-6,1,66058,C24H48O3,2-butoxyethyl octadecanoate,CCCCCCCCCCCCCCCCCC(=O)OCCOCCCC
+KB0220,부틸에틸프로판다이올,Butyl Ethyl Propanediol,115-84-4,115-84-4,1,61038,C9H20O2,"2-butyl-2-ethylpropane-1,3-diol",CCCCC(CC)(CO)CO
+KB0221,글라이콜다이스테아레이트,Glycol Distearate,627-83-8;91031-31-1,627-83-8,1,61174,C38H74O4,2-octadecanoyloxyethyl octadecanoate,CCCCCCCCCCCCCCCCCC(=O)OCCOC(=O)CCCCCCCCCCCCCCCCC
+KB0222,브로멜라인,Bromelain,9001-00-7;37189-34-7,,0,,,,
+KB0223,글라이콜스테아레이트,Glycol Stearate,111-60-4,111-60-4,1,24762,C20H40O3,2-hydroxyethyl octadecanoate,CCCCCCCCCCCCCCCCCC(=O)OCCO
+KB0224,비사보롤,Bisabolol,72691-24-8;23089-26-1;515-69-5,72691-24-8,1,10586,C15H26O,6-methyl-2-(4-methylcyclohex-3-en-1-yl)hept-5-en-2-ol,CC1=CCC(CC1)C(C)(CCC=C(C)C)O
+KB0225,비스나딘,Visnadine,477-32-7,477-32-7,1,442151,C21H24O7,"[(9R,10R)-10-acetyloxy-8,8-dimethyl-2-oxo-9,10-dihydropyrano[2,3-f]chromen-9-yl] (2R)-2-methylbutanoate",CC[C@@H](C)C(=O)O[C@@H]1[C@@H](C2=C(C=CC3=C2OC(=O)C=C3)OC1(C)C)OC(=O)C
+KB0227,사이아노코발아민,Cyanocobalamin,68-19-9,68-19-9,1,165339223,C63H88CoN14O14P,"cobalt(3+);[(2R,3S,5S)-5-(5,6-dimethylbenzimidazol-1-yl)-4-hydroxy-2-(hydroxymethyl)oxolan-3-yl] [(2R)-1-[3-[(1R,2R,3R,4Z,7S,9Z,12S,13S,14Z,17S,18S,19R)-2,13,18-tris(2-amino-2-oxoethyl)-7,12,17-tris(3-amino-3-oxopropyl)-3,5,8,8,13,15,18,19-octamethyl-2,7,12,17-tetrahydro-1H-corrin-21-id-3-yl]propanoylamino]propan-2-yl] phosphate;cyanide",CC1=CC2=C(C=C1C)N(C=N2)[C@@H]3C([C@@H]([C@H](O3)CO)OP(=O)([O-])O[C@H](C)CNC(=O)CC[C@@]\4([C@H]([C@@H]5[C@]6([C@@]([C@@H](C(=N6)/C(=C\7/[C@@]([C@@H](C(=N7)/C=C\8/C([C@@H](C(=N8)/C(=C4\[N-]5)/C)CCC(=O)N)(C)C)CCC(=O)N)(C)CC(=O)N)/C)CCC(=O)N)(C)CC(=O)N)C)CC(=O)N)C)O.[C-]#N.[Co+3]
+KB0228,글루카민,Glucamine,488-43-7,488-43-7,1,452501,C6H15NO5,"(2R,3R,4R,5S)-6-aminohexane-1,2,3,4,5-pentol",C([C@@H]([C@H]([C@@H]([C@@H](CO)O)O)O)O)N
+KB0230,사이클로테트라실록세인,Cyclotetrasiloxane,293-51-6;556-67-2,293-51-6,1,185471,H8O4Si4,"1,3,5,7,2,4,6,8-tetraoxatetrasilocane",O1[SiH2]O[SiH2]O[SiH2]O[SiH2]1
+KB0231,사이클로펜타실록세인,Cyclopentasiloxane,541-02-6,541-02-6,1,10913,C10H30O5Si5,"2,2,4,4,6,6,8,8,10,10-decamethyl-1,3,5,7,9,2,4,6,8,10-pentaoxapentasilecane",C[Si]1(O[Si](O[Si](O[Si](O[Si](O1)(C)C)(C)C)(C)C)(C)C)C
+KB0232,사이클로헥사실록세인,Cyclohexasiloxane,540-97-6,540-97-6,1,10911,C12H36O6Si6,"2,2,4,4,6,6,8,8,10,10,12,12-dodecamethyl-1,3,5,7,9,11-hexaoxa-2,4,6,8,10,12-hexasilacyclododecane",C[Si]1(O[Si](O[Si](O[Si](O[Si](O[Si](O1)(C)C)(C)C)(C)C)(C)C)(C)C)C
+KB0233,글루코노락톤,Gluconolactone,90-80-2,90-80-2,1,7027,C6H10O6,"(3R,4S,5S,6R)-3,4,5-trihydroxy-6-(hydroxymethyl)oxan-2-one",C([C@@H]1[C@H]([C@@H]([C@H](C(=O)O1)O)O)O)O
+KB0234,사코신,Sarcosine,107-97-1,107-97-1,1,1088,C3H7NO2,2-(methylamino)acetic acid,CNCC(=O)O
+KB0235,산소,Oxygen,7782-44-7,7782-44-7,1,977,O2,molecular oxygen,O=O
+KB0236,살리실릭애씨드,Salicylic Acid,69-72-7,69-72-7,1,338,C7H6O3,2-hydroxybenzoic acid,C1=CC=C(C(=C1)C(=O)O)O
+KB0238,서브틸리신,Subtilisin,,Subtilisin,1,57078918,C45H68N10O15,"3-[3,9-bis(2-amino-2-oxoethyl)-16-(1-hydroxyethyl)-19-(hydroxymethyl)-6-[(4-hydroxyphenyl)methyl]-13-octyl-2,5,8,11,15,18,21,24-octaoxo-1,4,7,10,14,17,20,23-octazabicyclo[23.3.0]octacosan-22-yl]propanoic acid",CCCCCCCCC1CC(=O)NC(C(=O)NC(C(=O)NC(C(=O)N2CCCC2C(=O)NC(C(=O)NC(C(=O)NC(C(=O)N1)C(C)O)CO)CCC(=O)O)CC(=O)N)CC3=CC=C(C=C3)O)CC(=O)N
+KB0239,글루코오스,Glucose,50-99-7 (D-);58367-01-4 (DL-);5996-10-1 (DL-);8029-43-4,Glucose,1,5793,C6H12O6,"(3R,4S,5S,6R)-6-(hydroxymethyl)oxane-2,3,4,5-tetrol",C([C@@H]1[C@H]([C@@H]([C@H](C(O1)O)O)O)O)O
+KB0240,글루코오스옥시다아제,Glucose Oxidase,9001-37-0,,0,,,,
+KB0241,글루쿠로노락톤,Glucuronolactone,32449-92-6,32449-92-6,1,92283,C6H8O6,"(2R)-2-[(2S,3R,4S)-3,4-dihydroxy-5-oxooxolan-2-yl]-2-hydroxyacetaldehyde",C(=O)[C@@H]([C@@H]1[C@@H]([C@@H](C(=O)O1)O)O)O
+KB0242,글루쿠로닉애씨드,Glucuronic Acid,576-37-4(DL-);6556-12-3(D-),Glucuronic Acid,1,94715,C6H10O7,"(2S,3S,4S,5R)-3,4,5,6-tetrahydroxyoxane-2-carboxylic acid",[C@@H]1([C@@H]([C@H](OC([C@@H]1O)O)C(=O)O)O)O
+KB0243,글루타믹애씨드,Glutamic Acid,56-86-0 (L-);617-65-2 (DL-);6899-05-4 (DL-);6893-26-1 (D-),Glutamic Acid,1,33032,C5H9NO4,(2S)-2-aminopentanedioic acid,C(CC(=O)O)[C@@H](C(=O)O)N
+KB0244,세럼알부민,Serum Albumin,871903-86-5;9006-53-5;9048-46-8,,0,,,,
+KB0245,글루타민,Glutamine,56-85-9(L-);6899-04-3(DL-),Glutamine,1,5961,C5H10N2O3,"(2S)-2,5-diamino-5-oxopentanoic acid",C(CC(=O)N)[C@@H](C(=O)O)N
+KB0246,세린,Serine,56-45-1(L-Form),Serine,1,5951,C3H7NO3,(2S)-2-amino-3-hydroxypropanoic acid,C([C@@H](C(=O)O)N)O
+KB0247,살비아잎수,Salvia Officinalis (Sage) Leaf Water,8022-56-8,,0,,,,
+KB0248,세틸리시놀레이트,Cetyl Ricinoleate,10401-55-5,10401-55-5,1,6437731,C34H66O3,"hexadecyl (Z,12R)-12-hydroxyoctadec-9-enoate",CCCCCCCCCCCCCCCCOC(=O)CCCCCCC/C=C\C[C@@H](CCCCCC)O
+KB0249,세틸에틸헥사노에이트,Cetyl Ethylhexanoate,59130-69-7,59130-69-7,1,42956,C24H48O2,hexadecyl 2-ethylhexanoate,CCCCCCCCCCCCCCCCOC(=O)C(CC)CCCC
+KB0250,에틸부틸아세틸아미노 프로피오네이트,Ethyl Butylacetylaminopropionate,52304-36-6,52304-36-6,1,104150,C11H21NO3,ethyl 3-[acetyl(butyl)amino]propanoate,CCCCN(CCC(=O)OCC)C(=O)C
+KB0252,은콜로이드,Colloidal Silver,7440-22-4;1191942-51-4 (hydrate),7440-22-4,1,23954,Ag,silver,[Ag]
+KB0253,트라이메틸벤조일 다이페닐포스핀옥사이드,Trimethylbenzoyl Diphenylphosphine Oxide,75980-60-8,75980-60-8,1,166480,C22H21O2P,"diphenylphosphoryl-(2,4,6-trimethylphenyl)methanone",CC1=CC(=C(C(=C1)C)C(=O)P(=O)(C2=CC=CC=C2)C3=CC=CC=C3)C
+KB0254,아이소프로필티오잔톤,Isopropyl Thioxanthone,5495-84-1,5495-84-1,1,79633,C16H14OS,2-propan-2-ylthioxanthen-9-one,CC(C)C1=CC2=C(C=C1)SC3=CC=CC=C3C2=O
+KB0255,다이메틸이미다졸리디논,Dimethyl Imidazolidinone,80-73-9,80-73-9,1,6661,C5H10N2O,"1,3-dimethylimidazolidin-2-one",CN1CCN(C1=O)C
+KB0256,아까시나무꽃수,Robinia Pseudoacacia Flower Water,89957-93-7,,0,,,,
+KB0258,미르센,Myrcene,123-35-3,123-35-3,1,31253,C10H16,"7-methyl-3-methylideneocta-1,6-diene",CC(=CCCC(=C)C=C)C
+KB0259,아세틸갈락토사민,Acetyl Galactosamine,1811-31-0,1811-31-0,1,35717,C8H15NO6,"N-[(3R,4R,5R,6R)-2,4,5-trihydroxy-6-(hydroxymethyl)oxan-3-yl]acetamide",CC(=O)N[C@@H]1[C@H]([C@H]([C@H](OC1O)CO)O)O
+KB0261,멘테인카복사미도 에틸아세테이트,Menthane Carboxamidoethyl Acetate,39668-74-1;68489-14-5,39668-74-1,1,11521869,C15H27NO3,ethyl 2-[(5-methyl-2-propan-2-ylcyclohexanecarbonyl)amino]acetate,CCOC(=O)CNC(=O)C1CC(CCC1C(C)C)C
+KB0262,살비아잎가루,Salvia Officinalis (Sage) Leaf Powder,84082-79-1 (generic),,0,,,,
+KB0263,폴리비닐리덴다이플루오라이드,Polyvinylidene Difluoride,24937-79-9,,0,,,,
+KB0265,레몬그라스잎수,Cymbopogon Citratus Leaf Water,89998-14-1,,0,,,,
+KB0266,에스쿨레틴,Esculetin,305-01-1,305-01-1,1,5281416,C9H6O4,"6,7-dihydroxychromen-2-one",C1=CC(=O)OC2=CC(=C(C=C21)O)O
+KB0269,보검선인장줄기,Opuntia Ficus-Indica Stem,90082-21-6,,0,,,,
+KB0270,니코틴아마이드모노뉴클레오타이드,Nicotinamide Mononucleotide,1094-61-7,1094-61-7,1,14180,C11H15N2O8P,"[(2R,3S,4R,5R)-5-(3-carbamoylpyridin-1-ium-1-yl)-3,4-dihydroxyoxolan-2-yl]methyl hydrogen phosphate",C1=CC(=C[N+](=C1)[C@H]2[C@@H]([C@@H]([C@H](O2)COP(=O)(O)[O-])O)O)C(=O)N
+KB0271,아이소부틸올리에이트,Isobutyl Oleate,10024-47-2,10024-47-2,1,6436361,C22H42O2,2-methylpropyl (Z)-octadec-9-enoate,CCCCCCCC/C=C\CCCCCCCC(=O)OCC(C)C
+KB0272,사프란암술머리추출물,Crocus Sativus Stigma Extract,,,0,,,,
+KB0273,글라이신아마이드에이치씨엘,Glycinamide HCl,1668-10-6,1668-10-6,1,2723639,C2H7ClN2O,2-aminoacetamide;hydrochloride,C(C(=O)N)N.Cl
+KB0274,보검선인장열매추출물,Opuntia Ficus-Indica Fruit Extract,,,0,,,,
+KB0275,바질잎추출물,Ocimum Basilicum (Basil) Leaf Extract,,,0,,,,
+KB0276,다이팔미토일글리세로포스포콜린,Dipalmitoyl Glycerophosphocholine,63-89-8,63-89-8,1,452110,C40H80NO8P,"[(2R)-2,3-di(hexadecanoyloxy)propyl] 2-(trimethylazaniumyl)ethyl phosphate",CCCCCCCCCCCCCCCC(=O)OC[C@H](COP(=O)([O-])OCC[N+](C)(C)C)OC(=O)CCCCCCCCCCCCCCC
+KB0277,디옥시콜릭애씨드,Deoxycholic Acid,83-44-3,83-44-3,1,222528,C24H40O4,"(4R)-4-[(3R,5R,8R,9S,10S,12S,13R,14S,17R)-3,12-dihydroxy-10,13-dimethyl-2,3,4,5,6,7,8,9,11,12,14,15,16,17-tetradecahydro-1H-cyclopenta[a]phenanthren-17-yl]pentanoic acid",C[C@H](CCC(=O)O)[C@H]1CC[C@@H]2[C@@]1([C@H](C[C@H]3[C@H]2CC[C@H]4[C@@]3(CC[C@H](C4)O)C)O)C
+KB0278,아이소보닐옥시에탄올,Isobornyloxyethanol,7070-15-7,7070-15-7,3,111255,C12H22O2,"2-[[(1S,2S,4S)-1,7,7-trimethyl-2-bicyclo[2.2.1]heptanyl]oxy]ethanol",C[C@]12CC[C@H](C1(C)C)C[C@@H]2OCCO
+KB0279,삼줄기추출물,Cannabis Sativa Stem Extract,89958-21-4,,0,,,,
+KB0280,부틸팔미테이트,Butyl Palmitate,111-06-8,111-06-8,1,8090,C20H40O2,butyl hexadecanoate,CCCCCCCCCCCCCCCC(=O)OCCCC
+KB0281,레코플라본,Recoflavone,203191-10-0;847909-44-8,203191-10-0,1,9952125,C20H18O8,"2-[2-(3,4-dimethoxyphenyl)-5-methoxy-4-oxochromen-7-yl]oxyacetic acid",COC1=C(C=C(C=C1)C2=CC(=O)C3=C(O2)C=C(C=C3OC)OCC(=O)O)OC
+KB0283,메코발라민,Mecobalamin,13422-55-4,13422-55-4,25,10898559,C63H91CoN13O14P,"carbanide;cobalt(3+);[(2R,3S,4R,5S)-5-(5,6-dimethylbenzimidazol-1-yl)-4-hydroxy-2-(hydroxymethyl)oxolan-3-yl] 1-[3-[(1R,2R,3R,5Z,7S,10Z,12S,13S,15Z,17S,18S,19R)-2,13,18-tris(2-amino-2-oxoethyl)-7,12,17-tris(3-amino-3-oxopropyl)-3,5,8,8,13,15,18,19-octamethyl-2,7,12,17-tetrahydro-1H-corrin-24-id-3-yl]propanoylamino]propan-2-yl phosphate",[CH3-].CC1=CC2=C(C=C1C)N(C=N2)[C@@H]3[C@@H]([C@@H]([C@H](O3)CO)OP(=O)([O-])OC(C)CNC(=O)CC[C@@]4([C@H]([C@@H]5[C@]6([C@@]([C@@H](/C(=C(/C7=N/C(=C\C8=N/C(=C(\C4=N5)/C)/[C@H](C8(C)C)CCC(=O)N)/[C@H]([C@]7(C)CC(=O)N)CCC(=O)N)\C)/[N-]6)CCC(=O)N)(C)CC(=O)N)C)CC(=O)N)C)O.[Co+3]
+KB0284,아시바트렙,Asivatrep,1005168-10-4,1005168-10-4,1,56649347,C21H22F5N3O3S,"(E)-N-[(1R)-1-[3,5-difluoro-4-(methanesulfonamido)phenyl]ethyl]-3-[2-propyl-6-(trifluoromethyl)-3-pyridinyl]prop-2-enamide",CCCC1=C(C=CC(=N1)C(F)(F)F)/C=C/C(=O)N[C@H](C)C2=CC(=C(C(=C2)F)NS(=O)(=O)C)F
+KB0286,아이소소바이드,Isosorbide,652-67-5,652-67-5,1,12597,C6H10O4,"(3S,3aR,6R,6aR)-2,3,3a,5,6,6a-hexahydrofuro[3,2-b]furan-3,6-diol",C1[C@H]([C@@H]2[C@H](O1)[C@H](CO2)O)O
+KB0287,메타크릴로일옥시에틸포스포릴콜,Methacryloyloxyethyl Phosphorylcholine,,,0,,,,
+KB0288,하이드록시메톡시페닐데칸온,Hydroxymethoxyphenyl Decanone,27113-22-0,27113-22-0,1,94378,C17H26O3,1-(4-hydroxy-3-methoxyphenyl)decan-3-one,CCCCCCCC(=O)CCC1=CC(=C(C=C1)O)OC
+KB0289,아미디노글라이신,Amidinoglycine,352-97-6,352-97-6,1,763,C3H7N3O2,2-(diaminomethylideneamino)acetic acid,C(C(=O)O)N=C(N)N
+KB0292,키토산에이치씨엘,Chitosan HCl,9012-76-4,Chitosan HCl,1,16213812,C12H24N2O9,"(2R,3S,4R,5R,6S)-5-amino-6-[(2R,3S,4R,5R,6R)-5-amino-4,6-dihydroxy-2-(hydroxymethyl)oxan-3-yl]oxy-2-(hydroxymethyl)oxane-3,4-diol",C([C@@H]1[C@H]([C@@H]([C@H]([C@@H](O1)O[C@@H]2[C@H](O[C@H]([C@@H]([C@H]2O)N)O)CO)N)O)O)O
+KB0293,스퍼미딘,Spermidine,124-20-9,124-20-9,1,1102,C7H19N3,"N'-(3-aminopropyl)butane-1,4-diamine",C(CCNCCCN)CN
+KB0296,네롤,Nerol,106-25-2,106-25-2,1,643820,C10H18O,"(2Z)-3,7-dimethylocta-2,6-dien-1-ol",CC(=CCC/C(=C\CO)/C)C
+KB0297,수박수,Citrullus Lanatus (Watermelon) Fruit Water,90244-99-8,,0,,,,
+KB0299,글라이콜라이드,Glycolide,502-97-6,502-97-6,1,65432,C4H4O4,"1,4-dioxane-2,5-dione",C1C(=O)OCC(=O)O1
+KB0301,카바밀글루타믹애씨드,Carbamylglutamic Acid,1188-38-1,1188-38-1,1,121396,C6H10N2O5,(2S)-2-(carbamoylamino)pentanedioic acid,C(CC(=O)O)[C@@H](C(=O)O)NC(=O)N
+KB0303,엄벨리페론,Umbelliferone,93-35-6,93-35-6,1,5281426,C9H6O3,7-hydroxychromen-2-one,C1=CC(=CC2=C1C=CC(=O)O2)O
+KB0304,아이소나이아신,Isoniacin,55-22-1,55-22-1,1,5922,C6H5NO2,pyridine-4-carboxylic acid,C1=CN=CC=C1C(=O)O
+KB0305,레스아세토페논,Resacetophenone,89-84-9,89-84-9,1,6990,C8H8O3,"1-(2,4-dihydroxyphenyl)ethanone",CC(=O)C1=C(C=C(C=C1)O)O
+KB0306,에틸라우로일알지네이트,Ethyl Lauroyl Arginate,48076-74-0,48076-74-0,1,188214,C20H40N4O3,ethyl (2S)-5-(diaminomethylideneamino)-2-(dodecanoylamino)pentanoate,CCCCCCCCCCCC(=O)N[C@@H](CCCN=C(N)N)C(=O)OCC
+KB0307,하이드록시페닐아미노피리딘 메톡시벤젠설폰아마이드,Hydroxyphenylaminopyridine Methoxybenzenesulfonamide,141430-65-1,141430-65-1,1,3035714,C18H17N3O4S,N-[2-(4-hydroxyanilino)-3-pyridinyl]-4-methoxybenzenesulfonamide,COC1=CC=C(C=C1)S(=O)(=O)NC2=C(N=CC=C2)NC3=CC=C(C=C3)O
+KB0308,프렌치로즈꽃 추출물,Rosa Gallica Flower Extract,,,0,,,,
+KB0310,미리스타민옥사이드,Myristamine Oxide,3332-27-2,3332-27-2,1,18739,C16H35NO,"N,N-dimethyltetradecan-1-amine oxide",CCCCCCCCCCCCCC[N+](C)(C)[O-]
+KB0311,미리스탈코늄클로라이드,Myristalkonium Chloride,139-08-2,139-08-2,1,8755,C23H42ClN,benzyl-dimethyl-tetradecylazanium chloride,CCCCCCCCCCCCCC[N+](C)(C)CC1=CC=CC=C1.[Cl-]
+KB0312,미리스틱애씨드,Myristic Acid,544-63-8,544-63-8,1,11005,C14H28O2,tetradecanoic acid,CCCCCCCCCCCCCC(=O)O
+KB0334,세트리모늄브로마이드,Cetrimonium Bromide,57-09-0,57-09-0,1,5974,C19H42BrN,hexadecyl(trimethyl)azanium bromide,CCCCCCCCCCCCCCCC[N+](C)(C)C.[Br-]
+KB0335,세트리모늄클로라이드,Cetrimonium Chloride,112-02-7,112-02-7,1,8154,C19H42ClN,hexadecyl(trimethyl)azanium chloride,CCCCCCCCCCCCCCCC[N+](C)(C)C.[Cl-]
+KB0336,세틸알코올,Cetyl Alcohol,36653-82-4,36653-82-4,1,2682,C16H34O,hexadecan-1-ol,CCCCCCCCCCCCCCCCO
+KB0338,소듐구아이아줄렌설포네이트,Sodium Guaiazulene Sulfonate,6223-35-4,6223-35-4,1,23669592,C15H17NaO3S,"sodium 3,8-dimethyl-5-propan-2-ylazulene-1-sulfonate",CC1=C2C(=CC(=C2C=C(C=C1)C(C)C)C)S(=O)(=O)[O-].[Na+]
+KB0341,라우라미노프로필렌글라이콜,Lauramino Propylene Glycol,821-91-0,821-91-0,1,102496,C15H33NO2,"3-(dodecylamino)propane-1,2-diol",CCCCCCCCCCCCNCC(CO)O
+KB0346,아라비안자스민꽃추출물,Jasminum Sambac (Jasmine) Flower Extract,91770-14-8,,0,,,,
+KB0347,치스투스 몬스펠리엔시스추출물,Cistus Monspeliensis Extract,93165-05-0,,0,,,,
+KB0348,미모사 테누이플로라나무껍질추출물,Mimosa Tenuiflora Bark Extract,93685-96-2,,0,,,,
+KB0349,미모사 테누이플로라잎추출물,Mimosa Tenuiflora Leaf Extract,93685-96-2,,0,,,,
+KB0351,서양산딸기추출물,Rubus Fruticosus (Blackberry) Fruit Extract,84787-69-9,,0,,,,
+KB0352,샤프란꽃추출물,Crocus Sativus Flower Extract,84604-17-1,,0,,,,
+KB0353,석류나무추출물,Punica Granatum Extract,84961-57-9,,0,,,,
+KB0354,울금뿌리추출물,Curcuma Longa (Turmeric) Root Extract,84775-52-0,,0,,,,
+KB0355,호두나무열매껍질추출물,Juglans Regia (Walnut) Shell Extract,84012-43-1,,0,,,,
+KB0356,호프콘추출물,Humulus Lupulus (Hops) Cone Extract,8016-25-9;8060-28-4,8060-28-4,1,23308253,C61H88O8,"3,5-dihydroxy-2-(3-methylbutanoyl)-4,6,6-tris(3-methylbut-2-enyl)cyclohexa-2,4-dien-1-one;(4E,8E)-4,8-dimethylbicyclo[7.2.0]undeca-1,4,8-triene;3,5,6-trihydroxy-4,6-bis(3-methylbut-2-enyl)-2-(4-methylpent-1-en-2-yl)cyclohexa-2,4-dien-1-one",C/C/1=C\2/CCC2=CC/C(=C/CC1)/C.CC(C)CC(=C)C1=C(C(=C(C(C1=O)(CC=C(C)C)O)O)CC=C(C)C)O.CC(C)CC(=O)C1=C(C(=C(C(C1=O)(CC=C(C)C)CC=C(C)C)O)CC=C(C)C)O
+KB0357,바닐라콩추출물,Vanilla Planifolia Bean Extract,8024-06-4;84650-63-5,,0,,,,
+KB0360,흰전나무잎추출물,Abies Alba Needle Extract,90028-76-5,,0,,,,
+KB0361,라다넘잔가지추출물,Cistus Ladaniferus Twig Extract,89997-74-0,,0,,,,
+KB0362,만수국꽃추출물,Tagetes patula flower extract,91722-29-1,,0,,,,
+KB0363,만수국아재비꽃추출물,Tagetes minuta Flower Extract,91770-75-1,,0,,,,
+KB0364,매스틱타임허브추출물,Thymus Mastichina Herb Extract,84837-14-9,,0,,,,
+KB0365,센티드제라늄잎추출물,Pelargonium Graveolens Leaf Extract,90082-51-2,,0,,,,
+KB0366,카나다발삼잎추출물,Abies Balsamea (Balsam Canada) Needle Extract,85085-34-3,,0,,,,
+KB0367,리씨열매오일,Litsea Cubeba Fruit Oil,68855-99-2,,0,,,,
+KB0368,구주소나무잎오일,Pinus Sylvestris Leaf Oil,8023-99-2,,0,,,,
+KB0369,콘민트오일,Mentha Arvensis Leaf Oil,90063-97-1(generic);68917-18-0,,0,,,,
+KB0370,살비아오일,Salvia Officinalis (Sage) Oil,8022-56-8;84776-73-8,,0,,,,
+KB0371,녹나무잎오일,Cinnamomum Camphora (Camphor) Leaf Oil,92201-50-8,,0,,,,
+KB0372,들깨잎오일,Perilla Frutescens Leaf Oil,90082-61-4,,0,,,,
+KB0373,클레리꽃오일,Salvia Sclarea Flower Oil,84775-83-7,,0,,,,
+KB0376,스페인오레가노허브오일,THYMUS CAPITATUS HERB OIL,90131-59-2,,0,,,,
+KB0377,라반딘허브오일,Lavandula Hybrida Herb Oil,91722-69-9,,0,,,,
+KB0378,스페니시세이지허브오일,Salvia lavandulifolia herb oil,90106-49-3,,0,,,,
+KB0379,비터오렌지오일 비터오렌지잎오일,Citrus Aurantium Amara (Bitter Orange) Oil Leaf Oil,,,0,,,,
+KB0381,펠라르고니움 로세움잎오일,Pelargonium Roseum Leaf Oil,90082-55-6,,0,,,,
+KB0383,아라비안자스민꽃오일,Jasminum Sambac (Jasmine) Flower Oil,91770-14-8,,0,,,,
+KB0385,무고소나무잔가지오일,Pinus Mugo Twig Oil,90082-72-7,,0,,,,
+KB0386,분비나무잎오일,Abies Sibirica Needle Oil,91697-89-1,,0,,,,
+KB0387,서양측백나무줄기오일,Thuja Occidentalis Stem Oil,90131-58-1,,0,,,,
+KB0388,유향나무 추출물,Boswellia Serrata Extract,,,0,,,,
+KB0390,셀필룸오일,Thymus Serpyllum Oil,84776-98-7,,0,,,,
+KB0394,타히티라임껍질오일,Citrus Latifolia Peel Oil,8008-26-2,,0,,,,
+KB0395,벤조인나무수지오일,Styrax Benzoin Resin Oil,84929-79-3;84696-18-4,,0,,,,
+KB0396,회향열매오일,Foeniculum Vulgare Fruit Oil,84625-39-8,,0,,,,
+KB0398,매스틱타임허브오일,Thymus Mastichina Herb Oil,84837-14-9,,0,,,,
+KB0400,리날룰,Linalool,78-70-6,78-70-6,1,6549,C10H18O,"3,7-dimethylocta-1,6-dien-3-ol",CC(=CCCC(C)(C=C)O)C
+KB0401,리날릴아세테이트,Linalyl Acetate,115-95-7,115-95-7,1,8294,C12H20O2,"3,7-dimethylocta-1,6-dien-3-yl acetate",CC(=CCCC(C)(C=C)OC(=O)C)C
+KB0402,리모넨,Limonene,68647-72-3 (generic);5989-27-5(D-);7705-13-7(D-);138-86-3 (DL-),Limonene,1,22311,C10H16,1-methyl-4-prop-1-en-2-ylcyclohexene,CC1=CCC(CC1)C(=C)C
+KB0403,구아이아줄렌,Guaiazulene,489-84-9,489-84-9,1,3515,C15H18,"1,4-dimethyl-7-propan-2-ylazulene",CC1=C2C=CC(=C2C=C(C=C1)C(C)C)C
+KB0404,말레익애씨드,Maleic Acid,110-16-7;6915-18-0,110-16-7,1,444266,C4H4O4,(Z)-but-2-enedioic acid,C(=C\C(=O)O)\C(=O)O
+KB0405,말릭애씨드,Malic Acid,636-61-3 (D-);6915-15-7;97-67-6 (L-),6915-15-7,1,525,C4H6O5,2-hydroxybutanedioic acid,C(C(C(=O)O)O)C(=O)O
+KB0408,메틸다이아이소프로필프로피온 아마이드,Methyl Diisopropyl Propionamide,51115-67-4,51115-67-4,1,65300,C10H21NO,"N,2,3-trimethyl-2-propan-2-ylbutanamide",CC(C)C(C)(C(C)C)C(=O)NC
+KB0409,메틸다이하이드로자스모네이트,Methyldihydrojasmonate,2630-39-9;24851-98-7,2630-39-9,1,1738124,C13H22O3,"methyl 2-[(1R,2R)-3-oxo-2-pentylcyclopentyl]acetate",CCCCC[C@@H]1[C@H](CCC1=O)CC(=O)OC
+KB0410,메틸벤조에이트,Methyl Benzoate,93-58-3,93-58-3,1,7150,C8H8O2,methyl benzoate,COC(=O)C1=CC=CC=C1
+KB0412,메틸살리실레이트,Methyl Salicylate,119-36-8,119-36-8,1,4133,C8H8O3,methyl 2-hydroxybenzoate,COC(=O)C1=CC=CC=C1O
+KB0413,메틸셀룰로오스,Methylcellulose,9004-67-5,,0,,,,
+KB0414,메틸아세테이트,Methyl Acetate,79-20-9,79-20-9,1,6584,C3H6O2,methyl acetate,CC(=O)OC
+KB0415,메틸안트라닐레이트,Methyl Anthranilate,134-20-3,134-20-3,1,8635,C8H9NO2,methyl 2-aminobenzoate,COC(=O)C1=CC=CC=C1N
+KB0417,메틸유제놀,Methyl Eugenol,93-15-2,93-15-2,1,7127,C11H14O2,"1,2-dimethoxy-4-prop-2-enylbenzene",COC1=C(C=C(C=C1)CC=C)OC
+KB0418,메틸파라벤,Methylparaben,99-76-3,99-76-3,1,7456,C8H8O3,methyl 4-hydroxybenzoate,COC(=O)C1=CC=C(C=C1)O
+KB0419,메틸페닐부탄올,Methyl Phenylbutanol,103-05-9,103-05-9,1,7632,C11H16O,2-methyl-4-phenylbutan-2-ol,CC(C)(CCC1=CC=CC=C1)O
+KB0420,멘톨,Menthol,1490-04-6;15356-70-4;2216-51-5;89-78-1,1490-04-6,1,1254,C10H20O,5-methyl-2-propan-2-ylcyclohexan-1-ol,CC1CCC(C(C1)O)C(C)C
+KB0421,멘틸살리실레이트,Menthyl Salicylate,89-46-3;109423-22-5,89-46-3,1,20055232,C17H24O3,"[(1R,2S,5R)-5-methyl-2-propan-2-ylcyclohexyl] 2-hydroxybenzoate",C[C@@H]1CC[C@H]([C@@H](C1)OC(=O)C2=CC=CC=C2O)C(C)C
+KB0422,벤조익애씨드,Benzoic Acid,65-85-0,65-85-0,1,243,C7H6O2,benzoic acid,C1=CC=C(C=C1)C(=O)O
+KB0423,벤질벤조에이트,Benzyl Benzoate,120-51-4,120-51-4,1,2345,C14H12O2,benzyl benzoate,C1=CC=C(C=C1)COC(=O)C2=CC=CC=C2
+KB0424,벤질살리실레이트,Benzyl Salicylate,118-58-1,118-58-1,1,8363,C14H12O3,benzyl 2-hydroxybenzoate,C1=CC=C(C=C1)COC(=O)C2=CC=CC=C2O
+KB0425,벤질신나메이트,Benzyl Cinnamate,103-41-3,103-41-3,1,5273469,C16H14O2,benzyl (E)-3-phenylprop-2-enoate,C1=CC=C(C=C1)COC(=O)/C=C/C2=CC=CC=C2
+KB0426,벤질알코올,Benzyl Alcohol,100-51-6,100-51-6,1,244,C7H8O,phenylmethanol,C1=CC=C(C=C1)CO
+KB0428,부틸메타크릴레이트,Butyl Methacrylate,97-88-1;44914-63-6,97-88-1,1,7354,C8H14O2,butyl 2-methylprop-2-enoate,CCCCOC(=O)C(=C)C
+KB0429,부틸페닐메틸프로피오날,Butylphenyl Methylpropional,80-54-6,80-54-6,1,228987,C14H20O,3-(4-tert-butylphenyl)-2-methylpropanal,CC(CC1=CC=C(C=C1)C(C)(C)C)C=O
+KB0430,글루코닉애씨드,Gluconic Acid,133-42-6;526-95-4,133-42-6,1,10690,C6H12O7,"(2R,3S,4R,5R)-2,3,4,5,6-pentahydroxyhexanoic acid",C([C@H]([C@H]([C@@H]([C@H](C(=O)O)O)O)O)O)O
+KB0431,생강수,Zingiber Officinale (Ginger) Water,84696-15-1,84696-15-1,1,6850776,C35H52O6,(E)-1-(4-hydroxy-3-methoxyphenyl)dec-4-en-3-one;1-(4-hydroxy-3-methoxyphenyl)-5-methyldecan-3-one,CCCCC/C=C/C(=O)CCC1=CC(=C(C=C1)O)OC.CCCCCC(C)CC(=O)CCC1=CC(=C(C=C1)O)OC
+KB0433,석시닉애씨드,Succinic Acid,110-15-6,110-15-6,1,1110,C4H6O4,butanedioic acid,C(CC(=O)O)C(=O)O
+KB0434,살비아수,Salvia Officinalis (Sage) Water,8022-56-8,,0,,,,
+KB0435,글루타티온,Glutathione,70-18-8,70-18-8,1,124886,C10H17N3O6S,(2S)-2-amino-5-[[(2R)-1-(carboxymethylamino)-1-oxo-3-sulfanylpropan-2-yl]amino]-5-oxopentanoic acid,C(CC(=O)N[C@@H](CS)C(=O)NCC(=O)O)[C@@H](C(=O)O)N
+KB0436,연꽃꽃수,Nelumbo Nucifera Flower Water,85085-51-4(generic),,0,,,,
+KB0437,아이소프로필알코올,Isopropyl Alcohol,67-63-0,67-63-0,1,3776,C3H8O,propan-2-ol,CC(C)O
+KB0438,테오브로민,Theobromine,83-67-0,83-67-0,1,5429,C7H8N4O2,"3,7-dimethylpurine-2,6-dione",CN1C=NC2=C1C(=O)NC(=O)N2C
+KB0439,라우랄데하이드,Lauraldehyde,112-54-9,112-54-9,1,8194,C12H24O,dodecanal,CCCCCCCCCCCC=O
+KB0441,노난알,Nonanal,124-19-6,124-19-6,1,31289,C9H18O,nonanal,CCCCCCCCC=O
+KB0445,운데카날,Undecanal,112-44-7,112-44-7,1,8186,C11H22O,undecanal,CCCCCCCCCCC=O
+KB0447,노네인,Nonane,111-84-2,111-84-2,1,8141,C9H20,nonane,CCCCCCCCC
+KB0450,아이소다이프렌,Isodiprene,13466-78-9,13466-78-9,1,26049,C10H16,"3,7,7-trimethylbicyclo[4.1.0]hept-3-ene",CC1=CCC2C(C1)C2(C)C
+KB0451,터피놀렌,Terpinolene,586-62-9,586-62-9,1,11463,C10H16,1-methyl-4-propan-2-ylidenecyclohexene,CC1=CCC(=C(C)C)CC1
+KB0452,아이소아밀살리실레이트,Isoamyl Salicylate,87-20-7,87-20-7,1,6874,C12H16O3,3-methylbutyl 2-hydroxybenzoate,CC(C)CCOC(=O)C1=CC=CC=C1O
+KB0453,알릴헵타노에이트,Allyl heptanoate,142-19-8,142-19-8,1,8878,C10H18O2,prop-2-enyl heptanoate,CCCCCCC(=O)OCC=C
+KB0454,메틸신나메이트,Methyl Cinnamate,103-26-4,103-26-4,1,637520,C10H10O2,methyl (E)-3-phenylprop-2-enoate,COC(=O)/C=C/C1=CC=CC=C1
+KB0456,에틸아이소발레레이트,Ethyl Isovalerate,108-64-5,108-64-5,1,7945,C7H14O2,ethyl 3-methylbutanoate,CCOC(=O)CC(C)C
+KB0457,에틸부티레이트,Ethyl Butyrate,105-54-4,105-54-4,1,7762,C6H12O2,ethyl butanoate,CCCC(=O)OCC
+KB0458,옥탄알,Octanal,124-13-0,124-13-0,1,454,C8H16O,octanal,CCCCCCCC=O
+KB0459,로디놀,Rhodinol,6812-78-8,6812-78-8,1,81263,C10H20O,"(3S)-3,7-dimethyloct-7-en-1-ol",C[C@@H](CCCC(=C)C)CCO
+KB0460,메틸바닐레이트,Methyl Vanillate,3943-74-6,3943-74-6,1,19844,C9H10O4,methyl 4-hydroxy-3-methoxybenzoate,COC1=C(C=CC(=C1)C(=O)OC)O
+KB0462,유향나무검수,Boswellia Carterii Gum Water,1491152-64-7;89957-98-2,,0,,,,
+KB0463,에틸살리실레이트,Ethyl Salicylate,118-61-6,118-61-6,1,8365,C9H10O3,ethyl 2-hydroxybenzoate,CCOC(=O)C1=CC=CC=C1O
+KB0466,염기성황색57호,CI 12719,68391-31-1,68391-31-1,1,94631,C19H22ClN5O,trimethyl-[3-[(3-methyl-5-oxo-1-phenyl-4H-pyrazol-4-yl)diazenyl]phenyl]azanium chloride,CC1=NN(C(=O)C1N=NC2=CC(=CC=C2)[N+](C)(C)C)C3=CC=CC=C3.[Cl-]
+KB0467,염기성적색76호,Basic Red 76,68391-30-0,68391-30-0,1,110099,C20H22ClN3O2,[7-hydroxy-8-[(2-methoxyphenyl)diazenyl]naphthalen-2-yl]-trimethylazanium chloride,C[N+](C)(C)C1=CC2=C(C=C1)C=CC(=C2N=NC3=CC=CC=C3OC)O.[Cl-]
+KB0468,염기성갈색16호,Basic Brown 16,26381-41-9,26381-41-9,1,117785,C19H21ClN4O,[8-[(4-aminophenyl)diazenyl]-7-hydroxynaphthalen-2-yl]-trimethylazanium chloride,C[N+](C)(C)C1=CC2=C(C=C1)C=CC(=C2N=NC3=CC=C(C=C3)N)O.[Cl-]
+KB0469,염기성청색99호,Basic Blue 99,68123-13-7,68123-13-7,1,93377,C19H20BrClN4O2,"[3-[(4,8-diamino-6-bromo-5-hydroxy-1-oxonaphthalen-2-ylidene)amino]phenyl]-trimethylazanium chloride",C[N+](C)(C)C1=CC=CC(=C1)N=C2C=C(C3=C(C2=O)C(=CC(=C3O)Br)N)N.[Cl-]
+KB0470,염기성자색2호,Basic Violet 2,3248-91-7?,Basic Violet 2,1,14454445,C22H24ClN3,"4-[(4-amino-3-methylphenyl)-(4-imino-3-methylcyclohexa-2,5-dien-1-ylidene)methyl]-2-methylaniline;hydrochloride",CC1=CC(=C(C2=CC(=C(C=C2)N)C)C3=CC(=C(C=C3)N)C)C=CC1=N.Cl
+KB0472,산성적색52호,Acid Red 52,3520-42-1,3520-42-1,1,9916275,C27H29N2NaO7S2,"sodium 4-[3-(diethylamino)-6-diethylazaniumylidenexanthen-9-yl]benzene-1,3-disulfonate",CCN(CC)C1=CC2=C(C=C1)C(=C3C=CC(=[N+](CC)CC)C=C3O2)C4=C(C=C(C=C4)S(=O)(=O)[O-])S(=O)(=O)[O-].[Na+]
+KB0488,피크라민산나트륨,Sodium Picramate,831-52-7,831-52-7,1,5362461,C6H4N3NaO5,"sodium 2-amino-4,6-dinitrophenolate",C1=C(C=C(C(=C1N)[O-])[N+](=O)[O-])[N+](=O)[O-].[Na+]
+KB0498,메틸메타크릴레이트크로스폴리머,Methyl Methacrylate Crosspolymer,25777-71-3,,0,,,,
+KB0499,발삼톨루수지,Myroxylon Balsamum (Balsam Tolu) Resin,8011-89-0;9000-64-0,,0,,,,
+KB0500,갈락토아라비난,Galactoarabinan,9036-66-2,,0,,,,
+KB0504,폴리에틸렌테레프탈레이트,Polyethylene Terephthalate,25038-59-9,,0,,,,
+KB0505,트라이메틸올프로판트라이아크릴레이트,Trimethylolpropane Triacrylate,15625-89-5,15625-89-5,1,27423,C15H20O6,"2,2-bis(prop-2-enoyloxymethyl)butyl prop-2-enoate",CCC(COC(=O)C=C)(COC(=O)C=C)COC(=O)C=C
+KB0506,다이에틸렌글라이콜다이메타크릴레이트,Diethylene Glycol Dimethacrylate,2358-84-1,2358-84-1,1,16891,C12H18O5,2-[2-(2-methylprop-2-enoyloxy)ethoxy]ethyl 2-methylprop-2-enoate,CC(=C)C(=O)OCCOCCOC(=O)C(=C)C
+KB0507,다이머로진,Dimer Rosin,65997-05-9,,0,,,,
+KB0509,다이메틸아크릴아마이드,Dimethylacrylamide,2680-03-7,2680-03-7,1,17587,C5H9NO,"N,N-dimethylprop-2-enamide",CN(C)C(=O)C=C
+KB0510,목서꽃추출물,Osmanthus Fragrans Flower Extract,92347-21-2,,0,,,,
+KB0511,벤조인나무수지추출물,Styrax Benzoin Resin Extract,84696-18-4;84929-79-3,,0,,,,
+KB0512,붉은토끼풀꽃추출물,Trifolium Pratense (Clover) Flower Extract,85085-25-2,85085-25-2,1,168266260,C18H26CoN2O4,3-[[2-[(2-acetyl-3-hydroxybut-2-enylidene)amino]cyclohexyl]iminomethyl]-4-hydroxypent-3-en-2-one;cobalt,CC(=C(C=NC1CCCCC1N=CC(=C(C)O)C(=O)C)C(=O)C)O.[Co]
+KB0513,블랙체리나무껍질추출물,Prunus Serotina (Wild Cherry) Bark Extract,8000-44-0;84604-07-9,,0,,,,
+KB0514,울금뿌리줄기오일,Curcuma Longa (Turmeric) Rhizome Oil,8024-37-1,,0,,,,
+KB0515,리날루리페라녹나무목부오일,Cinnamomum Camphora Linaloolifera Wood Oil,91745-89-0,,0,,,,
+KB0517,멘틸락테이트,Menthyl Lactate,59259-38-0,59259-38-0,1,2724573,C13H24O3,"[(1R,2S,5R)-5-methyl-2-propan-2-ylcyclohexyl] (2R)-2-hydroxypropanoate",C[C@@H]1CC[C@H]([C@@H](C1)OC(=O)[C@@H](C)O)C(C)C
+KB0518,바닐린,Vanillin,121-33-5,121-33-5,1,1183,C8H8O3,4-hydroxy-3-methoxybenzaldehyde,COC1=C(C=CC(=C1)C=O)O
+KB0519,벤즈알데하이드,Benzaldehyde,100-52-7,100-52-7,1,240,C7H6O,benzaldehyde,C1=CC=C(C=C1)C=O
+KB0520,메틸 페닐아세테이트 벤질아세테이트,Methyl Phenylacetate Benzyl Acetate,,,0,,,,
+KB0521,보르네올,Borneol,507-70-0,507-70-0,1,64685,C10H18O,"1,7,7-trimethylbicyclo[2.2.1]heptan-2-ol",CC1(C2CCC1(C(C2)O)C)C
+KB0522,편백수,Chamaecyparis Obtusa Water,91745-97-0,,0,,,,
+KB0523,아세틸세드렌,Acetyl Cedrene,32388-55-9,32388-55-9,1,16220111,C17H26O,"1-[(1R,2R,5S,7R)-2,6,6,8-tetramethyl-9-tricyclo[5.3.1.01,5]undec-8-enyl]ethanone",C[C@@H]1CC[C@@H]2[C@@]13C[C@H](C2(C)C)C(=C(C3)C(=O)C)C
+KB0524,아이소유제닐아세테이트,Isoeugenyl Acetate,93-29-8,93-29-8,1,7137,C12H14O3,(2-methoxy-4-prop-1-enylphenyl) acetate,CC=CC1=CC(=C(C=C1)OC(=O)C)OC
+KB0525,다이메틸페네틸아세테이트,Dimethyl Phenethyl Acetate,151-05-3,151-05-3,1,9024,C12H16O2,(2-methyl-1-phenylpropan-2-yl) acetate,CC(=O)OC(C)(C)CC1=CC=CC=C1
+KB0531,트라이메틸사이클로펜테닐메틸 아이소펜텐올,Trimethylcyclopentenyl Methylisopentenol,67801-20-1,67801-20-1,1,6437266,C14H24O,"(Z)-3-methyl-5-(2,2,3-trimethylcyclopent-3-en-1-yl)pent-4-en-2-ol",CC1=CCC(C1(C)C)/C=C\C(C)C(C)O
+KB0532,산탈올,Santalol,77-42-9(beta-);11031-45-1;115-71-9(alpha-),11031-45-1,6,12315259,C15H24O,"(E)-2-methyl-5-[(1S,2S,4R)-2-methyl-3-methylidene-2-bicyclo[2.2.1]heptanyl]pent-2-en-1-ol",C/C(=C\CC[C@]1([C@H]2CC[C@H](C2)C1=C)C)/CO
+KB0534,메틸타이로시네이트에이치씨엘,Methyl Tyrosinate HCl,3417-91-2,3417-91-2,1,76956,C10H14ClNO3,methyl (2S)-2-amino-3-(4-hydroxyphenyl)propanoate;hydrochloride,COC(=O)[C@H](CC1=CC=C(C=C1)O)N.Cl
+KB0539,글루코사민,Glucosamine,3416-24-8,3416-24-8,1,439213,C6H13NO5,"(3R,4R,5S,6R)-3-amino-6-(hydroxymethyl)oxane-2,4,5-triol",C([C@@H]1[C@H]([C@@H]([C@H](C(O1)O)N)O)O)O
+KB0540,세테아디모늄클로라이드,Ceteardimonium Chloride,92129-33-4,92129-33-4,1,118223326,C70H144ClN,dimethyl-di(tetratriacontan-16-yl)azanium chloride,CCCCCCCCCCCCCCCCCCC(CCCCCCCCCCCCCCC)[N+](C)(C)C(CCCCCCCCCCCCCCC)CCCCCCCCCCCCCCCCCC.[Cl-]
+KB0542,레드맹그로브추출물,Rhizophora Mangle Extract,90106-19-7(generic),,0,,,,
+KB0543,라우릴아민다이프로필렌다이아민,Laurylamine Dipropylenediamine,2372-82-9,2372-82-9,1,75407,C18H41N3,"N'-(3-aminopropyl)-N'-dodecylpropane-1,3-diamine",CCCCCCCCCCCCN(CCCN)CCCN
+KB0545,시엽감송뿌리오일,Nardostachys Jatamansi Root Oil,90064-28-1,,0,,,,
+KB0546,페오니딘클로라이드,Peonidin Chloride,134-01-0,134-01-0,1,164544,C16H13ClO6,"2-(4-hydroxy-3-methoxyphenyl)chromenylium-3,5,7-triol chloride",COC1=C(C=CC(=C1)C2=[O+]C3=CC(=CC(=C3C=C2O)O)O)O.[Cl-]
+KB0547,분꽃추출물,Mirabilis Jalapa Extract,91722-88-2(generic),,0,,,,
+KB0548,서던우드추출물,Artemisia Abrotanum Extract,89957-58-4,,0,,,,
+KB0549,보검선인장잎세포추출물,Opuntia Ficus-Indica Leaf Cell Extract,90082-21-6,,0,,,,
+KB0550,호프줄기추출물,Humulus Lupulus (Hops) Stem Extract,8016-25-9;8060-28-4,8060-28-4,1,23308253,C61H88O8,"3,5-dihydroxy-2-(3-methylbutanoyl)-4,6,6-tris(3-methylbut-2-enyl)cyclohexa-2,4-dien-1-one;(4E,8E)-4,8-dimethylbicyclo[7.2.0]undeca-1,4,8-triene;3,5,6-trihydroxy-4,6-bis(3-methylbut-2-enyl)-2-(4-methylpent-1-en-2-yl)cyclohexa-2,4-dien-1-one",C/C/1=C\2/CCC2=CC/C(=C/CC1)/C.CC(C)CC(=C)C1=C(C(=C(C(C1=O)(CC=C(C)C)O)O)CC=C(C)C)O.CC(C)CC(=O)C1=C(C(=C(C(C1=O)(CC=C(C)C)CC=C(C)C)O)CC=C(C)C)O
+KB0552,울금캘러스추출물,Curcuma Longa (Turmeric) Callus Extract,84775-52-0,,0,,,,
+KB0553,분꽃캘러스추출물,Mirabilis Jalapa Callus Extract,91722-88-2 (generic),,0,,,,
+KB0555,다이아몬드 더스트와 가루,Diamond Powder,7782-40-3,7782-40-3,1,5462310,C,methane,[C]
+KB0556,피페로닐릭애씨드,Piperonylic Acid,94-53-1,94-53-1,1,7196,C8H6O4,"1,3-benzodioxole-5-carboxylic acid",C1OC2=C(O1)C=C(C=C2)C(=O)O
+KB0557,토마티딘,Tomatidine,,Tomatidine,1,65576,C27H45NO2,"(1R,2S,4S,5'S,6S,7S,8R,9S,12S,13S,16S,18S)-5',7,9,13-tetramethylspiro[5-oxapentacyclo[10.8.0.02,9.04,8.013,18]icosane-6,2'-piperidine]-16-ol",C[C@H]1CC[C@]2([C@H]([C@H]3[C@@H](O2)C[C@@H]4[C@@]3(CC[C@H]5[C@H]4CC[C@@H]6[C@@]5(CC[C@@H](C6)O)C)C)C)NC1
+KB0558,보리지추출물,Borago Officinalis Extract,84012-16-8,,0,,,,
+KB0559,브로콜리싹추출물,Brassica Oleracea Italica (Broccoli) Sprout Extract,223749-36-8(generic),,0,,,,
+KB0560,보리지씨오일,Borago Officinalis Seed Oil,225234-12-8,,0,,,,
+KB0561,브라질넛씨오일,Bertholletia Excelsa Seed Oil,356065-50-4(generic),,0,,,,
+KB0562,브로콜리씨오일,Brassica Oleracea Italica (Broccoli) Seed Oil,223749-36-8(generic),,0,,,,
+KB0564,미리스틸네오펜타노에이트,Myristyl Neopentanoate,144610-93-5,144610-93-5,1,546238,C19H38O2,"tetradecyl 2,2-dimethylpropanoate",CCCCCCCCCCCCCCOC(=O)C(C)(C)C
+KB0565,미리스틸락테이트,Myristyl Lactate,1323-03-1,1323-03-1,1,64676,C17H34O3,tetradecyl 2-hydroxypropanoate,CCCCCCCCCCCCCCOC(=O)C(C)O
+KB0566,미리스틸알코올,Myristyl Alcohol,112-72-1,112-72-1,1,8209,C14H30O,tetradecan-1-ol,CCCCCCCCCCCCCCO
+KB0567,미리스틸프로피오네이트,Myristyl Propionate,6221-95-0,6221-95-0,1,22589,C17H34O2,tetradecyl propanoate,CCCCCCCCCCCCCCOC(=O)CC
+KB0568,벤질라우레이트,Benzyl Laurate,140-25-0,140-25-0,1,8791,C19H30O2,benzyl dodecanoate,CCCCCCCCCCCC(=O)OCC1=CC=CC=C1
+KB0569,부틸스테아레이트,Butyl Stearate,123-95-5,123-95-5,1,31278,C22H44O2,butyl octadecanoate,CCCCCCCCCCCCCCCCCC(=O)OCCCC
+KB0570,세틸아세테이트,Cetyl Acetate,629-70-9,629-70-9,1,12393,C18H36O2,hexadecyl acetate,CCCCCCCCCCCCCCCCOC(=O)C
+KB0571,세틸카프릴레이트,Cetyl Caprylate,29710-31-4,29710-31-4,1,448864,C24H48O2,hexadecyl octanoate,CCCCCCCCCCCCCCCCOC(=O)CCCCCCC
+KB0572,펜타에리스리틸로지네이트,Pentaerythrityl Rosinates,8050-26-8,,0,,,,
+KB0573,밀겨추출물,Triticum Vulgare (Wheat) Bran Extract,84012-44-2,,0,,,,
+KB0574,밀배아추출물,Triticum Vulgare (Wheat) Germ Extract,84012-44-2,,0,,,,
+KB0575,바오밥나무펄프추출물,Adansonia Digitata Pulp Extract,91745-12-9,,0,,,,
+KB0576,귀리커넬추출물,Avena Sativa (Oat) Kernel Extract,84012-26-0,,0,,,,
+KB0577,중국그라운드오키드구근추출물,Bletia Hyacinthina Bulb Extract,223748-10-5,,0,,,,
+KB0578,단향목부추출물,Santalum Album (Sandalwood) Wood Extract,84787-70-2,84787-70-2,1,13084,C14H10O4,4-(4-carboxyphenyl)benzoic acid,C1=CC(=CC=C1C2=CC=C(C=C2)C(=O)O)C(=O)O
+KB0579,알로에베라잎추출물,Aloe Barbadensis Leaf Extract,85507-69-3;94349-62-9,85507-69-3,1,5712222,C16H13NO3,(E)-1-(4-methylphenyl)-3-(3-nitrophenyl)prop-2-en-1-one,CC1=CC=C(C=C1)C(=O)/C=C/C2=CC(=CC=C2)[N+](=O)[O-]
+KB0581,무화과나무잎추출물,Ficus Carica (Fig) Leaf Extract,90028-74-3,,0,,,,
+KB0582,베티버뿌리오일,Vetiveria Zizanioides Root Oil,8016-96-4,,0,,,,
+KB0584,밀효소 분말,Wheat Enzyme Powder,,,0,,,,
+KB0585,귀리변성전분,Modified Oat Starch,,,0,,,,
+KB0586,발린,Valine,516-06-3 (DL-);640-68-6 (D-);72-18-4 (L-),Valine,1,6287,C5H11NO2,(2S)-2-amino-3-methylbutanoic acid,CC(C)[C@@H](C(=O)O)N
+KB0587,베이베리열매왁스,Myrica Cerifera (Bayberry) Fruit Wax,8038-77-5,,0,,,,
+KB0588,베타인,Betaine,107-43-7,107-43-7,1,247,C5H11NO2,2-(trimethylazaniumyl)acetate,C[N+](C)(C)CC(=O)[O-]
+KB0589,글라이신,Glycine,56-40-6,56-40-6,1,750,C2H5NO2,2-aminoacetic acid,C(C(=O)O)N
+KB0590,베헤닉애씨드,Behenic Acid,112-85-6,112-85-6,1,8215,C22H44O2,docosanoic acid,CCCCCCCCCCCCCCCCCCCCCC(=O)O
+KB0591,글라이콜,Glycol,107-21-1,107-21-1,1,174,C2H6O2,"ethane-1,2-diol",C(CO)O
+KB0592,덱스판테놀,Dexpanthenol,81-13-0,81-13-0,1,131204,C9H19NO4,"(2R)-2,4-dihydroxy-N-(3-hydroxypropyl)-3,3-dimethylbutanamide",CC(C)(CO)[C@H](C(=O)NCCCO)O
+KB0593,사쿠라네틴,Sakuranetin,2957-21-3;520-29-6,2957-21-3,1,73571,C16H14O5,"(2S)-5-hydroxy-2-(4-hydroxyphenyl)-7-methoxy-2,3-dihydrochromen-4-one",COC1=CC(=C2C(=O)C[C@H](OC2=C1)C3=CC=C(C=C3)O)O
+KB0594,말토스,Maltose,69-79-4;16984-36-4,69-79-4,1,439186,C12H22O11,"(2R,3S,4S,5R,6R)-2-(hydroxymethyl)-6-[(2R,3S,4R,5R)-4,5,6-trihydroxy-2-(hydroxymethyl)oxan-3-yl]oxyoxane-3,4,5-triol",C([C@@H]1[C@H]([C@@H]([C@H]([C@H](O1)O[C@@H]2[C@H](OC([C@@H]([C@H]2O)O)O)CO)O)O)O)O
+KB0596,서양산사자줄기추출물,Crataegus Oxyacantha Stem Extract,8057-51-0,,0,,,,
+KB0597,인삼꽃추출물,Panax Ginseng Flower Extract,72480-62-7;1449115-64-3,,0,,,,
+KB0598,보리싹추출물,Hordeum Vulgare Sprout Extract,85251-64-5,,0,,,,
+KB0600,실론시나몬나무껍질추출물,Cinnamomum Zeylanicum Bark Extract,84649-98-9,,0,,,,
+KB0601,망가니즈다이옥사이드,Manganese Dioxide,1313-13-9,1313-13-9,1,14801,MnO2,dioxomanganese,O=[Mn]=O
+KB0602,멜라토닌,Melatonin,73-31-4,73-31-4,1,896,C13H16N2O2,N-[2-(5-methoxy-1H-indol-3-yl)ethyl]acetamide,CC(=O)NCCC1=CNC2=C1C=C(C=C2)OC
+KB0603,미리세틴,Myricetin,529-44-2,529-44-2,1,5281672,C15H10O8,"3,5,7-trihydroxy-2-(3,4,5-trihydroxyphenyl)chromen-4-one",C1=C(C=C(C(=C1O)O)O)C2=C(C(=O)C3=C(C=C(C=C3O2)O)O)O
+KB0604,벤조구아나민,Benzoguanamine,91-76-9,91-76-9,1,7064,C9H9N5,"6-phenyl-1,3,5-triazine-2,4-diamine",C1=CC=C(C=C1)C2=NC(=NC(=N2)N)N
+KB0606,비에이치에이,BHA,25013-16-5,25013-16-5,1,8456,C11H16O2,2-tert-butyl-4-methoxyphenol,CC(C)(C)C1=C(C=CC(=C1)OC)O
+KB0607,비에이치티,BHT,128-37-0,128-37-0,1,31404,C15H24O,"2,6-ditert-butyl-4-methylphenol",CC1=CC(=C(C(=C1)C(C)(C)C)O)C(C)(C)C
+KB0608,다마스크장미꽃수,Rosa Damascena Flower Water,90106-38-0,,0,,,,
+KB0609,소듐포스피네이트,Sodium Phosphinate,10039-56-2;7681-53-0,10039-56-2,1,23708894,H2NaO3P,,O.[O-]P=O.[Na+]
+KB0611,트라이플루오로메틸 페네틸메살라진,Trifluoromethylphenethyl Mesalazine,927685-43-6,927685-43-6,1,16042343,C16H14F3NO3,2-hydroxy-5-[2-[4-(trifluoromethyl)phenyl]ethylamino]benzoic acid,C1=CC(=CC=C1CCNC2=CC(=C(C=C2)O)C(=O)O)C(F)(F)F
+KB0612,메틸퍼플루오로부틸에터,Methyl Perfluorobutyl Ether,163702-07-6,163702-07-6,1,164514,C5H3F9O,"1,1,1,2,2,3,3,4,4-nonafluoro-4-methoxybutane",COC(C(C(C(F)(F)F)(F)F)(F)F)(F)F
+KB0613,메틸퍼플루오로아이소부틸에터,Methyl Perfluoroisobutyl Ether,163702-08-7,163702-08-7,1,4156734,C5H3F9O,"2-[difluoro(methoxy)methyl]-1,1,1,2,3,3,3-heptafluoropropane",COC(C(C(F)(F)F)(C(F)(F)F)F)(F)F
+KB0614,메틸프로판다이올,Methylpropanediol,2163-42-0,2163-42-0,1,75103,C4H10O2,"2-methylpropane-1,3-diol",CC(CO)CO
+KB0615,메틸피롤리돈,Methyl Pyrrolidone,51013-18-4;872-50-4,51013-18-4,1,13387,C5H9NO,1-methylpyrrolidin-2-one,CN1CCCC1=O
+KB0616,부틸아세테이트,Butyl Acetate,123-86-4,123-86-4,1,31272,C6H12O2,butyl acetate,CCCCOC(=O)C
+KB0617,부틸알코올,n-Butyl Alcohol,71-36-3,71-36-3,1,263,C4H10O,butan-1-ol,CCCCO
+KB0621,클로로트라이플루오로프로펜,Chlorotrifluoropropene,102687-65-0,102687-65-0,1,5709018,C3H2ClF3,"(E)-1-chloro-3,3,3-trifluoroprop-1-ene",C(=C/Cl)\C(F)(F)F
+KB0622,자일릴페닐에탄,Xylyl Phenylethane,6196-95-8,6196-95-8,1,22570,C16H18,"1,2-dimethyl-4-(1-phenylethyl)benzene",CC1=C(C=C(C=C1)C(C)C2=CC=CC=C2)C
+KB0624,서틸레인,Sutilains,9001-92-7;12211-28-8,,0,,,,
+KB0625,세테아릴알코올,Cetearyl Alcohol,8005-44-5;67762-27-0,8005-44-5,1,62238,C34H72O2,hexadecan-1-ol;octadecan-1-ol,CCCCCCCCCCCCCCCCCCO.CCCCCCCCCCCCCCCCO
+KB0626,세라알바,Cera Alba,8012-89-3,,0,,,,
+KB0631,변성 에틸알코올,Alcohol Denat.,64-17-5,64-17-5,1,702,C2H6O,ethanol,CCO
+KB0632,부틸렌글라이콜,Butylene Glycol,107-88-0;6290-03-5,107-88-0,1,7896,C4H10O2,"butane-1,3-diol",CC(CCO)O
+KB0634,구아검,Cyamopsis Tetragonoloba (Guar) Gum,9000-30-0,,0,,,,
+KB0635,마그네슘클로라이드,Magnesium Chloride,7786-30-3;7791-18-6(hydrate),7786-30-3,1,5360315,Cl2Mg,magnesium dichloride,[Mg+2].[Cl-].[Cl-]
+KB0637,멜리식애씨드,Mellisic Acid,506-50-3;38232-01-8,506-50-3,1,10471,C30H60O2,triacontanoic acid,CCCCCCCCCCCCCCCCCCCCCCCCCCCCCC(=O)O
+KB0638,몬탄왁스,Montan Cera,8002-53-7,,0,,,,
+KB0641,디우탄검,Diutan Gum,125005-87-0,,0,,,,
+KB0642,밀전분,Triticum Vulgare (Wheat) Starch,9005-25-8,,0,,,,
+KB0643,베헨알코늄클로라이드,Behenalkonium Chloride,16841-14-8,16841-14-8,1,9805153,C31H58ClN,benzyl-docosyl-dimethylazanium chloride,CCCCCCCCCCCCCCCCCCCCCC[N+](C)(C)CC1=CC=CC=C1.[Cl-]
+KB0644,베헨트라이모늄메토설페이트,Behentrimonium Methosulfate,81646-13-1;241148-21-0,81646-13-1,1,157846,C26H57NO4S,docosyl(trimethyl)azanium;methyl sulfate,CCCCCCCCCCCCCCCCCCCCCC[N+](C)(C)C.COS(=O)(=O)[O-]
+KB0645,베헨트라이모늄클로라이드,Behentrimonium Chloride,17301-53-0,17301-53-0,1,3014969,C25H54ClN,docosyl(trimethyl)azanium chloride,CCCCCCCCCCCCCCCCCCCCCC[N+](C)(C)C.[Cl-]
+KB0646,벤잘코늄클로라이드,Benzalkonium Chloride,61789-71-7;68391-01-5;68424-85-1;8001-54-5;85409-22-9,8001-54-5,1,3014024,C22H40ClN,benzyl-dimethyl-tridecylazanium chloride,CCCCCCCCCCCCC[N+](C)(C)CC1=CC=CC=C1.[Cl-]
+KB0647,퍼플루오로트라이부틸아민,Perfluorotributylamine,311-89-7,311-89-7,1,9397,C12F27N,"1,1,2,2,3,3,4,4,4-nonafluoro-N,N-bis(1,1,2,2,3,3,4,4,4-nonafluorobutyl)butan-1-amine",C(C(C(F)(F)F)(F)F)(C(N(C(C(C(C(F)(F)F)(F)F)(F)F)(F)F)C(C(C(C(F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F
+KB0648,다이메틸이타코네이트,Dimethyl Itaconate,617-52-7,617-52-7,1,69240,C7H10O4,dimethyl 2-methylidenebutanedioate,COC(=O)CC(=C)C(=O)OC
+KB0649,다이에틸이타코네이트,Diethyl Itaconate,2409-52-1,2409-52-1,1,75481,C9H14O4,diethyl 2-methylidenebutanedioate,CCOC(=O)CC(=C)C(=O)OCC
+KB0650,마그네슘설페이트,Magnesium Sulfate,10034-99-8(heptahydrate);18939-43-0;7487-88-9,18939-43-0,1,24083,MgO4S,magnesium sulfate,[O-]S(=O)(=O)[O-].[Mg+2]
+KB0651,마그네슘스테아레이트,Magnesium Stearate,557-04-0,557-04-0,1,11177,C36H70MgO4,magnesium bis(octadecanoate),CCCCCCCCCCCCCCCCCC(=O)[O-].CCCCCCCCCCCCCCCCCC(=O)[O-].[Mg+2]
+KB0652,마그네슘실리케이트,Magnesium Silicate,1343-88-0,1343-88-0,1,72941442,MgO3Si,magnesium;tris(oxygen(2-));silicon(4+),[O-2].[O-2].[O-2].[Mg+2].[Si+4]
+KB0653,마그네슘카보네이트,Magnesium Carbonate,546-93-0;7757-69-9,546-93-0,1,11029,CMgO3,magnesium carbonate,C(=O)([O-])[O-].[Mg+2]
+KB0654,마그네슘카보네이트 하이드록사이드,Magnesium Carbonate Hydroxide,7760-50-1;39409-82-0;12125-28-9,7760-50-1,2,3084027,C4Mg4O12,tetramagnesium;tetracarbonate,C(=O)([O-])[O-].C(=O)([O-])[O-].C(=O)([O-])[O-].C(=O)([O-])[O-].[Mg+2].[Mg+2].[Mg+2].[Mg+2]
+KB0655,마그네슘트라이실리케이트,Magnesium Trisilicate,14987-04-3,14987-04-3,1,5311266,Mg2O8Si3,dimagnesium;dioxido-bis[[oxido(oxo)silyl]oxy]silane,[O-][Si](=O)O[Si]([O-])([O-])O[Si](=O)[O-].[Mg+2].[Mg+2]
+KB0656,벤토나이트,Bentonite,1302-78-9,,0,,,,
+KB0657,베르가모트오일,Citrus Aurantium Bergamia (Bergamot) Fruit Oil,68648-33-9;8007-75-8;85049-52-1,,0,,,,
+KB0659,마이카,Mica,12001-26-2,12001-26-2,1,131842327,Al6F2H2K2O22Si6,hexaaluminum;dipotassium;hexakis(dioxosilane);nonakis(oxygen(2-));difluoride;hydrate,O.[O-2].[O-2].[O-2].[O-2].[O-2].[O-2].[O-2].[O-2].[O-2].O=[Si]=O.O=[Si]=O.O=[Si]=O.O=[Si]=O.O=[Si]=O.O=[Si]=O.[F-].[F-].[Al+3].[Al+3].[Al+3].[Al+3].[Al+3].[Al+3].[K+].[K+]
+KB0660,망가니즈바이올렛,Manganese Violet,10101-66-3,10101-66-3,1,160915,H4MnNO7P2,azanium;manganese(3+);phosphonato phosphate,[NH4+].[O-]P(=O)([O-])OP(=O)([O-])[O-].[Mn+3]
+KB0661,비스머스옥시클로라이드,Bismuth Oxychloride,7787-59-9,7787-59-9,1,173065887,BiClO,oxobismuthanylium chloride,O=[Bi+].[Cl-]
+KB0662,비트루트레드,Beetroot Red,7659-95-2;89957-88-0;89957-89-1,7659-95-2,1,6540685,C24H26N2O13,"(2S)-4-[(E)-2-[(2S)-2-carboxy-6-hydroxy-5-[(2S,3R,4S,5S,6R)-3,4,5-trihydroxy-6-(hydroxymethyl)oxan-2-yl]oxy-2,3-dihydroindol-1-yl]ethenyl]-2,3-dihydropyridine-2,6-dicarboxylic acid",C1[C@H](N=C(C=C1/C=C/N2[C@@H](CC3=CC(=C(C=C32)O)O[C@H]4[C@@H]([C@H]([C@@H]([C@H](O4)CO)O)O)O)C(=O)O)C(=O)O)C(=O)O
+KB0664,녹색3호,Fast Green FCF,2353-45-9,2353-45-9,1,16887,C37H34N2Na2O10S3,"disodium;2-[[4-[ethyl-[(3-sulfonatophenyl)methyl]amino]phenyl]-[4-[ethyl-[(3-sulfonatophenyl)methyl]azaniumylidene]cyclohexa-2,5-dien-1-ylidene]methyl]-5-hydroxybenzenesulfonate",CCN(CC1=CC(=CC=C1)S(=O)(=O)[O-])C2=CC=C(C=C2)C(=C3C=CC(=[N+](CC)CC4=CC(=CC=C4)S(=O)(=O)[O-])C=C3)C5=C(C=C(C=C5)O)S(=O)(=O)[O-].[Na+].[Na+]
+KB0665,적색40호,Allura Red AC,25956-17-6,25956-17-6,1,33258,C18H14N2Na2O8S2,disodium;6-hydroxy-5-[(2-methoxy-5-methyl-4-sulfonatophenyl)diazenyl]naphthalene-2-sulfonate,CC1=CC(=C(C=C1S(=O)(=O)[O-])OC)N=NC2=C(C=CC3=C2C=CC(=C3)S(=O)(=O)[O-])O.[Na+].[Na+]
+KB0666,청색2호,Indigo Carmine,860-22-0,860-22-0,1,2723854,C16H8N2Na2O8S2,disodium;2-(3-hydroxy-5-sulfonato-1H-indol-2-yl)-3-oxoindole-5-sulfonate,C1=CC2=C(C=C1S(=O)(=O)[O-])C(=C(N2)C3=NC4=C(C3=O)C=C(C=C4)S(=O)(=O)[O-])O.[Na+].[Na+]
+KB0667,카본,Carbon,7440-44-0,7440-44-0,1,5462310,C,methane,[C]
+KB0672,등색401호,Orange no. 401,6371-96-6,6371-96-6,1,95091,C18H18N4O5,2-[(4-methoxy-2-nitrophenyl)diazenyl]-N-(2-methylphenyl)-3-oxobutanamide,CC1=CC=CC=C1NC(=O)C(C(=O)C)N=NC2=C(C=C(C=C2)OC)[N+](=O)[O-]
+KB0674,피그먼트자색23호,Pigment Violet 23,6358-30-1,6358-30-1,1,61387,C34H22Cl2N4O2,"2,20-dichloro-14,32-diethyl-18,36-dioxa-4,14,22,32-tetrazanonacyclo[19.15.0.03,19.05,17.07,15.08,13.023,35.025,33.026,31]hexatriaconta-1,3,5(17),6,8,10,12,15,19,21,23(35),24,26,28,30,33-hexadecaene",CCN1C2=CC=CC=C2C3=CC4=C(C=C31)OC5=C(C6=NC7=C(C=C8C(=C7)C9=CC=CC=C9N8CC)OC6=C(C5=N4)Cl)Cl
+KB0675,피그먼트녹색7호,Pigment Green 7,1328-53-6,1328-53-6,1,169274,C32HCl15CuN8,"copper 5,6,7,8,15,16,17,23,24,25,26,32,33,34,35-pentadecachloro-2,11,20,29,37,38-hexaza-39,40-diazanidanonacyclo[28.6.1.13,10.112,19.121,28.04,9.013,18.022,27.031,36]tetraconta-1,3,5,7,9,11,13,15,17,19,21(38),22(27),23,25,28,30(37),31(36),32,34-nonadecaene",C1=C2C(=C(C(=C1Cl)Cl)Cl)C3=NC4=NC(=NC5=NC(=NC6=C7C(=C([N-]6)N=C2[N-]3)C(=C(C(=C7Cl)Cl)Cl)Cl)C8=C5C(=C(C(=C8Cl)Cl)Cl)Cl)C9=C4C(=C(C(=C9Cl)Cl)Cl)Cl.[Cu+2]
+KB0676,카우슬립추출물,Primula Veris Extract,84787-68-8,,0,,,,
+KB0677,에틸라우로일알지네이트아세틸 페녹사이드,Ethyl Lauroyl Arginate Acetylphenoxide,2851430-82-3,,0,,,,
+KB0678,편백잎수,Chamaecyparis Obtusa Leaf Water,91745-97-0,,0,,,,
+KB0679,매스틱잎추출물,Pistacia Lentiscus (Mastic) Leaf Extract,90082-82-9,,0,,,,
+KB0680,빌리루빈,Bilirubin,635-65-4,635-65-4,1,5280352,C33H36N4O6,3-[2-[[3-(2-carboxyethyl)-5-[(Z)-(3-ethenyl-4-methyl-5-oxopyrrol-2-ylidene)methyl]-4-methyl-1H-pyrrol-2-yl]methyl]-5-[(Z)-(4-ethenyl-3-methyl-5-oxopyrrol-2-ylidene)methyl]-4-methyl-1H-pyrrol-3-yl]propanoic acid,CC1=C(NC(=C1CCC(=O)O)CC2=C(C(=C(N2)/C=C\3/C(=C(C(=O)N3)C)C=C)C)CCC(=O)O)/C=C\4/C(=C(C(=O)N4)C=C)C
+KB0681,카카두플럼씨추출물,Terminalia Ferdinandiana Seed Extract,1542150-12-8,,0,,,,
+KB0682,블랙손꽃추출물,Prunus Spinosa Flower Extract,90105-94-5,,0,,,,
+KB0683,블랙손열매추출물,Prunus Spinosa Fruit Extract,90105-94-5,,0,,,,
+KB0684,콘나루스세미데칸드루스잎추출물,Connarus Semidecandrus Leaf Extract,84837-04-7,,0,,,,
+KB0685,에피카테킨,Epicatechin,490-46-0;17334-50-8,490-46-0,1,72276,C15H14O6,"(2R,3R)-2-(3,4-dihydroxyphenyl)-3,4-dihydro-2H-chromene-3,5,7-triol",C1[C@H]([C@H](OC2=CC(=CC(=C21)O)O)C3=CC(=C(C=C3)O)O)O
+KB0686,밀추출물,Triticum Aestivum (Wheat) Seed Extract,84012-44-2,,0,,,,
+KB0687,귤껍질추출물,Citrus Unshiu Peel Extract,98106-71-9 (generic),,0,,,,
+KB0688,백산차추출물,Ledum Palustre Extract,90063-39-1,,0,,,,
+KB0689,버독뿌리추출물,Arctium Majus Root Extract,84649-87-6,,0,,,,
+KB0690,베르가모트추출물,Citrus Aurantium Bergamia (Bergamot) Fruit Extract,89957-91-5,,0,,,,
+KB0691,베르게닌,Bergenin,477-90-7,477-90-7,1,66065,C14H16O9,"(2R,3S,4S,4aR,10bS)-3,4,8,10-tetrahydroxy-2-(hydroxymethyl)-9-methoxy-3,4,4a,10b-tetrahydro-2H-pyrano[3,2-c]isochromen-6-one",COC1=C(C=C2C(=C1O)[C@H]3[C@@H]([C@H]([C@@H]([C@H](O3)CO)O)O)OC2=O)O
+KB0693,신코닌,Cinchonine,118-10-5,118-10-5,1,90454,C19H22N2O,"(S)-[(2R,4S,5R)-5-ethenyl-1-azabicyclo[2.2.2]octan-2-yl]-quinolin-4-ylmethanol",C=C[C@H]1CN2CC[C@H]1C[C@@H]2[C@H](C3=CC=NC4=CC=CC=C34)O
+KB0694,베이잎오일,Pimenta Acris (Bay) Leaf Oil,8006-78-8,,0,,,,
+KB0696,만델릭애씨드,Mandelic Acid,17199-29-0;90-64-2,17199-29-0,1,439616,C8H8O3,(2S)-2-hydroxy-2-phenylacetic acid,C1=CC=C(C=C1)[C@@H](C(=O)O)O
+KB0698,마그네슘알루미늄실리케이트,Magnesium Aluminum Silicate,12199-37-0;12511-31-8,Magnesium Aluminum Silicate,1,3084116,AlMgO4Si+,aluminum;magnesium;silicate,[O-][Si]([O-])([O-])[O-].[Mg+2].[Al+3]
+KB0699,마그네슘옥사이드,Magnesium Oxide,1309-48-4,1309-48-4,1,14792,MgO,oxomagnesium,O=[Mg]
+KB0700,마그네슘하이드록사이드,Magnesium Hydroxide,1309-42-8,1309-42-8,1,73981,H2MgO2,magnesium dihydroxide,[OH-].[OH-].[Mg+2]
+KB0701,마이크로크리스탈린셀룰로오스,Microcrystalline Cellulose,9004-34-6,,0,,,,
+KB0704,다이아이소노닐프탈레이트,Diisononyl Phthalate,68515-48-0;28553-12-0,28553-12-0,1,590836,C26H42O4,"bis(7-methyloctyl) benzene-1,2-dicarboxylate",CC(C)CCCCCCOC(=O)C1=CC=CC=C1C(=O)OCCCCCCC(C)C
+KB0705,규조토,Diatomaceous Earth,68855-54-9;61790-53-2,,0,,,,
+KB0706,호모시스테익애씨드,Homocysteic Acid,1001-13-4;504-33-6,1001-13-4,1,92117,C4H9NO5S,2-amino-4-sulfobutanoic acid,C(CS(=O)(=O)O)C(C(=O)O)N
+KB0707,복숭아추출물,Prunus Persica (Peach) Fruit Extract,84012-34-0,,0,,,,
+KB0708,사카린,Saccharin,,Saccharin,1,5143,C7H5NO3S,"1,1-dioxo-1,2-benzothiazol-3-one",C1=CC=C2C(=C1)C(=O)NS2(=O)=O
+KB0709,수크랄로오스,Sucralose,56038-13-2,56038-13-2,1,71485,C12H19Cl3O8,"(2R,3R,4R,5R,6R)-2-[(2R,3S,4S,5S)-2,5-bis(chloromethyl)-3,4-dihydroxyoxolan-2-yl]oxy-5-chloro-6-(hydroxymethyl)oxane-3,4-diol",C([C@@H]1[C@@H]([C@@H]([C@H]([C@H](O1)O[C@]2([C@H]([C@@H]([C@H](O2)CCl)O)O)CCl)O)O)Cl)O
+KB0710,루부소사이드,Rubusoside,64849-39-4,64849-39-4,1,24721373,C32H50O13,"[(2S,3R,4S,5S,6R)-3,4,5-trihydroxy-6-(hydroxymethyl)oxan-2-yl] (1R,4S,5R,9S,10R,13S)-5,9-dimethyl-14-methylidene-13-[(2S,3R,4S,5S,6R)-3,4,5-trihydroxy-6-(hydroxymethyl)oxan-2-yl]oxytetracyclo[11.2.1.01,10.04,9]hexadecane-5-carboxylate",C[C@@]12CCC[C@@]([C@H]1CC[C@]34[C@H]2CC[C@](C3)(C(=C)C4)O[C@H]5[C@@H]([C@H]([C@@H]([C@H](O5)CO)O)O)O)(C)C(=O)O[C@H]6[C@@H]([C@H]([C@@H]([C@H](O6)CO)O)O)O
+KB0711,베헤닐알코올,Behenyl Alcohol,661-19-8,661-19-8,1,12620,C22H46O,docosan-1-ol,CCCCCCCCCCCCCCCCCCCCCCO
+KB0712,세레신 왁스,Ceresin,8001-75-0,,0,,,,
+KB0714,메틸에틸셀룰로오스,Methyl Ethylcellulose,9004-59-5,,0,,,,
+KB0716,암모늄에이엠피에스,Ammonium AMPS,58374-69-9,58374-69-9,1,6850854,C7H16N2O4S,azanium 2-methyl-2-(prop-2-enoylamino)propane-1-sulfonate,CC(C)(CS(=O)(=O)[O-])NC(=O)C=C.[NH4+]
+KB0723,베어베리잎추출물,Arctostaphylos Uva-Ursi Leaf Extract,84776-10-3,,0,,,,
+KB0724,베이베리열매추출물,Myrica Cerifera (Bayberry) Fruit Extract,84929-34-0,,0,,,,
+KB0725,바닐릴부틸에터,Vanillyl Butyl Ether,82654-98-6,82654-98-6,1,5084146,C12H18O3,4-(butoxymethyl)-2-methoxyphenol,CCCCOCC1=CC(=C(C=C1)O)OC
+KB0726,징크클로라이드하이드록사이드,Zinc Chloride Hydroxide,12167-79-2,12167-79-2,1,165362686,Cl2H10O9Zn5-2,tetrazinc;zinc;dichloride;octahydroxide;hydrate,O.[OH-].[OH-].[OH-].[OH-].[OH-].[OH-].[OH-].[OH-].[Cl-].[Cl-].[Zn].[Zn+2].[Zn+2].[Zn+2].[Zn+2]
+KB0727,멘틸안트라닐레이트,Menthyl Anthranilate,134-09-8,134-09-8,1,8633,C17H25NO2,(5-methyl-2-propan-2-ylcyclohexyl) 2-aminobenzoate,CC1CCC(C(C1)OC(=O)C2=CC=CC=C2N)C(C)C
+KB0735,부틸메톡시디벤조일메탄,Butyl Methoxydibenzoylmethane,70356-09-1,70356-09-1,1,51040,C20H22O3,"1-(4-tert-butylphenyl)-3-(4-methoxyphenyl)propane-1,3-dione",CC(C)(C)C1=CC=C(C=C1)C(=O)CC(=O)C2=CC=C(C=C2)OC
+KB0736,글라이콜살리실레이트,Glycol Salicylate,87-28-5,87-28-5,1,6880,C9H10O4,2-hydroxyethyl 2-hydroxybenzoate,C1=CC=C(C(=C1)C(=O)OCCO)O
+KB0737,마그네슘살리실레이트,Magnesium Salicylate,551-37-1;18917-89-0,18917-89-0,1,54684589,C14H10MgO6,magnesium bis(2-carboxyphenolate),C1=CC=C(C(=C1)C(=O)O)[O-].C1=CC=C(C(=C1)C(=O)O)[O-].[Mg+2]
+KB0738,메칠이소치아졸리논,Methylisothiazolinone,2682-20-4,2682-20-4,1,39800,C4H5NOS,"2-methyl-1,2-thiazol-3-one",CN1C(=O)C=CS1
+KB0739,메칠클로로이소치아졸리논,Methylchloroisothiazolinone,26172-55-4,26172-55-4,1,33344,C4H4ClNOS,"5-chloro-2-methyl-1,2-thiazol-3-one",CN1C(=O)C=C(S1)Cl
+KB0740,벤제토늄클로라이드,Benzethonium Chloride,121-54-0,121-54-0,1,8478,C27H42ClNO2,"benzyl-dimethyl-[2-[2-[4-(2,4,4-trimethylpentan-2-yl)phenoxy]ethoxy]ethyl]azanium chloride",CC(C)(C)CC(C)(C)C1=CC=C(C=C1)OCCOCC[N+](C)(C)CC2=CC=CC=C2.[Cl-]
+KB0741,부틸파라벤,Butylparaben,94-26-8,94-26-8,1,7184,C11H14O3,butyl 4-hydroxybenzoate,CCCCOC(=O)C1=CC=C(C=C1)O
+KB0745,칼슘살리실레이트,Calcium Salicylate,824-35-1,824-35-1,1,54684600,C14H10CaO6,calcium bis(2-carboxyphenolate),C1=CC=C(C(=C1)C(=O)O)[O-].C1=CC=C(C(=C1)C(=O)O)[O-].[Ca+2]
+KB0746,포타슘살리실레이트,Potassium Salicylate,578-36-9,578-36-9,1,23664627,C7H5KO3,potassium 2-hydroxybenzoate,C1=CC=C(C(=C1)C(=O)[O-])O.[K+]
+KB0747,포타슘설파이트,Potassium Sulfite,10117-38-1;23873-77-0,10117-38-1,1,24958,K2O3S,dipotassium;sulfite,[O-]S(=O)[O-].[K+].[K+]
+KB0749,구아닌,Guanine,73-40-5,73-40-5,1,135398634,C5H5N5O,"2-amino-1,7-dihydropurin-6-one",C1=NC2=C(N1)C(=O)NC(=N2)N
+KB0750,바륨설페이트,Barium Sulfate,7727-43-7,7727-43-7,1,24414,BaO4S,barium(2+) sulfate,[O-]S(=O)(=O)[O-].[Ba+2]
+KB0751,세륨옥사이드,Cerium Oxide,1306-38-3,1306-38-3,1,73963,CeO2,dioxocerium,O=[Ce]=O
+KB0752,과붕산나트륨,Sodium Perborate,11138-47-9;7632-04-4;10332-33-9 (monohydrate);15120-21-5(tetrahydrate),11138-47-9,1,23711812,BH2NaO3,sodium dihydrogen borate,B(O)(O)[O-].[Na+]
+KB0753,메텐아민,Methenamine,100-97-0,100-97-0,1,4101,C6H12N4,"1,3,5,7-tetrazatricyclo[3.3.1.13,7]decane",C1N2CN3CN1CN(C2)C3
+KB0754,미르트라이모늄브로마이드,Myrtrimonium Bromide,1119-97-7,1119-97-7,1,14250,C17H38BrN,trimethyl(tetradecyl)azanium bromide,CCCCCCCCCCCCCC[N+](C)(C)C.[Br-]
+KB0756,브로콜리추출물,Brassica Oleracea Italica (Broccoli) Extract,223749-36-8(generic),,0,,,,
+KB0757,비타민나무추출물,Hippophae Rhamnoides Extract,90106-68-6,,0,,,,
+KB0758,서양인삼뿌리추출물,Panax Quinquefolius Root Extract,90045-38-8,,0,,,,
+KB0759,달맞이꽃꽃추출물,Oenothera Biennis (Evening Primrose) Flower Extract,90028-66-3,,0,,,,
+KB0761,달맞이꽃추출물,Oenothera Biennis (Evening Primrose) Extract,90028-66-3,,0,,,,
+KB0762,망고씨오일,Mangifera Indica (Mango) Seed Oil,90063-86-8 (generic),,0,,,,
+KB0763,미리스틸미리스테이트,Myristyl Myristate,3234-85-3,3234-85-3,1,18605,C28H56O2,tetradecyl tetradecanoate,CCCCCCCCCCCCCCOC(=O)CCCCCCCCCCCCC
+KB0764,미리스틸스테아레이트,Myristyl Stearate,17661-50-6,17661-50-6,1,28678,C32H64O2,tetradecyl octadecanoate,CCCCCCCCCCCCCCCCCC(=O)OCCCCCCCCCCCCCC
+KB0765,비터오렌지꽃추출물,Citrus Aurantium Amara (Bitter Orange) Flower Extract,72968-50-4,,0,,,,
+KB0767,몬모릴로나이트,Montmorillonite,1318-93-0,1318-93-0,1,71586775,Al2H2O12Si4,dialuminum;tetrakis(dioxosilane);tris(oxygen(2-));hydrate,O.[O-2].[O-2].[O-2].O=[Si]=O.O=[Si]=O.O=[Si]=O.O=[Si]=O.[Al+3].[Al+3]
+KB0768,부석,Pumice,1332-09-8,,0,,,,
+KB0769,바틸알코올,Batyl Alcohol,544-62-7,544-62-7,1,3681,C21H44O3,"3-octadecoxypropane-1,2-diol",CCCCCCCCCCCCCCCCCCOCC(CO)O
+KB0772,보리추출물,Hordeum Vulgare Extract,,,0,,,,
+KB0773,글라스비드,Glass Beads,308076-03-1,,0,,,,
+KB0775,석영,Quartz,14808-60-7,14808-60-7,1,24261,O2Si,dioxosilane,O=[Si]=O
+KB0776,다이아몬드가루,Diamond Powder,7782-40-3,7782-40-3,1,5462310,C,methane,[C]
+KB0777,폴리에틸렌,Polyethylene,9002-88-4,,0,,,,
+KB0778,칼슘,Calcium,7440-70-2,7440-70-2,1,5460341,Ca,calcium,[Ca]
+KB0781,마그네슘아세테이트,Magnesium Acetate,16674-78-5(hydrate);142-72-3,142-72-3,1,8896,C4H6MgO4,magnesium diacetate,CC(=O)[O-].CC(=O)[O-].[Mg+2]
+KB0782,세피올라이트,Sepiolite,63800-37-3,63800-37-3,1,155804690,H14Mg4O23Si6,tetramagnesium;tris(oxido-[oxido(oxo)silyl]oxy-oxosilane);dihydroxide;hexahydrate,O.O.O.O.O.O.[OH-].[OH-].[O-][Si](=O)O[Si](=O)[O-].[O-][Si](=O)O[Si](=O)[O-].[O-][Si](=O)O[Si](=O)[O-].[Mg+2].[Mg+2].[Mg+2].[Mg+2]
+KG0001,정제수,Water,,Water,1,962,H2O,oxidane,O
+KG0003,마카데미아 너트 오일,Macadamia Ternifolia Seed Oil,,,0,,,,
+KG0004,올리브 오일,Olea Europaea (Olive) Fruit Oil,,,0,,,,
+KG0005,아보카도 오일,Persea Gratissima (Avocado) Oil,,,0,,,,
+KG0006,포도씨 오일,Vitis Vinifera (Grape) Seed Oil,,,0,,,,
+KG0007,달맞이꽃 오일,Oenothera Biennis (Evening Primrose) Oil,,,0,,,,
+KG0008,메도우 폼 씨 오일,Limnanthes Alba (Meadowfoam) Seed Oil,153065-40-8,153065-40-8,1,168010134,C123H198N16O40,1-O-[2-(benzylcarbamoylamino)propyl] 4-O-propan-2-yl but-2-enedioate;1-O-[2-(diethylcarbamoylamino)propyl] 4-O-propan-2-yl but-2-enedioate;1-O-[2-[diethylcarbamoyl(ethyl)amino]propyl] 4-O-propan-2-yl but-2-enedioate;1-O-[2-(dimethylcarbamoylamino)propyl] 4-O-propan-2-yl but-2-enedioate;1-O-[2-[dimethylcarbamoyl(methyl)amino]propyl] 4-O-propan-2-yl but-2-enedioate;1-O-[2-[ethylcarbamoyl(methyl)amino]propyl] 4-O-propan-2-yl but-2-enedioate;1-O-[2-[ethyl(ethylcarbamoyl)amino]propyl] 4-O-propan-2-yl but-2-enedioate;1-O-[2-(phenylcarbamoylamino)propyl] 4-O-propan-2-yl but-2-enedioate,CCNC(=O)N(C)C(C)COC(=O)C=CC(=O)OC(C)C.CCNC(=O)N(CC)C(C)COC(=O)C=CC(=O)OC(C)C.CCN(CC)C(=O)NC(C)COC(=O)C=CC(=O)OC(C)C.CCN(CC)C(=O)N(CC)C(C)COC(=O)C=CC(=O)OC(C)C.CC(C)OC(=O)C=CC(=O)OCC(C)NC(=O)NCC1=CC=CC=C1.CC(C)OC(=O)C=CC(=O)OCC(C)NC(=O)NC1=CC=CC=C1.CC(C)OC(=O)C=CC(=O)OCC(C)NC(=O)N(C)C.CC(C)OC(=O)C=CC(=O)OCC(C)N(C)C(=O)N(C)C
+KG0009,로즈힙 오일,Rosa Canina Fruit Oil,,,0,,,,
+KG0010,동백 오일,Camellia Japonica Seed Oil,,,0,,,,
+KG0012,파라핀,Paraffin,,,0,,,,
+KG0013,바세린,Petrolatum,,,0,,,,
+KG0014,세레신,Ceresin,8001-75-0,,0,,,,
+KG0015,마이크로크리스탈린 왁스,Microcrystalline Wax,63231-60-7,,0,,,,
+KG0016,스쿠알란,Squalane,,Squalane,1,8089,C30H62,"2,6,10,15,19,23-hexamethyltetracosane",CC(C)CCCC(C)CCCC(C)CCCCC(C)CCCC(C)CCCC(C)C
+KG0017,라우릭애씨드,Lauric Acid,,Lauric Acid,1,3893,C12H24O2,dodecanoic acid,CCCCCCCCCCCC(=O)O
+KG0019,팔미틱애씨드,Palmitic Acid,,Palmitic Acid,1,985,C16H32O2,hexadecanoic acid,CCCCCCCCCCCCCCCC(=O)O
+KG0020,스테아릭애씨드,Stearic Acid,,Stearic Acid,1,5281,C18H36O2,octadecanoic acid,CCCCCCCCCCCCCCCCCC(=O)O
+KG0021,아이소스테아릭애씨드,Isostearic Acid,,Isostearic Acid,1,21859,C18H36O2,16-methylheptadecanoic acid,CC(C)CCCCCCCCCCCCCCC(=O)O
+KG0023,스테아릴알코올,Stearyl Alcohol,,Stearyl Alcohol,1,8221,C18H38O,octadecan-1-ol,CCCCCCCCCCCCCCCCCCO
+KG0024,아이소스테아릴알코올,Isostearyl Alcohol,,Isostearyl Alcohol,1,62825,C18H38O,16-methylheptadecan-1-ol,CC(C)CCCCCCCCCCCCCCCO
+KG0025,옥틸도데칸올,Octyldodecanol,,Octyldodecanol,1,21414,C20H42O,2-octyldodecan-1-ol,CCCCCCCCCCC(CCCCCCCC)CO
+KG0026,카나우바 왁스,Copernicia Cerifera (Carnauba) Wax,,,0,,,,
+KG0027,칸데릴라 왁스,Euphorbia Cerifera (Candelilla) Wax,,,0,,,,
+KG0028,라이스 왁스,Oryza Sativa (Rice) Bran Wax,,,0,,,,
+KG0029,호호바유,Simmondsia Chinensis (Jojoba) Seed Oil,,,0,,,,
+KG0030,밀납,Beeswax,8006-40-4(White);8012-89-3,,0,,,,
+KG0031,라놀린,Lanolin,,,0,,,,
+KG0032,경화 피마자유,Hydrogenated Castor Oil,,,0,,,,
+KG0034,옥틸도데실미리스테이트,Octyldodecyl Myristate,,Octyldodecyl Myristate,1,90835,C34H68O2,2-octyldodecyl tetradecanoate,CCCCCCCCCCCCCC(=O)OCC(CCCCCCCC)CCCCCCCCCC
+KG0035,트라이에틸헥사노인,Triethylhexanoin,,Triethylhexanoin,1,110973,C27H50O6,"2,3-bis(2-ethylhexanoyloxy)propyl 2-ethylhexanoate",CCCCC(CC)C(=O)OCC(COC(=O)C(CC)CCCC)OC(=O)C(CC)CCCC
+KG0037,네오펜틸글라이콜 다이카프레이트,Neopentyl Glycol Dicaprate,,Neopentyl Glycol Dicaprate,1,119729,C25H48O4,"(3-decanoyloxy-2,2-dimethylpropyl) decanoate",CCCCCCCCCC(=O)OCC(C)(C)COC(=O)CCCCCCCCC
+KG0038,아이소세틸미리스테이트,Isocetyl Myristate,,Isocetyl Myristate,1,16730121,C30H60O2,14-methylpentadecyl tetradecanoate,CCCCCCCCCCCCCC(=O)OCCCCCCCCCCCCCC(C)C
+KG0039,헥실라우레이트,Hexyl Laurate,,Hexyl Laurate,1,94454,C18H36O2,hexyl dodecanoate,CCCCCCCCCCCC(=O)OCCCCCC
+KG0040,다이메티콘,Dimethicone,,,0,,,,
+KG0042,메틸페닐실리콘,Methyl Phenyl Silicone,,,0,,,,
+KG0043,음이온성 계면활성제,Anionic Surfactant,,Anionic Surfactant,1,16205316,C22H24BrN5O2,"N,N-diethyl-4-[[1-[(4-nitrophenyl)methyl]pyridin-1-ium-4-yl]diazenyl]aniline bromide",CCN(CC)C1=CC=C(C=C1)N=NC2=CC=[N+](C=C2)CC3=CC=C(C=C3)[N+](=O)[O-].[Br-]
+KG0044,양이온성 계면활성제,Cationic Surfactant,,,0,,,,
+KG0045,양쪽 이온성 계면활성제,Amphoteric Surfactant,,,0,,,,
+KG0046,비이온성 계면활성제,Nonionic Surfactant,,,0,,,,
+KG0047,카르복시 비닐폴리머,Carbomer,9003-01-4;9007-16-3;9007-17-4;9062-04-8;76050-42-5,9062-04-8,1,91824753,C42H80O8,2-decanoyloxypropyl decanoate;2-octanoyloxypropyl octanoate,CCCCCCCCCC(=O)OCC(C)OC(=O)CCCCCCCCC.CCCCCCCC(=O)OCC(C)OC(=O)CCCCCCC
+KG0048,잔탄검,Xanthan Gum,,,0,,,,
+KG0049,하이드록시에틸셀룰오스,Hydroxyethylcellulose,,Hydroxyethylcellulose,1,4327536,C36H70O19,"1-[[3,4,5-tris(2-hydroxypropoxy)-6-[4,5,6-tris(2-hydroxypropoxy)-2-(2-hydroxypropoxymethyl)oxan-3-yl]oxyoxan-2-yl]methoxy]propan-2-ol",CC(COCC1C(C(C(C(O1)OC2C(OC(C(C2OCC(C)O)OCC(C)O)OCC(C)O)COCC(C)O)OCC(C)O)OCC(C)O)OCC(C)O)O
+KG0050,소듐폴리아크릴레이트,Sodium Polyacrylate,,,0,,,,
+KG0052,폴리비닐알코올,Polyvinyl Alcohol,,,0,,,,
+KG0053,폴리비닐피롤리돈,PVP,,PVP,1,6917,C6H9NO,1-ethenylpyrrolidin-2-one,C=CN1CCCC1=O
+KG0054,염료,Dye,,Dye,1,2189414,C19H22N4,"2-[4-(dibutylamino)phenyl]ethene-1,1,2-tricarbonitrile",CCCCN(CCCC)C1=CC=C(C=C1)C(=C(C#N)C#N)C#N
+KG0055,레이크,Lake,,Lake,1,47909,C13H23ClN4O3S,"1-N'-[2-[[5-[(dimethylamino)methyl]furan-2-yl]methylsulfanyl]ethyl]-1-N-methyl-2-nitroethene-1,1-diamine;hydrochloride",CNC(=C[N+](=O)[O-])NCCSCC1=CC=C(O1)CN(C)C.Cl
+KG0056,유기 안료,Organic Pigment,,,0,,,,
+KG0057,천연색소,Natural Colorant,,,0,,,,
+KG0058,착색 안료,Coloring Pigment,,,0,,,,
+KG0059,향료,Flavor,,,0,,,,
+KG0060,보존제,Preservative,,,0,,,,
+KG0061,파라옥시안식향산에스텔,Paraben (p-Hydroxybenzoic Acid Ester),,,0,,,,
+KG0062,페녹시에탄올,Phenoxyethanol,,Phenoxyethanol,1,31236,C8H10O2,2-phenoxyethanol,C1=CC=C(C=C1)OCCO
+KG0064,살균제,Disinfectant,,Disinfectant,1,24341,ClHO,hypochlorous acid,OCl
+KG0065,금속이온봉쇄제,Chelating Agent,,,0,,,,
+KG0066,비타민,Vitamin,,Vitamin,2,266052,C14H15NO7,"6-[cyano(phenyl)methoxy]-3,4,5-trihydroxyoxane-2-carboxylic acid",C1=CC=C(C=C1)C(C#N)OC2C(C(C(C(O2)C(=O)O)O)O)O
+KG0067,항염증제,Anti-Inflammatory Agent,,,0,,,,
+KG0068,식물추출물,Plant Extract,,,0,,,,
+SC0001,에탄올,Alcohol,64-17-5,64-17-5,1,702,C2H6O,ethanol,CCO
+SC0006,코코넛 오일,Cocos Nucifera (Coconut) Oil,,,0,,,,
+SC0008,알로에베라 겔,Aloe Barbadensis Leaf Gel,,,0,,,,
+SC0031,승화황,Sulfur,,Sulfur,1,5362487,S,sulfane,[S]
+KG0101,글리세린,Glycerin,,Glycerin,1,753,C3H8O3,"propane-1,2,3-triol",C(C(CO)O)O
+KG0102,프로필렌글라이콜,Propylene Glycol,,Propylene Glycol,1,1030,C3H8O2,"propane-1,2-diol",CC(CO)O
+KG0103,젖산나트륨,Sodium Lactate,,Sodium Lactate,1,23666456,C3H5NaO3,sodium 2-hydroxypropanoate,CC(C(=O)[O-])O.[Na+]
+KG0104,솔비톨,Sorbitol,,Sorbitol,1,5780,C6H14O6,"(2R,3R,4R,5S)-hexane-1,2,3,4,5,6-hexol",C([C@H]([C@H]([C@@H]([C@H](CO)O)O)O)O)O
+KG0105,소듐하이알루로네이트,Sodium Hyaluronate,,,0,,,,
+KG0106,알긴산나트륨,Sodium Alginate,,,0,,,,
+KG0107,전분 유도체,Starch Derivative,,,0,,,,
+KG0108,카올린,Kaolin,,,0,,,,
+KG0109,징크옥사이드,Zinc Oxide,,Zinc Oxide,1,3007857,OZn,zinc oxygen(2-),[O-2].[Zn+2]
+KG0110,티타늄다이옥사이드,Titanium Dioxide,13463-67-7,13463-67-7,1,26042,O2Ti,dioxotitanium,O=[Ti]=O
+KG0111,탈크,Talc,14807-96-6,14807-96-6,1,165411828,H2Mg3O12Si4,"trimagnesium;1,3,5,7-tetraoxido-2,4,6,8,9,10-hexaoxa-1,3,5,7-tetrasilatricyclo[3.3.1.13,7]decane;dihydroxide",[OH-].[OH-].[O-][Si]12O[Si]3(O[Si](O1)(O[Si](O2)(O3)[O-])[O-])[O-].[Mg+2].[Mg+2].[Mg+2]
+KG0112,사이클로메티콘,Cyclomethicone,69430-24-6,,0,,,,
+KG0113,트리클로산,Triclosan,,Triclosan,1,5564,C12H7Cl3O2,"5-chloro-2-(2,4-dichlorophenoxy)phenol",C1=CC(=C(C=C1Cl)O)OC2=C(C=C(C=C2)Cl)Cl
+KG0114,토코페롤,Tocopherol,,Tocopherol,1,14986,C28H48O2,"2,7,8-trimethyl-2-(4,8,12-trimethyltridecyl)-3,4-dihydrochromen-6-ol",CC1=C(C=C2CCC(OC2=C1C)(C)CCCC(C)CCCC(C)CCCC(C)C)O
+KG0115,디소듐이디티에이,Disodium EDTA,,Disodium EDTA,8,13020083,C10H14N2Na2O8,disodium;2-[2-[bis(carboxymethyl)amino]ethyl-(carboxylatomethyl)amino]acetate,C(CN(CC(=O)[O-])CC(=O)[O-])N(CC(=O)O)CC(=O)O.[Na+].[Na+]
+KG0116,파라아미노안식향산,PABA (p-Aminobenzoic Acid),,,0,,,,
+KG0117,알란토인,Allantoin,,Allantoin,1,204,C4H6N4O3,"(2,5-dioxoimidazolidin-4-yl)urea",C1(C(=O)NC(=O)N1)NC(=O)N
+KG0118,탄닉애씨드,Tannic Acid,,Tannic Acid,1,16129778,C76H52O46,"[2,3-dihydroxy-5-[[(2R,3R,4S,5R,6S)-3,4,5,6-tetrakis[[3,4-dihydroxy-5-(3,4,5-trihydroxybenzoyl)oxybenzoyl]oxy]oxan-2-yl]methoxycarbonyl]phenyl] 3,4,5-trihydroxybenzoate",C1=C(C=C(C(=C1O)O)O)C(=O)OC2=CC(=CC(=C2O)O)C(=O)OC[C@@H]3[C@H]([C@@H]([C@H]([C@@H](O3)OC(=O)C4=CC(=C(C(=C4)OC(=O)C5=CC(=C(C(=C5)O)O)O)O)O)OC(=O)C6=CC(=C(C(=C6)OC(=O)C7=CC(=C(C(=C7)O)O)O)O)O)OC(=O)C8=CC(=C(C(=C8)OC(=O)C9=CC(=C(C(=C9)O)O)O)O)O)OC(=O)C1=CC(=C(C(=C1)OC(=O)C1=CC(=C(C(=C1)O)O)O)O)O
+KG0119,우레아,Urea,,Urea,1,1176,CH4N2O,urea,C(=O)(N)N
+KG0120,캠퍼,Camphor,,Camphor,1,2537,C10H16O,"1,7,7-trimethylbicyclo[2.2.1]heptan-2-one",CC1(C2CCC1(C(=O)C2)C)C
+EC01,귀리 분말,Avena Sativa (Oat) Kernel Flour,134134-86-4,,0,,,,
+EC02,이눌린,Inulin,,,0,,,,
+EC03,에스테르화 전분,Esterified Starch,,,0,,,,
+EC04,병풀,Centella Asiatica,,,0,,,,
+EC05,황금 뿌리 추출물,Scutellaria Baicalensis Root Extract,,,0,,,,
+EC06,카놀라유,Canola Oil,,,0,,,,
+EC07,시어버터,Butyrospermum Parkii (Shea) Butter,,,0,,,,
+EC08,햄프씨드 오일,Cannabis Sativa Seed Oil,8016-24-8,,0,,,,
+EC09,리에스테르화 오일,Re-esterified Oil,,,0,,,,
+EC10,귀리커넬 오일,Avena Sativa (Oat) Kernel Oil,,,0,,,,
+EC11,수소첨가 경화 카놀라유,Hydrogenated Canola Oil,,,0,,,,
+EC13,효모 폴리펩타이드,Saccharomyces Polypeptides,,,0,,,,
+EC14,합성 마이카 파우더,Synthetic Fluorphlogopite,,,0,,,,
+EC15,이소프로필 팔미트산,Isopropyl Palmitate,,Isopropyl Palmitate,1,8907,C19H38O2,propan-2-yl hexadecanoate,CCCCCCCCCCCCCCCC(=O)OC(C)C
+EC16,세틸 포스페이트,Cetyl Phosphate,,Cetyl Phosphate,1,19059,C16H35O4P,hexadecyl dihydrogen phosphate,CCCCCCCCCCCCCCCCOP(=O)(O)O
+EC17,레시틴,Lecithin,,Lecithin,1,16213884,C42H80NO8P,"[(2R)-3-hexadecanoyloxy-2-[(9E,12E)-octadeca-9,12-dienoyl]oxypropyl] 2-(trimethylazaniumyl)ethyl phosphate",CCCCCCCCCCCCCCCC(=O)OC[C@H](COP(=O)([O-])OCC[N+](C)(C)C)OC(=O)CCCCCCC/C=C/C/C=C/CCCCC
+EC18,데카메틸시클로펜타실록산,Cyclopentasiloxane,541-02-6,541-02-6,1,10913,C10H30O5Si5,"2,2,4,4,6,6,8,8,10,10-decamethyl-1,3,5,7,9,2,4,6,8,10-pentaoxapentasilecane",C[Si]1(O[Si](O[Si](O[Si](O[Si](O1)(C)C)(C)C)(C)C)(C)C)C
+EC19,사포닌,Saponins,,Saponins,1,6540709,C55H86O24,"(2S,3S,4S,5R,6R)-6-[[(3S,4S,6aR,6bS,8R,8aR,9R,10R,14bR)-9-acetyloxy-8-hydroxy-4,8a-bis(hydroxymethyl)-4,6a,6b,11,11,14b-hexamethyl-10-[(Z)-2-methylbut-2-enoyl]oxy-1,2,3,4a,5,6,7,8,9,10,12,12a,14,14a-tetradecahydropicen-3-yl]oxy]-4-hydroxy-3,5-bis[[(2S,3R,4S,5S,6R)-3,4,5-trihydroxy-6-(hydroxymethyl)oxan-2-yl]oxy]oxane-2-carboxylic acid",C/C=C(/C)\C(=O)O[C@H]1[C@@H]([C@@]2([C@@H](C[C@@]3(C(=CCC4[C@]3(CCC5[C@@]4(CC[C@@H]([C@]5(C)CO)O[C@H]6[C@@H]([C@H]([C@@H]([C@H](O6)C(=O)O)O[C@H]7[C@@H]([C@H]([C@@H]([C@H](O7)CO)O)O)O)O)O[C@H]8[C@@H]([C@H]([C@@H]([C@H](O8)CO)O)O)O)C)C)C2CC1(C)C)C)O)CO)OC(=O)C
+EC20,마데카소사이드,Madecassoside,34540-22-2,34540-22-2,1,24825675,C48H78O20,"[(2S,3R,4S,5S,6R)-6-[[(2R,3R,4R,5S,6R)-3,4-dihydroxy-6-(hydroxymethyl)-5-[(2S,3R,4R,5R,6S)-3,4,5-trihydroxy-6-methyloxan-2-yl]oxyoxan-2-yl]oxymethyl]-3,4,5-trihydroxyoxan-2-yl] (1S,2R,4aS,6aR,6aS,6bR,8R,8aR,9R,10R,11R,12aR,14bS)-8,10,11-trihydroxy-9-(hydroxymethyl)-1,2,6a,6b,9,12a-hexamethyl-2,3,4,5,6,6a,7,8,8a,10,11,12,13,14b-tetradecahydro-1H-picene-4a-carboxylate",C[C@@H]1CC[C@@]2(CC[C@@]3(C(=CC[C@H]4[C@]3(C[C@H]([C@@H]5[C@@]4(C[C@H]([C@@H]([C@@]5(C)CO)O)O)C)O)C)[C@@H]2[C@H]1C)C)C(=O)O[C@H]6[C@@H]([C@H]([C@@H]([C@H](O6)CO[C@H]7[C@@H]([C@H]([C@@H]([C@H](O7)CO)O[C@H]8[C@@H]([C@@H]([C@H]([C@@H](O8)C)O)O)O)O)O)O)O)O
+EC21,레이크 안료,Lake Pigment,,,0,,,,
+EC22,이산화티타늄을 기본재료로 한 안료,Titanium Dioxide Based Pigment,,,0,,,,
+EC23,유리 가루,Glass Powder,,,0,,,,
+EC24,시클로펜타실록산 혼합 용액,Cyclopentasiloxane Mixed Solution,,,0,,,,
+EC25,그레이프푸르트 에센셜 오일,Citrus Paradisi (Grapefruit) Peel Oil,,,0,,,,
+EC26,방향성 물질의 혼합물,Mixture of Odoriferous Substances,,,0,,,,
+EC29,음이온 계면활성제,Anionic Surfactant,,Anionic Surfactant,1,16205316,C22H24BrN5O2,"N,N-diethyl-4-[[1-[(4-nitrophenyl)methyl]pyridin-1-ium-4-yl]diazenyl]aniline bromide",CCN(CC)C1=CC=C(C=C1)N=NC2=CC=[N+](C=C2)CC3=CC=C(C=C3)[N+](=O)[O-].[Br-]
+EC30,비이온 계면활성제,Nonionic Surfactant,,,0,,,,
+EC31,양쪽성 계면활성제,Amphoteric Surfactant,,,0,,,,
+EC32,조제 계면활성제,Surface-Active Preparation,,,0,,,,
+EC33,조제 청정제,Cleaning Preparation,,,0,,,,
+EC34,인조왁스,Artificial Wax,,,0,,,,
+EC36,조제왁스,Prepared Wax,,,0,,,,
+EC38,스티렌 중합체,Styrene Polymer,,,0,,,,
+EC39,폴리에스테르 중합체,Polyester Polymer,,,0,,,,
+EC40,실리콘 중합체,Silicone Polymer,,,0,,,,
+EC42,화장품 보존제,Cosmetic Preservative,,,0,,,,
+EC43,코코 글리세라이드,Cocoglycerides,,,0,,,,
+EC44,에틸 스테아르산,Ethyl Stearate,,Ethyl Stearate,1,8122,C20H40O2,ethyl octadecanoate,CCCCCCCCCCCCCCCCCC(=O)OCC
+EC45,운모 조제품,Mica Preparation,,,0,,,,
+EC46,폴리옥시알킬렌 알킬 에테르,Polyoxyalkylene Alkyl Ether,,,0,,,,
+EC47,가수분해 실크 에틸 에스테르,Ethyl Ester of Hydrolyzed Silk,,,0,,,,
+EC48,펜타글리칸 조제품,Pentaglycan Preparation,,,0,,,,
+EC49,파이토엑트 릴리퍼,Phytoact Reliefer,,,0,,,,
+EC50,보타니칼 릴리프 오일,Botanical Relief Oil,,,0,,,,
+BM17,백설탕미립분말,Sucrose,,Sucrose,1,5988,C12H22O11,"(2R,3R,4S,5S,6R)-2-[(2S,3S,4S,5R)-3,4-dihydroxy-2,5-bis(hydroxymethyl)oxolan-2-yl]oxy-6-(hydroxymethyl)oxane-3,4,5-triol",C([C@@H]1[C@H]([C@@H]([C@H]([C@H](O1)O[C@]2([C@H]([C@@H]([C@H](O2)CO)O)O)CO)O)O)O)O
+BM19,정제 대두 경화유,Refined Hydrogenated Soybean Oil,,,0,,,,
+BM32,과실추출물,Fruit Extract,,,0,,,,
+BM34,탄올아민,Triethanolamine,,Triethanolamine,1,7618,C6H15NO3,2-[bis(2-hydroxyethyl)amino]ethanol,C(CO)N(CCO)CCO
+BM35,우레스설페이트,Sodium Laureth Sulfate,,Sodium Laureth Sulfate,5,23665884,C14H29NaO5S,sodium 2-dodecoxyethyl sulfate,CCCCCCCCCCCCOCCOS(=O)(=O)[O-].[Na+]
+BM37,수산화나트륨,Sodium Hydroxide,,Sodium Hydroxide,1,14798,HNaO,sodium hydroxide,[OH-].[Na+]
+BM38,알킬아크릴레이트크로스폴리머,Alkyl Acrylate Crosspolymer,,,0,,,,
+BM39,폴리쿼티늄,Polyquaternium,,,0,,,,
+BM45,황,Sulfur,,Sulfur,1,5362487,S,sulfane,[S]
+BM46,소듐변조에이드,Sodium Benzoate,,Sodium Benzoate,1,517055,C7H5NaO2,sodium benzoate,C1=CC=C(C=C1)C(=O)[O-].[Na+]
+BM49,판테놀,Panthenol,,Panthenol,1,4678,C9H19NO4,"2,4-dihydroxy-N-(3-hydroxypropyl)-3,3-dimethylbutanamide",CC(C)(CO)C(C(=O)NCCCO)O

@@ -1,0 +1,508 @@
+﻿구분,키,국문명,영문명,CAS,조회값,후보수,SMILES
+실제성분,변성알코올,변성알코올,Alcohol Denat.,64-17-5,64-17-5,1,CCO
+실제성분,정제수,정제수,Water,,Water,1,O
+실제성분,향료,향료,Flavor,,,0,
+실제성분,글리세린,글리세린,Glycerin,,Glycerin,1,C(C(CO)O)O
+실제성분,PEG-40 수소첨가피마자유,피이지-40하이드로제네이티드캐스터오일,PEG-40 Hydrogenated Castor Oil,,,0,
+실제성분,안식향산나트륨,소듐벤조에이트,Sodium Benzoate,,Sodium Benzoate,1,C1=CC=C(C=C1)C(=O)[O-].[Na+]
+실제성분,부틸렌글라이콜,부틸렌글라이콜,Butylene Glycol,107-88-0;6290-03-5,107-88-0,1,CC(CCO)O
+실제성분,"1,2-헥산다이올","1,2-헥산다이올","1,2-Hexanediol",,"1,2-Hexanediol",1,CCCCC(CO)O
+실제성분,카프릴릴글라이콜,카프릴릴글라이콜,Caprylyl Glycol,,Caprylyl Glycol,1,CCCCCCC(CO)O
+실제성분,타르타르산,타타릭애씨드,Tartaric Acid,,Tartaric Acid,1,[C@@H]([C@H](C(=O)O)O)(C(=O)O)O
+실제성분,카모마일꽃추출물,캐모마일꽃추출물,Anthemis Nobilis Flower Extract,,,0,
+실제성분,꿀추출물,꿀추출물,Honey Extract,,,0,
+실제성분,비터오렌지껍질오일,비터오렌지껍질오일,Citrus Aurantium Amara (Bitter Orange) Peel Oil,,,0,
+실제성분,리모넨,리모넨,Limonene,68647-72-3 (generic);5989-27-5(D-);7705-13-7(D-);138-86-3 (DL-),Limonene,1,CC1=CCC(CC1)C(=C)C
+실제성분,리날룰,리날룰,Linalool,78-70-6,78-70-6,1,CC(=CCCC(C)(C=C)O)C
+실제성분,재스민오일/추출물,재스민오일/추출물,jasmine oil/extract,,,0,
+실제성분,코코-카프릴레이트/카프레이트,코코-카프릴레이트/카프레이트,Coco-Caprylate/Caprate,,,0,
+실제성분,토코페롤,토코페롤,Tocopherol,,Tocopherol,1,CC1=C(C=C2CCC(OC2=C1C)(C)CCCC(C)CCCC(C)CCCC(C)C)O
+실제성분,라일락추출물,서양수수꽃다리추출물,Syringa Vulgaris (Lilac) Extract,,,0,
+실제성분,판테놀,판테놀,Panthenol,,Panthenol,1,CC(C)(CO)C(C(=O)NCCCO)O
+실제성분,토코페릴아세테이트,토코페릴아세테이트,Tocopheryl Acetate,,Tocopheryl Acetate,1,CC1=C(C(=C(C2=C1OC(CC2)(C)CCCC(C)CCCC(C)CCCC(C)C)C)OC(=O)C)C
+실제성분,젖산,락틱애씨드,Lactic Acid,,Lactic Acid,1,CC(C(=O)O)O
+실제성분,이소노닐이소노나노에이트,아이소노닐아이소노나노에이트,Isononyl Isononanoate,,,0,
+실제성분,페닐트리메티콘,페닐트라이메티콘,Phenyl Trimethicone,,,0,
+실제성분,폴리글리세릴-2 트라이아이소스테아레이트,폴리글리세릴-2트라이아이소스테아레이트,Polyglyceryl-2 Triisostearate,,,0,
+실제성분,오조케라이트,오조케라이트,Ozokerite,,Ozokerite,1,C[C@H]1C(=O)[C@@H](C[C@@H]2[C@@]1(CC[C@H]3[C@]2(CC[C@@]4([C@@]3(CC[C@@]5([C@H]4CC(CC5)(C)C)C)C)C)C)C)O
+실제성분,비스-다이글리세릴폴리아실아디페이트,비스-다이글리세릴폴리아실아디페이트,Bis-diglyceryl polyacyladipate,,,0,
+실제성분,펜타에리트리틸테트라아이소스테아레이트,펜타에리스리틸테트라아이소스테아레이트,Pentaerythrityl Tetraisostearate,,Pentaerythrityl Tetraisostearate,1,CC(C)CCCCCCCCCCCCCCC(=O)OCC(COC(=O)CCCCCCCCCCCCCCC(C)C)(COC(=O)CCCCCCCCCCCCCCC(C)C)COC(=O)CCCCCCCCCCCCCCC(C)C
+실제성분,실리카,실리카,Silica,,Silica,1,O=[Si]=O
+실제성분,카프릴릭/카프릭트라이글리세라이드,카프릴릭/카프릭트라이글리세라이드,Caprylic/Capric Triglyceride,,,0,
+실제성분,호호바에스터,호호바에스터,Jojoba Esters,,,0,
+실제성분,다이메티콘,다이메티콘,Dimethicone,,,0,
+실제성분,폴리이소부텐,폴리아이소부텐,Polyisobutene,,,0,
+실제성분,수소첨가폴리이소부텐,하이드로제네이티드폴리아이소부텐,Hydrogenated Polyisobutene,,,0,
+실제성분,다이아이소스테아릴말레이트,다이아이소스테아릴말레이트,Diisostearyl Malate,,Diisostearyl Malate,1,CC(C)CCCCCCCCCCCCCCCOC(=O)CC(C(=O)OCCCCCCCCCCCCCCCC(C)C)O
+실제성분,트리에틸헥사노인,트라이에틸헥사노인,Triethylhexanoin,,Triethylhexanoin,1,CCCCC(CC)C(=O)OCC(COC(=O)C(CC)CCCC)OC(=O)C(CC)CCCC
+실제성분,밀랍,비즈왁스,Beeswax,8006-40-4(White);8012-89-3,,0,
+실제성분,소르비탄올리베이트,솔비탄올리베이트,Sorbitan Olivate,,,0,
+실제성분,펜타에리스리틸테트라이소스테아레이트,펜타에리스리틸테트라아이소스테아레이트,Pentaerythrityl Tetraisostearate,,Pentaerythrityl Tetraisostearate,1,CC(C)CCCCCCCCCCCCCCC(=O)OCC(COC(=O)CCCCCCCCCCCCCCC(C)C)(COC(=O)CCCCCCCCCCCCCCC(C)C)COC(=O)CCCCCCCCCCCCCCC(C)C
+실제성분,피마자유,피마자유,Castor Oil,,,0,
+실제성분,하이드로제네이티드폴리데센,하이드로제네이티드폴리데센,Hydrogenated Polydecene,,,0,
+실제성분,유동파라핀,미네랄오일,Mineral Oil,8012-95-1;8020-83-5;8042-47-5,8020-83-5,1,CCCCCC=CCC=CCC=CCC=CCC=CCCCCCCCCCCCCCCC(=O)SCCNC(=O)CCNC(=O)C(C(C)(C)COP(=O)([O-])OP(=O)([O-])OCC1C(C(C(O1)N2C=NC3=C(N=CN=C32)N)O)OP(=O)([O-])[O-])O
+실제성분,라놀린,라놀린,Lanolin,,,0,
+실제성분,카르나우바왁스,카나우바왁스,Copernicia Cerifera (Carnauba) Wax,,,0,
+실제성분,옥틸메톡시신나메이트,에칠헥실메톡시신나메이트,Ethylhexyl Methoxycinnamate,,Ethylhexyl Methoxycinnamate,1,CCCCC(CC)COC(=O)/C=C/C1=CC=C(C=C1)OC
+실제성분,벤조페논-3,벤조페논-3,Benzophenone-3,131-57-7,131-57-7,1,COC1=CC(=C(C=C1)C(=O)C2=CC=CC=C2)O
+실제성분,아세틸화라놀린알코올,아세틸레이티드라놀린알코올,Acetylated Lanolin Alcohol,,,0,
+실제성분,탈로우글리세라이드,탈로우글리세라이즈,Tallow Glycerides,,,0,
+실제성분,미리스틱애씨드,미리스틱애씨드,Myristic Acid,544-63-8,544-63-8,1,CCCCCCCCCCCCCC(=O)O
+실제성분,아이소프로필,아이소프로필,Isopropyl,,Isopropyl,1,CC(C)O
+실제성분,스테아르산,스테아릭애씨드,Stearic Acid,,Stearic Acid,1,CCCCCCCCCCCCCCCCCC(=O)O
+실제성분,칸데릴라왁스,칸데릴라왁스,Euphorbia Cerifera (Candelilla) Wax,,,0,
+실제성분,프로필렌글라이콜,프로필렌글라이콜,Propylene Glycol,,Propylene Glycol,1,CC(CO)O
+실제성분,부틸하이드록시아니솔,비에이치에이,BHA,25013-16-5,25013-16-5,1,CC(C)(C)C1=C(C=CC(=C1)OC)O
+실제성분,프로필갈레이트,프로필갈레이트,Propyl Gallate,,Propyl Gallate,1,CCCOC(=O)C1=CC(=C(C(=C1)O)O)O
+실제성분,구연산,시트릭애씨드,Citric Acid,,Citric Acid,1,C(C(=O)O)C(CC(=O)O)(C(=O)O)O
+실제성분,수크로오스,수크로오스,Sucrose,,Sucrose,1,C([C@@H]1[C@H]([C@@H]([C@H]([C@H](O1)O[C@]2([C@H]([C@@H]([C@H](O2)CO)O)O)CO)O)O)O)O
+실제성분,호호바씨오일,호호바씨오일,Simmondsia Chinensis (Jojoba) Seed Oil,,,0,
+실제성분,알파-아이소메틸아이오논,알파-아이소메틸아이오논,Alpha-Isomethyl Ionone,,Alpha-Isomethyl Ionone,1,CC1=CCCC(C1/C=C(\C)/C(=O)C)(C)C
+실제성분,흑색산화철,흑색산화철,Iron Oxide Black,,Iron Oxide Black,1,O=[Fe].O=[Fe]O[Fe]=O
+실제성분,수소첨가대두유,하이드로제네이티드돌콩오일,Hydrogenated Soybean Oil,,,0,
+실제성분,수소첨가코코글리세라이드,하이드로제네이티드코코-글리세라이즈,Hydrogenated Coco-Glycerides,91744-42-2,,0,
+실제성분,운모,마이카,Mica,12001-26-2,12001-26-2,1,O.[O-2].[O-2].[O-2].[O-2].[O-2].[O-2].[O-2].[O-2].[O-2].O=[Si]=O.O=[Si]=O.O=[Si]=O.O=[Si]=O.O=[Si]=O.O=[Si]=O.[F-].[F-].[Al+3].[Al+3].[Al+3].[Al+3].[Al+3].[Al+3].[K+].[K+]
+실제성분,수소첨가식물성유지,하이드로제네이티드식물성오일,Hydrogenated Vegetable Oil,,,0,
+실제성분,스테아르산아연,징크스테아레이트,Zinc Stearate,,Zinc Stearate,1,CCCCCCCCCCCCCCCCCC(=O)[O-].CCCCCCCCCCCCCCCCCC(=O)[O-].[Zn+2]
+실제성분,아크릴레이트코폴리머,아크릴레이트코폴리머,Acrylates Copolymer,,,0,
+실제성분,카본블랙,카본블랙,Carbon Black,1333-86-4,1333-86-4,1,[C]
+실제성분,스타이렌/아크릴레이트코폴리머,스타이렌/아크릴레이트코폴리머,Styrene/Acrylates Copolymer,,,0,
+실제성분,라우레스-20,라우레스-20,Laureth-20,,,0,
+실제성분,알코올,에탄올,Alcohol,64-17-5,64-17-5,1,CCO
+실제성분,올리브오일,올리브오일,Olea Europaea (Olive) Fruit Oil,,,0,
+실제성분,에탄올,에탄올,Alcohol,64-17-5,64-17-5,1,CCO
+실제성분,폴리테트라플루오로에틸렌,피티에프이,PTFE,,,0,
+실제성분,사이클로펜타실록세인,사이클로펜타실록세인,Cyclopentasiloxane,541-02-6,541-02-6,1,C[Si]1(O[Si](O[Si](O[Si](O[Si](O1)(C)C)(C)C)(C)C)(C)C)C
+실제성분,폴록사머 184,폴록사머184,Poloxamer 184,,,0,
+실제성분,페녹시에탄올,페녹시에탄올,Phenoxyethanol,,Phenoxyethanol,1,C1=CC=C(C=C1)OCCO
+실제성분,벤질알코올,벤질알코올,Benzyl Alcohol,100-51-6,100-51-6,1,C1=CC=C(C=C1)CO
+실제성분,시트르산나트륨,소듐시트레이트,Sodium Citrate,994-36-5;6132-04-3 (dihydrate);68-04-2 (anhydrous),994-36-5,2,C(C(=O)[O-])C(CC(=O)[O-])(C(=O)[O-])O.[Na+].[Na+].[Na+]
+실제성분,에틸렌다이아민테트라아세트산이나트륨,다이소듐이디티에이,Disodium EDTA,,Disodium EDTA,8,C(CN(CC(=O)[O-])CC(=O)[O-])N(CC(=O)O)CC(=O)O.[Na+].[Na+]
+실제성분,염화벤잘코늄,벤잘코늄클로라이드,Benzalkonium Chloride,61789-71-7;68391-01-5;68424-85-1;8001-54-5;85409-22-9,Benzalkonium Chloride,1,CCCCCCCCCCCCC[N+](C)(C)CC1=CC=CC=C1.[Cl-]
+실제성분,소나무눈추출물,구주소나무싹추출물,Pinus Sylvestris Bud Extract,,,0,
+실제성분,천연고무라텍스,천연고무라텍스,Natural rubber latex,,,0,
+실제성분,트리에탄올아민,트라이에탄올아민,Triethanolamine,,Triethanolamine,1,C(CO)N(CCO)CCO
+실제성분,파라하이드록시벤조산,파라하이드록시벤조산,Para-hydroxy benzoic acid,,Para-hydroxy benzoic acid,1,C1=CC(=CC=C1C(=O)O)O
+실제성분,지방족 화합물,지방족 화합물,Aliphat,,,0,
+실제성분,우레탄아크릴레이트,우레탄아크릴레이트,Urethanacrylate,,,0,
+실제성분,폴리에틸렌글리콜다이메타크릴레이트,폴리에틸렌글리콜다이메타크릴레이트,Polyethylene glycoldimethacrylate,,,0,
+실제성분,광유,미네랄오일,Mineral Oil,8012-95-1;8020-83-5;8042-47-5,8020-83-5,1,CCCCCC=CCC=CCC=CCC=CCC=CCCCCCCCCCCCCCCC(=O)SCCNC(=O)CCNC(=O)C(C(C)(C)COP(=O)([O-])OP(=O)([O-])OCC1C(C(C(O1)N2C=NC3=C(N=CN=C32)N)O)OP(=O)([O-])[O-])O
+실제성분,메틸락테이트,메틸락테이트,Methyl Lactate,,Methyl Lactate,1,CC(C(=O)OC)O
+실제성분,에틸락테이트,에틸락테이트,Ethyl Lactate,,Ethyl Lactate,1,CCOC(=O)C(C)O
+실제성분,테트라하이드로푸르푸릴알코올,테트라하이드로퍼퓨릴알코올,Tetrahydrofurfuryl Alcohol,,Tetrahydrofurfuryl Alcohol,1,C1CC(OC1)CO
+실제성분,다이메틸글루타레이트,다이메틸글루타레이트,Dimethyl Glutarate,,Dimethyl Glutarate,1,COC(=O)CCCC(=O)OC
+실제성분,다이메틸아디페이트,다이메틸아디페이트,Dimethyl Adipate,,Dimethyl Adipate,1,COC(=O)CCCCC(=O)OC
+실제성분,활석,탤크,Talc,14807-96-6,14807-96-6,1,[OH-].[OH-].[O-][Si]12O[Si]3(O[Si](O1)(O[Si](O2)(O3)[O-])[O-])[O-].[Mg+2].[Mg+2].[Mg+2]
+실제성분,이산화티타늄,티타늄디옥사이드,Titanium Dioxide,13463-67-7,13463-67-7,1,O=[Ti]=O
+실제성분,폴리메틸메타크릴레이트,폴리메틸메타크릴레이트,Polymethyl Methacrylate,,,0,
+실제성분,산화아연,징크옥사이드,Zinc Oxide,,Zinc Oxide,1,[O-2].[Zn+2]
+실제성분,스쿠알란,스쿠알란,Squalane,,Squalane,1,CC(C)CCCC(C)CCCC(C)CCCCC(C)CCCC(C)CCCC(C)C
+실제성분,식물성유지,식물성오일,Vegetable Oil,,,0,
+실제성분,셀룰로오스,셀룰로오스,Cellulose,,,0,
+실제성분,메티콘,메티콘,Methicone,63148-57-2;9004-73-3,9004-73-3,1,CO[SiH](C)C
+실제성분,나일론-12,나일론-12,Nylon-12,,,0,
+실제성분,스테아르산알루미늄,알루미늄스테아레이트,Aluminum Stearate,,Aluminum Stearate,1,CCCCCCCCCCCCCCCCCC(=O)[O-].CCCCCCCCCCCCCCCCCC(=O)[O-].CCCCCCCCCCCCCCCCCC(=O)[O-].[Al+3]
+실제성분,황산바륨,바륨설페이트,Barium Sulfate,7727-43-7,7727-43-7,1,[O-]S(=O)(=O)[O-].[Ba+2]
+실제성분,피테라,피테라,Pitera,,,0,
+실제성분,메틸파라벤,메틸파라벤,Methylparaben,99-76-3,99-76-3,1,COC(=O)C1=CC=C(C=C1)O
+실제성분,스피룰리나,스피룰리나,Spirulina,,,0,
+실제성분,규조토,규조토,Diatomaceous Earth,68855-54-9;61790-53-2,,0,
+실제성분,알긴산,알지닉애씨드,Alginic Acid,,,0,
+실제성분,황산칼슘,칼슘설페이트,Calcium Sulfate,,Calcium Sulfate,1,[O-]S(=O)(=O)[O-].[Ca+2]
+실제성분,인산나트륨,소듐포스페이트,Sodium Phosphate,,Sodium Phosphate,1,[O-]P(=O)([O-])[O-].[Na+]
+실제성분,피로인산사나트륨,테트라소듐파이로포스페이트,Tetrasodium Pyrophosphate,,Tetrasodium Pyrophosphate,1,[O-]P(=O)([O-])OP(=O)([O-])[O-].[Na+].[Na+].[Na+].[Na+]
+실제성분,멘톨,멘톨,Menthol,1490-04-6;15356-70-4;2216-51-5;89-78-1,1490-04-6,1,CC1CCC(C(C1)O)C(C)C
+실제성분,메칠디아이소프로필 프로피온아마이드,메틸다이아이소프로필프로피온아마이드,Methyl Diisopropyl Propionamide,51115-67-4,51115-67-4,1,CC(C)C(C)(C(C)C)C(=O)NC
+실제성분,아이슬란드이끼추출물,아이슬란드이끼추출물,Cetraria Islandica Extract,,,0,
+실제성분,가수분해산호,하이드롤라이즈드산호,Hydrolyzed Coral,,,0,
+실제성분,히알루론산,하이알루로닉애씨드,Hyaluronic Acid,,,0,
+실제성분,베타인,베타인,Betaine,107-43-7,107-43-7,1,C[N+](C)(C)CC(=O)[O-]
+실제성분,자일리톨,자일리톨,Xylitol,,Xylitol,1,C([C@H](C([C@H](CO)O)O)O)O
+실제성분,아이소펜틸다이올,아이소펜틸다이올,Isopentyldiol,,Isopentyldiol,1,CC(C)(CCO)O
+실제성분,펜틸렌글라이콜,펜틸렌글라이콜,Pentylene Glycol,,Pentylene Glycol,1,CCCC(CO)O
+실제성분,멘틸락테이트,멘틸락테이트,Menthyl Lactate,59259-38-0,59259-38-0,1,C[C@@H]1CC[C@H]([C@@H](C1)OC(=O)[C@@H](C)O)C(C)C
+실제성분,글리세릴스테아레이트,글리세릴스테아레이트,Glyceryl Stearate,,Glyceryl Stearate,1,CCCCCCCCCCCCCCCCCC(=O)O.C(C(CO)O)O
+실제성분,세틸알코올,세틸알코올,Cetyl Alcohol,36653-82-4,36653-82-4,1,CCCCCCCCCCCCCCCCO
+실제성분,폴리글리세릴-10 미리스테이트,폴리글리세릴-10미리스테이트,Polyglyceryl-10 Myristate,,,0,
+실제성분,폴리아크릴레이트크로스폴리머-11,폴리아크릴레이트크로스폴리머-11,Polyacrylate Crosspolymer-11,,,0,
+실제성분,t-부틸 알코올,t-부틸알코올,t-Butyl Alcohol,75-65-0,75-65-0,1,CC(C)(C)O
+실제성분,에뮤오일,에뮤오일,Emu Oil,,,0,
+실제성분,사카로미세스발효여과물,효모발효여과물,Saccharomyces Ferment Filtrate,,,0,
+실제성분,팔각회향열매추출물,스타아니스추출물,Illicium Verum (Anise) Fruit Extract,,,0,
+실제성분,황금뿌리추출물,황금추출물,Scutellaria Baicalensis Root Extract,,,0,
+실제성분,히알루론산나트륨,소듐하이알루로네이트,Sodium Hyaluronate,,,0,
+실제성분,스쿠알란 오일,스쿠알란 오일,Squalane Oil,,,0,
+실제성분,동백나무잎수,녹차수,Camellia Sinensis Leaf Water,,,0,
+실제성분,카올린,카올린,Kaolin,,,0,
+실제성분,벤토나이트,벤토나이트,Bentonite,1302-78-9,,0,
+실제성분,마그네슘알루미늄실리케이트,마그네슘알루미늄실리케이트,Magnesium Aluminum Silicate,12199-37-0;12511-31-8,Magnesium Aluminum Silicate,1,[O-][Si]([O-])([O-])[O-].[Mg+2].[Al+3]
+실제성분,숯가루,숯가루,Charcoal Powder,,,0,
+실제성분,"1,2–Hexanediol","1,2-헥산다이올","1,2-Hexanediol",,"1,2-Hexanediol",1,CCCCC(CO)O
+실제성분,칼슘클로라이드,칼슘클로라이드,Calcium Chloride,,Calcium Chloride,1,[Cl-].[Cl-].[Ca+2]
+실제성분,캐럽콩 검,캐롭검,Ceratonia Siliqua (Carob) Gum,9000-40-2,,0,
+실제성분,잔탄검,잔탄검,Xanthan Gum,,,0,
+실제성분,카라기난,카라기난,Carrageenan,,,0,
+실제성분,에칠헥산디올,에틸헥산다이올,Ethyl Hexanediol,,Ethyl Hexanediol,1,CCCC(C(CC)CO)O
+실제성분,세테아릴알코올,세테아릴알코올,Cetearyl Alcohol,8005-44-5;67762-27-0,8005-44-5,1,CCCCCCCCCCCCCCCCCCO.CCCCCCCCCCCCCCCCO
+실제성분,카보머,카보머,Carbomer,9003-01-4;9007-16-3;9007-17-4;9062-04-8;76050-42-5,,0,
+실제성분,녹차추출물,녹차추출물,Camellia Sinensis Leaf Extract,,,0,
+실제성분,병풀추출물,병풀추출물,Centella Asiatica Extract,84696-21-9;84776-24-9,,0,
+실제성분,인삼뿌리추출물,인삼추출물,Panax Ginseng Root Extract,72480-62-7;1449115-64-3,,0,
+실제성분,아데노신,아데노신,Adenosine,,Adenosine,1,C1=NC(=C2C(=N1)N(C=N2)[C@H]3[C@@H]([C@@H]([C@H](O3)CO)O)O)N
+실제성분,페트롤라툼,페트롤라툼,Petrolatum,,,0,
+실제성분,다이스테아릴다이모늄클로라이드,다이스테아릴다이모늄클로라이드,Distearyldimonium Chloride,,Distearyldimonium Chloride,1,CCCCCCCCCCCCCCCCCC[N+](C)(C)CCCCCCCCCCCCCCCCCC.[Cl-]
+실제성분,C12-15 알킬벤조에이트,C12-15알킬벤조에이트,C12-15 Alkyl Benzoate,,,0,
+실제성분,미리스틴산아이소프로필,아이소프로필미리스테이트,Isopropyl Myristate,,Isopropyl Myristate,1,CCCCCCCCCCCCCC(=O)OC(C)C
+실제성분,미세결정왁스,마이크로크리스탈린왁스,Microcrystalline Wax,63231-60-7,,0,
+실제성분,PEG-40 스테아레이트,피이지-40스테아레이트,PEG-40 Stearate,,,0,
+실제성분,폴리글리세릴-4 카프레이트,폴리글리세릴-4카프레이트,Polyglyceryl-4 Caprate,,,0,
+실제성분,호호바오일,호호바오일,Jojoba oil,,,0,
+실제성분,해바라기씨왁스,해바라기씨왁스,"Helianthus Annuus (Sunflower) Seed Wax
+Helianthus Annuus Seed Cera",,,0,
+실제성분,아가베시럽,아가베시럽,Agave syrup,,,0,
+실제성분,오렌지꽃앱솔루트,오렌지꽃앱솔루트,Orange blossom absolute,,,0,
+실제성분,코코아버터,카카오씨버터,Theobroma Cacao (Cocoa) Seed Butter,,,0,
+실제성분,시어버터,시어버터,Butyrospermum Parkii (Shea) Butter,,,0,
+실제성분,일리페버터,일리페버터,Illipe Butter,,,0,
+실제성분,알카넷추출물,알카넷추출물,Alkanet extract,,,0,
+실제성분,아몬드오일,스위트아몬드오일,Prunus Amygdalus Dulcis (Sweet Almond) Oil,,,0,
+실제성분,귀리우유,귀리우유,Oat milk,,,0,
+실제성분,라벤더오일,라벤더오일,Lavandula Angustifolia (Lavender) Oil,,,0,
+실제성분,라벤더추출물,라벤더추출물,Lavandula Angustifolia (Lavender) Extract,,,0,
+실제성분,나이아신아마이드,나이아신아마이드,Niacinamide,,Niacinamide,1,C1=CC(=CN=C1)C(=O)N
+실제성분,캐럽검,캐롭검,Ceratonia Siliqua (Carob) Gum,9000-40-2,,0,
+실제성분,디포타슘글리시리제이트,다이포타슘글리시리제이트,Dipotassium Glycyrrhizate,,Dipotassium Glycyrrhizate,1,C[C@]12CC[C@](C[C@H]1C3=CC(=O)[C@@H]4[C@]5(CC[C@@H](C([C@@H]5CC[C@]4([C@@]3(CC2)C)C)(C)C)O[C@@H]6[C@@H]([C@H]([C@@H]([C@H](O6)C(=O)[O-])O)O)O[C@H]7[C@@H]([C@H]([C@@H]([C@H](O7)C(=O)[O-])O)O)O)C)(C)C(=O)O.[K+].[K+]
+실제성분,에틸헥실팔미테이트,에틸헥실팔미테이트,Ethylhexyl Palmitate,,Ethylhexyl Palmitate,1,CCCCCCCCCCCCCCCC(=O)OCC(CC)CCCC
+실제성분,세틸에틸헥사노에이트,세틸에틸헥사노에이트,Cetyl Ethylhexanoate,59130-69-7,59130-69-7,1,CCCCCCCCCCCCCCCCOC(=O)C(CC)CCCC
+실제성분,폴리에틸렌,폴리에틸렌,Polyethylene,9002-88-4,,0,
+실제성분,에틸헥실글리세린,에틸헥실글리세린,Ethylhexylglycerin,,Ethylhexylglycerin,1,CCCCC(CC)COCC(CO)O
+실제성분,데실글루코사이드,데실글루코사이드,Decyl Glucoside,,Decyl Glucoside,1,CCCCCCCCCCO[C@H]1[C@@H]([C@H]([C@@H]([C@H](O1)CO)O)O)O
+실제성분,프로판다이올,프로판다이올,Propanediol,,Propanediol,1,CCC(O)O
+실제성분,하이드록시에틸셀룰로오스,하이드록시에틸셀룰로오스,Hydroxyethylcellulose,,Hydroxyethylcellulose,1,CC(COCC1C(C(C(C(O1)OC2C(OC(C(C2OCC(C)O)OCC(C)O)OCC(C)O)COCC(C)O)OCC(C)O)OCC(C)O)OCC(C)O)O
+실제성분,t-부틸알코올,t-부틸알코올,t-Butyl Alcohol,75-65-0,75-65-0,1,CC(C)(C)O
+실제성분,정제수 등,정제수,Water,,Water,1,O
+실제성분,염화나트륨,소듐클로라이드,Sodium Chloride,,Sodium Chloride,1,[Na+].[Cl-]
+실제성분,레시틴 등,레시틴,Lecithin,,Lecithin,1,CCCCCCCCCCCCCCCC(=O)OC[C@H](COP(=O)([O-])OCC[N+](C)(C)C)OC(=O)CCCCCCC/C=C/C/C=C/CCCCC
+실제성분,팜오일,오일팜오일,Elaeis Guineensis (Palm) Oil,,,0,
+실제성분,수소첨가레시틴,하이드로제네이티드레시틴,Hydrogenated Lecithin,,,0,
+실제성분,폴리아크릴산나트륨,소듐폴리아크릴레이트,Sodium Polyacrylate,,,0,
+실제성분,지모뿌리추출물,지모뿌리추출물,Anemarrhena Asphodeloides Root Extract,,,0,
+실제성분,프로판다이올 등,프로판다이올,Propanediol,,Propanediol,1,CCC(O)O
+실제성분,해수,해수,Sea Water,,Sea Water,1,[Na+].[Cl-]
+실제성분,수용성프로테오글리칸,수용성프로테오글리칸,Soluble Proteoglycan,,,0,
+실제성분,하이드록시아세토페논,하이드록시아세토페논,Hydroxyacetophenone,,Hydroxyacetophenone,1,CC(=O)C1=CC=C(C=C1)O
+실제성분,트로메타민,트로메타민,Tromethamine,77-86-1,77-86-1,1,C(C(CO)(CO)N)O
+실제성분,풀루란,풀루란,Pullulan,,,0,
+실제성분,수소첨가폴리이소부텐 등,하이드로제네이티드폴리아이소부텐,Hydrogenated Polyisobutene,,,0,
+실제성분,베타인 등,베타인,Betaine,107-43-7,107-43-7,1,C[N+](C)(C)CC(=O)[O-]
+실제성분,다이프로필렌글라이콜,다이프로필렌글라이콜,Dipropylene Glycol,,Dipropylene Glycol,1,CC(CO)OC(C)CO.CC(COCC(C)O)O
+실제성분,글리세레스-26,글리세레스-26,Glycereth-26,31694-55-0(generic),,0,
+실제성분,마뿌리추출물,마뿌리추출물,Dioscorea Oppositifolia (Wild Yam) Root Extract,,,0,
+실제성분,오크라열매추출물,오크라열매추출물,Hibiscus Esculentus Fruit Extract,,,0,
+실제성분,연근추출물,연근추출물,Lotus Root Extract,,,0,
+실제성분,폴리글리세릴-10 라우레이트,폴리글리세릴-10라우레이트,Polyglyceryl-10 Laurate,,,0,
+실제성분,데카메틸사이클로펜타실록세인,데카메틸사이클로펜타실록세인,Decamethylcyclopentasiloxane,,Decamethylcyclopentasiloxane,1,C[Si]1(O[Si](O[Si](O[Si](O[Si](O1)(C)C)(C)C)(C)C)(C)C)C
+실제성분,디메티콘,다이메티콘,Dimethicone,,,0,
+실제성분,폴리다이메틸실록산,다이메티콘,Dimethicone,,,0,
+실제성분,토코페롤 등,토코페롤,Tocopherol,,Tocopherol,1,CC1=C(C=C2CCC(OC2=C1C)(C)CCCC(C)CCCC(C)CCCC(C)C)O
+실제성분,향료 등,향료,Flavor,,,0,
+실제성분,메틸프로판다이올,메틸프로판다이올,Methylpropanediol,2163-42-0,2163-42-0,1,CC(CO)CO
+실제성분,가시오갈피줄기추출정제수,가시오갈피줄기추출정제수,Eleutherococcus Senticosus Stem ExtractWater,,,0,
+실제성분,해바라기씨오일,해바라기씨오일,Helianthus Annuus (Sunflower) Seed Oil,,,0,
+실제성분,세테아릴올리베이트,세테아릴올리베이트,Cetearyl Olivate,,,0,
+실제성분,솔비탄올리베이트,솔비탄올리베이트,Sorbitan Olivate,,,0,
+실제성분,쉼싸리잎추출정제수,쉼싸리잎추출정제수,Lespedeza Cuneata Leaf ExtractWater,,,0,
+실제성분,하이드롤라이즈드하이알루로닉애씨드,하이드롤라이즈드하이알루로닉애씨드,Hydrolyzed Hyaluronic Acid,,,0,
+실제성분,분홍바늘꽃꽃/잎/줄기추출정제수,분홍바늘꽃꽃/잎/줄기추출정제수,Epilobium Angustifolium Flower/Leaf/Stem ExtractWater,,,0,
+실제성분,시트릭애씨드 등,시트릭애씨드,Citric Acid,,Citric Acid,1,C(C(=O)O)C(CC(=O)O)(C(=O)O)O
+실제성분,가수분해태반추출물,하이드롤라이즈드태반추출물,Hydrolyzed Placental Extract,,,0,
+실제성분,카프릴릴메티콘,카프릴릴메티콘,Caprylyl Methicone,,Caprylyl Methicone,1,CCCCCCCC[Si](C)(O[Si](C)(C)C)O[Si](C)(C)C
+실제성분,콜라겐추출물,콜라겐추출물,Collagen Extract,,,0,
+실제성분,로즈마리잎오일,로즈마리잎오일,Rosmarinus Officinalis (Rosemary) Leaf Oil,,,0,
+실제성분,태반단백질,플라센타단백질,Placental Protein,,,0,
+실제성분,아르기닌,알지닌,Arginine,,Arginine,1,C(C[C@@H](C(=O)O)N)CN=C(N)N
+실제성분,리도카인염산염,리도카인염산염,Lidocaine Hydrochloride,,Lidocaine Hydrochloride,1,CCN(CC)CC(=O)NC1=C(C=CC=C1C)C.Cl
+실제성분,인산이나트륨,다이소듐포스페이트,Disodium Phosphate,10140-65-5;7558-79-4;10028-24-7 (dihydrate);10039-32-4 (dodecahydrate),10140-65-5,1,O.OP(=O)([O-])[O-].[Na+].[Na+]
+실제성분,에틸헥실메톡시신나메이트,에칠헥실메톡시신나메이트,Ethylhexyl Methoxycinnamate,,Ethylhexyl Methoxycinnamate,1,CCCCC(CC)COC(=O)/C=C/C1=CC=C(C=C1)OC
+실제성분,에틸헥실살리실레이트,에칠헥실살리실레이트,Ethylhexyl Salicylate,,Ethylhexyl Salicylate,1,CCCCC(CC)COC(=O)C1=CC=CC=C1O
+실제성분,옥토크릴렌,옥토크릴렌,Octocrylene,,Octocrylene,1,CCCCC(CC)COC(=O)C(=C(C1=CC=CC=C1)C2=CC=CC=C2)C#N
+실제성분,4-메틸벤질리덴캠퍼,4-메칠벤질리덴캠퍼,4-Methylbenzylidene Camphor,36861-47-9;38102-62-4,36861-47-9,1,CC1=CC=C(C=C1)C=C2C3CCC(C2=O)(C3(C)C)C
+실제성분,부틸메톡시디벤조일메탄,부틸메톡시디벤조일메탄,Butyl Methoxydibenzoylmethane,70356-09-1,70356-09-1,1,CC(C)(C)C1=CC=C(C=C1)C(=O)CC(=O)C2=CC=C(C=C2)OC
+실제성분,레시틴,레시틴,Lecithin,,Lecithin,1,CCCCCCCCCCCCCCCC(=O)OC[C@H](COP(=O)([O-])OCC[N+](C)(C)C)OC(=O)CCCCCCC/C=C/C/C=C/CCCCC
+실제성분,가교 히알루론산,가교 히알루론산,Cross-linked Hyaluronic Acid,,,0,
+실제성분,인산완충용액,인산완충용액,Phosphate Buffer Solution,,,0,
+실제성분,리도카인염산염일수화물,리도카인염산염일수화물,Lidocaine Hydrochloride Monohydrate,,Lidocaine Hydrochloride Monohydrate,1,CCN(CC)CC(=O)NC1=C(C=CC=C1C)C.O.Cl
+실제성분,디프로필렌글라이콜,다이프로필렌글라이콜,Dipropylene Glycol,,Dipropylene Glycol,1,CC(CO)OC(C)CO.CC(COCC(C)O)O
+실제성분,캐롭검,캐롭검,Ceratonia Siliqua (Carob) Gum,9000-40-2,,0,
+실제성분,아이리쉬모스가루,아이리쉬모스가루,Chondrus Crispus Powder,,,0,
+실제성분,다이포타슘글리시리제이트,다이포타슘글리시리제이트,Dipotassium Glycyrrhizate,,Dipotassium Glycyrrhizate,1,C[C@]12CC[C@](C[C@H]1C3=CC(=O)[C@@H]4[C@]5(CC[C@@H](C([C@@H]5CC[C@]4([C@@]3(CC2)C)C)(C)C)O[C@@H]6[C@@H]([C@H]([C@@H]([C@H](O6)C(=O)[O-])O)O)O[C@H]7[C@@H]([C@H]([C@@H]([C@H](O7)C(=O)[O-])O)O)O)C)(C)C(=O)O.[K+].[K+]
+실제성분,(20S)-프로토파낙사다이올,(20S)-프로토파낙사다이올,(20S)-Protopanaxadiol,30636-90-9,30636-90-9,1,CC(=CCC[C@@](C)([C@H]1CC[C@@]2([C@@H]1[C@@H](C[C@H]3[C@]2(CC[C@@H]4[C@@]3(CC[C@@H](C4(C)C)O)C)C)O)C)O)C
+실제성분,비오틴,바이오틴,Biotin,58-85-5,58-85-5,1,C1[C@H]2[C@@H]([C@@H](S1)CCCCC(=O)O)NC(=O)N2
+실제성분,글루타민,글루타민,Glutamine,56-85-9(L-);6899-04-3(DL-),Glutamine,1,C(CC(=O)N)[C@@H](C(=O)O)N
+실제성분,트립토판,트립토판,Tryptophan,,Tryptophan,1,C1=CC=C2C(=C1)C(=CN2)C[C@@H](C(=O)O)N
+실제성분,메티오닌,메티오닌,Methionine,63-68-3;59-51-8;348-67-4(D-),63-68-3,1,CSCC[C@@H](C(=O)O)N
+실제성분,베타-글루칸,베타-글루칸,Beta-Glucan,53238-80-5;55965-23-6;26874-89-5,Beta-Glucan,1,C([C@@H]1[C@H]([C@@H]([C@H]([C@@H](O1)OC2[C@H](O[C@H]([C@@H]([C@H]2O)O)OC3[C@H](O[C@@H]([C@@H]([C@H]3O)O)O)CO)CO)O)O)O)O
+실제성분,글리세린 등,글리세린,Glycerin,,Glycerin,1,C(C(CO)O)O
+실제성분,폴리-L-젖산,폴리락틱애씨드,Polylactic Acid,,,0,
+실제성분,오렌지껍질오일,오렌지껍질오일,Citrus Aurantium Dulcis (Orange) Peel Oil,,,0,
+실제성분,염화나트륨 등,소듐클로라이드,Sodium Chloride,,Sodium Chloride,1,[Na+].[Cl-]
+실제성분,아르기닌 등,알지닌,Arginine,,Arginine,1,C(C[C@@H](C(=O)O)N)CN=C(N)N
+실제성분,알로에베라잎추출물,알로에베라잎추출물,Aloe Barbadensis Leaf Extract,85507-69-3;94349-62-9,85507-69-3,1,CC1=CC=C(C=C1)C(=O)/C=C/C2=CC(=CC=C2)[N+](=O)[O-]
+실제성분,베르가모트오일,베르가모트오일,Citrus Aurantium Bergamia (Bergamot) Fruit Oil,68648-33-9;8007-75-8;85049-52-1,,0,
+실제성분,아틀라스시다나무껍질오일,아틀라스시다나무껍질오일,Cedrus Atlantica Bark Oil,,,0,
+실제성분,식물추출물 및 부형제,식물추출물 및 부형제,Plant Extracts and Excipients,,,0,
+실제성분,OO 오일,OO 오일,OO Oil,,,0,
+실제성분,변성알코올 40,변성알코올40,SD Alcohol 40,61116-08-3,,0,
+실제성분,부탄,부탄,Butane,106-97-8,106-97-8,1,CCCC
+실제성분,프로판,프로판,Propane,,Propane,1,CCC
+실제성분,부틸아미노에틸메타크릴레이트폴리머,부틸아미노에틸메타크릴레이트폴리머,Butyl amino ethyl methacrylate polymer,,,0,
+실제성분,리트세아쿠베바오일,리트세아쿠베바오일,Litsea cubeba oil,,,0,
+실제성분,유향오일,유향오일,Olibanum oil,,,0,
+실제성분,아밀신남알,아밀신남알,Amyl Cinnamal,,Amyl Cinnamal,1,CCCCC/C(=C/C1=CC=CC=C1)/C=O
+실제성분,벤질신나메이트,벤질신나메이트,Benzyl Cinnamate,103-41-3,103-41-3,1,C1=CC=C(C=C1)COC(=O)/C=C/C2=CC=CC=C2
+실제성분,신남알,신남알,Cinnamal,,Cinnamal,1,C1=CC=C(C=C1)/C=C/C=O
+실제성분,신나밀알코올,신나밀알코올,Cinnamyl Alcohol,,Cinnamyl Alcohol,1,C1=CC=C(C=C1)/C=C/CO
+실제성분,시트랄,시트랄,Citral,,Citral,1,CC(=CCC/C(=C/C=O)/C)C
+실제성분,제라니올,제라니올,Geraniol,,Geraniol,1,CC(=CCC/C(=C/CO)/C)C
+실제성분,AMP-아크릴레이트/다이아세톤아크릴아마이드코폴리머,에이엠피-아크릴레이트/다이아세톤아크릴아마이드코폴리머,AMP-Acrylates/Diacetoneacrylamide Copolymer,,,0,
+실제성분,아이소프로필아이소스테아레이트,아이소프로필아이소스테아레이트,Isopropyl Isostearate,,Isopropyl Isostearate,1,CC(C)CCCCCCCCCCCCCCC(=O)OC(C)C
+실제성분,다이메티콘코폴리올,디메티콘코폴리올,Dimethicone Copolyol,,,0,
+실제성분,염모제(OO,염모제(OO,Hair Dye(OO,,,0,
+실제성분,헤나 잎,헤나 잎,Henna Leaf,,,0,
+실제성분,베헨트리모늄클로라이드,베헨트라이모늄클로라이드,Behentrimonium Chloride,17301-53-0,17301-53-0,1,CCCCCCCCCCCCCCCCCCCCCC[N+](C)(C)C.[Cl-]
+실제성분,세트리모늄클로라이드,세트리모늄클로라이드,Cetrimonium Chloride,112-02-7,112-02-7,1,CCCCCCCCCCCCCCCC[N+](C)(C)C.[Cl-]
+실제성분,폴리비닐피롤리돈,피브이피,PVP,,PVP,1,C=CN1CCCC1=O
+실제성분,다이에틸렌글라이콜다이옥타노에이트,다이에틸렌글라이콜다이옥타노에이트,Diethylene glycol dioctanoate,,,0,
+실제성분,아이소스테아르산,아이소스테아릭애씨드,Isostearic Acid,,Isostearic Acid,1,CC(C)CCCCCCCCCCCCCCC(=O)O
+실제성분,프로판 등,프로판,Propane,,Propane,1,CCC
+실제성분,말티톨,말티톨,Maltitol,585-88-6 (D-),Maltitol,1,C([C@@H]1[C@H]([C@@H]([C@H]([C@H](O1)O[C@H]([C@@H](CO)O)[C@@H]([C@H](CO)O)O)O)O)O)O
+실제성분,폴리소르베이트 20,폴리솔베이트20,Polysorbate 20,,,0,
+실제성분,클로르페네신,클로페네신,Chlorphenesin,,Chlorphenesin,1,C1=CC(=CC=C1OCC(CO)O)Cl
+실제성분,토판염,토판염,Topan Salt,,,0,
+실제성분,라우릴글루코사이드,라우릴글루코사이드,Lauryl Glucoside,,Lauryl Glucoside,1,CCCCCCCCCCCCOC1[C@@H]([C@H]([C@@H]([C@H](O1)CO)O)O)O
+실제성분,다이소듐코코암포다이아세테이트,다이소듐코코암포다이아세테이트,Disodium Cocoamphodiacetate,,,0,
+실제성분,카르복시메틸셀룰로오스나트륨,셀룰로오스검,Cellulose Gum,,,0,
+실제성분,마치현추출정제수,쇠비름수,Portulaca Oleracea Water,,,0,
+실제성분,숯,숯,Charcoal,,Charcoal,1,[C]
+실제성분,스테아릴다이설파이드헥실 sh-DNA-2,스테아릴다이설파이드헥실 sh-DNA-2,Stearyldisulfidehexyl sh-DNA-2,,,0,
+실제성분,PEG-45/SH-RNA-1,,PEG-45/SH-RNA-1,,,0,
+실제성분,인산완충식염수,포스페이트버퍼드셀라인,Phosphate Buffered Saline,,Phosphate Buffered Saline,1,OP(=O)(O)[O-].OP(=O)([O-])[O-].[Na+].[Na+].[Na+].[Cl-].[Cl-].[K+].[K+]
+실제성분,변성에탄올,변성알코올,Alcohol Denat.,64-17-5,64-17-5,1,CCO
+실제성분,가수분해밀단백질,하이드롤라이즈드밀단백질,Hydrolyzed Wheat Protein,,,0,
+실제성분,아보카도열매,아보카도열매,Avocado Fruit,,,0,
+실제성분,바나나열매,바나나,Musa Paradisiaca (Banana) Fruit,89957-82-4,,0,
+실제성분,병아리콩씨가루,병아리콩씨가루,Chickpea Seed Powder,,,0,
+실제성분,식초,비니거,Vinegar,8028-52-2,Vinegar,1,CC(=O)O
+실제성분,쿠푸아수씨버터,쿠푸아수씨버터,Theobroma Grandiflorum Seed Butter,394236-97-6,,0,
+실제성분,올리브열매오일,올리브오일,Olea Europaea (Olive) Fruit Oil,,,0,
+실제성분,두부,두부,,,,0,
+실제성분,라우릴황산나트륨,소듐라우릴설페이트,Sodium Lauryl Sulfate,,Sodium Lauryl Sulfate,1,CCCCCCCCCCCCOS(=O)(=O)[O-].[Na+]
+실제성분,인산,포스포릭애씨드,Phosphoric Acid,,Phosphoric Acid,1,OP(=O)(O)O
+실제성분,실리콘오일,다이메티콘,Dimethicone,,,0,
+실제성분,흄드실리카,흄드실리카,Fumed Silica,,Fumed Silica,1,O=[Si]=O
+실제성분,증류수 등,정제수,Water,,Water,1,O
+실제성분,불화나트륨,불화나트륨,Sodium fluoride,,Sodium fluoride,1,[F-].[Na+]
+실제성분,인산삼칼슘,트라이칼슘포스페이트,Tricalcium Phosphate,,Tricalcium Phosphate,1,[O-]P(=O)([O-])[O-].[O-]P(=O)([O-])[O-].[Ca+2].[Ca+2].[Ca+2]
+실제성분,로진,로진,Rosin,,,0,
+실제성분,에탄올 등,에탄올,Alcohol,64-17-5,64-17-5,1,CCO
+실제성분,카프릴릴글 리콜,카프릴릴글라이콜,Caprylyl Glycol,,Caprylyl Glycol,1,CCCCCCC(CO)O
+실제성분,아보카도열매추출정제수,아보카도열매수,Persea Gratissima (Avocado) Fruit Water,,,0,
+실제성분,수산화나트륨,소듐하이드록사이드,Sodium Hydroxide,,Sodium Hydroxide,1,[OH-].[Na+]
+실제성분,탄산수소나트륨,소듐바이카보네이트,Sodium Bicarbonate,,Sodium Bicarbonate,1,C(=O)(O)[O-].[Na+]
+실제성분,황산나트륨,소듐설페이트,Sodium Sulfate,,Sodium Sulfate,1,[O-]S(=O)(=O)[O-].[Na+].[Na+]
+실제성분,아밀로덱스트린,아밀로덱스트린,Amylodextrin,,Amylodextrin,1,C([C@@H]1[C@H]([C@@H]([C@H]([C@H](O1)O[C@@H]2[C@H](O[C@@H]([C@@H]([C@H]2O)O)O)CO)O)O)O)O
+실제성분,폴리글리세린,폴리글리세린,Polyglycerin,,,0,
+실제성분,딸기향료,딸기향료,Fragrance,,,0,
+실제성분,탄산나트륨,소듐카보네이트,Sodium Carbonate,,Sodium Carbonate,1,C(=O)([O-])[O-].[Na+].[Na+]
+실제성분,젖산나트륨,소듐락테이트,Sodium Lactate,,Sodium Lactate,1,CC(C(=O)[O-])O.[Na+]
+실제성분,PEG-200 다이라우레이트,PEG-200 다이라우레이트,PEG 200 Dilaurate,,,0,
+실제성분,라놀린오일,라놀린오일,Lanolin Oil,,,0,
+실제성분,녹색색소,녹색색소,Green Dye,,,0,
+실제성분,아스코르브산,아스코빅애씨드,Ascorbic Acid,,Ascorbic Acid,1,C([C@@H]([C@@H]1C(=C(C(=O)O1)O)O)O)O
+실제성분,도데실폴리옥시에틸렌황산나트륨,도데실폴리옥시에틸렌황산나트륨,Sodium polyethoxyethyl dodecylsulfate,,,0,
+실제성분,코코넛다이에탄올아마이드,코코넛다이에탄올아마이드,Coconut diethanolamide,,,0,
+실제성분,비스(2-하이드록시에틸)코코알킬아민아세테이트,비스(2-하이드록시에틸)코코알킬아민아세테이트,Bis(2-hydroethyl) coco alkyl amine acetate,,,0,
+실제성분,소금,소듐클로라이드,Sodium Chloride,,Sodium Chloride,1,[Na+].[Cl-]
+실제성분,스피어민트오일,스피어민트오일,Spearmint oil,,,0,
+실제성분,비타민 C,아스코빅애씨드,Ascorbic Acid,,Ascorbic Acid,1,C([C@@H]([C@@H]1C(=C(C(=O)O1)O)O)O)O
+실제성분,덱스트린,덱스트린,Dextrin,,Dextrin,1,C([C@@H]1[C@H]([C@@H]([C@H](C(O1)O[C@@H]2[C@H](OC([C@@H]([C@H]2O)O)O[C@@H]3[C@H](O[C@@H]([C@@H]([C@H]3O)O)O)CO)CO)O)O)O)O
+실제성분,유당,락토오스,Lactose,,Lactose,1,C([C@@H]1[C@@H]([C@@H]([C@H]([C@@H](O1)O[C@@H]2[C@H](O[C@H]([C@@H]([C@H]2O)O)O)CO)O)O)O)O
+실제성분,아세틸세드렌,아세틸세드렌,Acetyl Cedrene,32388-55-9,32388-55-9,1,C[C@@H]1CC[C@@H]2[C@@]13C[C@H](C2(C)C)C(=C(C3)C(=O)C)C
+실제성분,파촐리오일,광곽향오일,Pogostemon Cablin Oil,,,0,
+실제성분,세드릴메틸에터 등 방향료성분,세드릴메틸에터,Cedryl Methyl Ether,,Cedryl Methyl Ether,1,C[C@@H]1CC[C@@H]2[C@]13CC[C@@]([C@H](C3)C2(C)C)(C)OC
+실제성분,PPG-2 메틸에터,피피지-2메틸에터,PPG-2 Methyl Ether,,PPG-2 Methyl Ether,1,CC(COC(C)COC)O
+실제성분,다이프로필렌글라이콜 등 유기용제,다이프로필렌글라이콜,Dipropylene Glycol,,Dipropylene Glycol,1,CC(CO)OC(C)CO.CC(COCC(C)O)O
+실제성분,헥실신남알데하이드,헥실신남알데하이드,Hexyl Cinnamic Aldehyde,,Hexyl Cinnamic Aldehyde,1,CCCCCC/C(=C/C1=CC=CC=C1)/C=O
+실제성분,헥실살리실레이트,헥실살리실레이트,Hexyl Salicylate,,Hexyl Salicylate,1,CCCCCCOC(=O)C1=CC=CC=C1O
+실제성분,라즈베리케톤,라즈베리케톤,Raspberry Ketone,,Raspberry Ketone,1,CC(=O)CCC1=CC=C(C=C1)O
+실제성분,다이하이드로미르세놀,다이하이드로미르세놀,Dihydro Myrcenol,,Dihydro Myrcenol,1,CCC(=C)CCCC(C)(C)O
+실제성분,벤질페닐아세테이트,벤질페닐아세테이트,Benzyl Phenyl Acetate,,,0,
+실제성분,베르독스,베르독스,Verdox,,Verdox,1,CC(=O)OC1CCCCC1C(C)(C)C
+실제성분,Peach Pure Aldehyde C14  등,,Peach Pure Aldehyde C14,,,0,
+실제성분,세드릴메틸에터,세드릴메틸에터,Cedryl Methyl Ether,,Cedryl Methyl Ether,1,C[C@@H]1CC[C@@H]2[C@]13CC[C@@]([C@H](C3)C2(C)C)(C)OC
+실제성분,다이프로필렌글라이콜 등,다이프로필렌글라이콜,Dipropylene Glycol,,Dipropylene Glycol,1,CC(CO)OC(C)CO.CC(COCC(C)O)O
+실제성분,복숭아향알데하이드 C14 등,복숭아향알데하이드 C14,Peach Pure Aldehyde C14,,,0,
+실제성분,사과수,사과수,Pyrus Malus (Apple) Fruit Water,,,0,
+실제성분,코코베타인,코코-베타인,Coco-Betaine,,Coco-Betaine,1,CNCC(=O)O
+실제성분,작약뿌리추출물,작약뿌리추출물,Paeonia Lactiflora Root Extract,,,0,
+실제성분,크랜베리추출물,크랜베리추출물,Vaccinium Macrocarpon (Cranberry) Fruit Extract,91770-88-6,,0,
+실제성분,락토바실러스발효추출물,락토바실러스발효추출물,Lactobacillus Ferment Extract,,,0,
+실제성분,메틸프로판디올,메틸프로판다이올,Methylpropanediol,2163-42-0,2163-42-0,1,CC(CO)CO
+실제성분,PEG-8,피이지-8,PEG-8,,,0,
+실제성분,에 틸헥실글리세린,에틸헥실글리세린,Ethylhexylglycerin,,Ethylhexylglycerin,1,CCCCC(CC)COCC(CO)O
+실제성분,인지질,포스포리피드,Phospholipids,,,0,
+실제성분,에틸렌다이아민테트라아세트산,이디티에이,EDTA,,EDTA,1,C(CN(CC(=O)O)CC(=O)O)N(CC(=O)O)CC(=O)O
+실제성분,카프릴릴글라이콜 등,카프릴릴글라이콜,Caprylyl Glycol,,Caprylyl Glycol,1,CCCCCCC(CO)O
+실제성분,라우릴피리디늄클로라이드,라우릴피리디늄클로라이드,Laurylpyridinium Chloride,,Laurylpyridinium Chloride,1,CCCCCCCCCCCC[N+]1=CC=CC=C1.[Cl-]
+실제성분,디하이드로아세트산나트륨,소듐데하이드로아세테이트,Sodium Dehydroacetate,,Sodium Dehydroacetate,1,CC1=CC(=O)[C-](C(=O)O1)C(=O)C.[Na+]
+실제성분,PEG-6 카프릴릭/카프릭 글리세라이즈,피이지-6카프릴릭/카프릭글리세라이즈,PEG-6 Caprylic/Capric Glycerides,,,0,
+실제성분,PEG-40 하이드로제네이티드캐스터오일,피이지-40하이드로제네이티드캐스터오일,PEG-40 Hydrogenated Castor Oil,,,0,
+실제성분,PEG-20 글리세릴트라이아이소스테아레이트,피이지-20글리세릴트라이아이소스테아레이트,PEG-20 Glyceryl Triisostearate,,,0,
+실제성분,알란토인,알란토인,Allantoin,,Allantoin,1,C1(C(=O)NC(=O)N1)NC(=O)N
+실제성분,액상클리너: 알코올,에탄올,Alcohol,64-17-5,64-17-5,1,CCO
+실제성분,멘톨향료,멘톨향료,,,,0,
+실제성분,표면에 수성 차단 잉크 처리,표면에 수성 차단 잉크 처리,,,,0,
+실제성분,향료 등 액상 클리너 및 종이실,향료,Flavor,,,0,
+실제성분,PEG-6 카프릴릭/카프릭글리세라이드,피이지-6카프릴릭/카프릭글리세라이즈,PEG-6 Caprylic/Capric Glycerides,,,0,
+실제성분,페녹시에탄올 등,페녹시에탄올,Phenoxyethanol,,Phenoxyethanol,1,C1=CC=C(C=C1)OCCO
+실제성분,지방산의 알칼리염을 기제로 하여 활석,지방산의 알칼리염을 기제로 하여 활석,Alkali Salts of Fatty Acidsbased on Talc,,,0,
+실제성분,명반,명반,Tawas,,,0,
+실제성분,황산알루미늄칼륨,황산알루미늄칼륨,Aluminium potassium sulfate,,Aluminium potassium sulfate,1,[O-]S(=O)(=O)[O-].[O-]S(=O)(=O)[O-].[Al+3].[K+]
+실제성분,코코넛나트륨,소듐코코에이트,Sodium Cocoate,,,0,
+실제성분,팜커널나트륨,소듐팜커넬레이트,Sodium Palm Kernelate,,,0,
+실제성분,팜나트륨,소듐팔메이트,Sodium Palmate,,,0,
+실제성분,우지나트륨,소듐탈로우에이트,Sodium Tallowate,,,0,
+실제성분,트리클로카반,트리클로카반,Triclocarban,,Triclocarban,1,C1=CC(=CC=C1NC(=O)NC2=CC(=C(C=C2)Cl)Cl)Cl
+실제성분,코코넛산,코코넛애씨드,Coconut Acid,61788-47-4,,0,
+실제성분,팜산,팜애씨드,Palm Acid,,,0,
+실제성분,우지산,탈로우애씨드,Tallow Acid,,,0,
+실제성분,PEG-6 메틸에터,피이지-6메틸에터,PEG-6 Methyl Ether,,PEG-6 Methyl Ether,1,COCCOCCOCCOCCOCCOCCO
+실제성분,소르비톨,솔비톨,Sorbitol,,Sorbitol,1,C([C@H]([C@H]([C@@H]([C@H](CO)O)O)O)O)O
+실제성분,펜타소듐펜테테이트,펜타소듐펜테테이트,Pentasodium Pentetate,,Pentasodium Pentetate,1,C(CN(CC(=O)[O-])CC(=O)[O-])N(CCN(CC(=O)[O-])CC(=O)[O-])CC(=O)[O-].[Na+].[Na+].[Na+].[Na+].[Na+]
+실제성분,테트라소듐에티드로네이트,테트라소듐에티드로네이트,Tetrasodium Etidronate,,Tetrasodium Etidronate,1,CC(O)(P(=O)([O-])[O-])P(=O)([O-])[O-].[Na+].[Na+].[Na+].[Na+]
+실제성분,라우레스황산나트륨,소듐라우레스설페이트,Sodium Laureth Sulfate,,Sodium Laureth Sulfate,5,CCCCCCCCCCCCOCCOS(=O)(=O)[O-].[Na+]
+실제성분,라우릴베타인,라우릴베타인,Lauryl Betaine,,Lauryl Betaine,1,CCCCCCCCCCCC[N+](C)(C)CC(=O)[O-]
+실제성분,쇼레아 스테노프테라씨버터,보르네오탈로우씨버터,Shorea Stenoptera Seed Butter,,,0,
+실제성분,코코넛오일,코코넛야자오일,Cocos Nucifera (Coconut) Oil,,,0,
+실제성분,바다소금,씨솔트,Sea Salt,,Sea Salt,1,[Na+].[Cl-]
+실제성분,탄산수소나트륨 등,소듐바이카보네이트,Sodium Bicarbonate,,Sodium Bicarbonate,1,C(=O)(O)[O-].[Na+]
+실제성분,스테아르산나트륨,소듐스테아레이트,Sodium Stearate,,Sodium Stearate,1,CCCCCCCCCCCCCCCCCC(=O)[O-].[Na+]
+실제성분,팔미트산나트륨 등 지방산의 알칼리염,소듐팔미테이트,Sodium Palmitate,,Sodium Palmitate,1,CCCCCCCCCCCCCCCC(=O)[O-].[Na+]
+실제성분,에틸알코올,에탄올,Alcohol,64-17-5,64-17-5,1,CCO
+HK,HK001,락,Lac,,,0,
+HK,HK002,쉘락,Shellac,,,0,
+HK,HK003,오미자추출물,Schisandra Chinensis Fruit Extract,,,0,
+HK,HK004,작약추출물,Paeonia Lactiflora Extract,,,0,
+HK,HK005,황기추출물,Astragalus Membranaceus Extract,,,0,
+HK,HK006,풀러토,Fuller's Earth,,,0,
+HK,HK007,규선석,Sillimanite,,,0,
+HK,HK008,돌로마이트,Dolomite,,Dolomite,1,C(=O)([O-])[O-].C(=O)([O-])[O-].[Mg+2].[Ca+2]
+HK,HK009,파이로필라이트,Pyrophyllite,12269-78-2;113349-10-3;141040-73-5,12269-78-2,1,O[Si](=O)O.O[Si](=O)O.O[Si](=O)O.[Al+3]
+HK,HK010,규회석,Wollastonite,,Wollastonite,1,[O-][Si](=O)[O-].[Ca+2]
+HK,HK011,설퍼콜로이드,Colloidal Sulfur,7704-34-9,7704-34-9,1,[S]
+HK,HK012,카본블랙,Carbon Black,1333-86-4,1333-86-4,1,[C]
+HK,HK013,수소,Hydrogen,,Hydrogen,1,[HH]
+HK,HK014,아르곤,Argon,,Argon,1,[Ar]
+HK,HK015,질소,Nitrogen,,Nitrogen,1,N#N
+HK,HK016,나이트릭애씨드,Nitric Acid,7697-37-2,7697-37-2,1,[N+](=O)(O)[O-]
+HK,HK017,포스포릭애씨드,Phosphoric Acid,,Phosphoric Acid,1,OP(=O)(O)O
+HK,HK018,하이드로브로믹애씨드,Hydrobromic Acid,,Hydrobromic Acid,1,Br
+HK,HK019,이산화탄소,Carbon Dioxide,,Carbon Dioxide,1,C(=O)=O
+HK,HK020,나이트러스옥사이드,Nitrous Oxide,,Nitrous Oxide,1,[N-]=[N+]=O
+HK,HK021,포타슘하이드록사이드,Potassium Hydroxide,,Potassium Hydroxide,1,[OH-].[K+]
+HK,HK022,마그네슘퍼옥사이드,Magnesium Peroxide,,Magnesium Peroxide,1,[O-][O-].[Mg+2]
+HK,HK023,징크퍼옥사이드,Zinc Peroxide,,Zinc Peroxide,1,OO.[Zn]
+HK,HK024,리튬하이드록사이드,Lithium Hydroxide,,Lithium Hydroxide,1,[Li+].[OH-]
+HK,HK025,칼슘옥사이드,Calcium Oxide,,Calcium Oxide,1,O=[Ca]
+HK,HK026,칼슘하이드록사이드,Calcium Hydroxide,,Calcium Hydroxide,1,[OH-].[OH-].[Ca+2]
+HK,HK027,암모늄클로라이드,Ammonium Chloride,,Ammonium Chloride,1,[NH4+].[Cl-]
+HK,HK028,칼슘클로라이드,Calcium Chloride,,Calcium Chloride,1,[Cl-].[Cl-].[Ca+2]
+HK,HK029,포타슘브로마이드,Potassium Bromide,,Potassium Bromide,1,[K+].[Br-]
+HK,HK030,포타슘아이오다이드,Potassium Iodide,,Potassium Iodide,1,[K+].[I-]
+HK,HK031,소듐클로라이트,Sodium Chlorite,,Sodium Chlorite,1,[O-]Cl=O.[Na+]
+HK,HK032,소듐메타포스페이트,Sodium Metaphosphate,,Sodium Metaphosphate,1,[O-]P(=O)=O.[Na+]
+HK,HK033,칼슘카보네이트,Calcium Carbonate,,Calcium Carbonate,1,C(=O)([O-])[O-].[Ca+2]
+HK,HK034,실버나이트레이트,Silver Nitrate,,Silver Nitrate,1,[N+](=O)([O-])[O-].[Ag+]
+HK,HK035,헵탄,Heptane,,Heptane,1,CCCCCCC
+HK,HK036,헥센,Hexene,,Hexene,1,CCC/C=C/C
+HK,HK037,옥텐,Octene,,Octene,1,CCCCCCC=C
+HK,HK038,사이클로헥세인,Cyclohexane,,Cyclohexane,1,C1CCCCC1
+HK,HK039,톨루엔,Toluene,,Toluene,1,CC1=CC=CC=C1
+HK,HK040,스타이렌,Styrene,,Styrene,1,C=CC1=CC=CC=C1
+HK,HK041,시트로넬올,Citronellol,,Citronellol,1,CC(CCC=C(C)C)CCO
+HK,HK042,제라니올,Geraniol,,Geraniol,1,CC(=CCC/C(=C/CO)/C)C
+HK,HK043,에칠렌글라이콜,Ethylene Glycol,,Ethylene Glycol,1,C(CO)O
+HK,HK044,네오펜틸글라이콜,Neopentyl Glycol,,Neopentyl Glycol,1,CC(C)(CO)CO
+HK,HK045,이노시톨,Inositol,,Inositol,1,C1(C(C(C(C(C1O)O)O)O)O)O
+HK,HK046,티몰,Thymol,,Thymol,1,CC1=CC(=C(C=C1)C(C)C)O
+HK,HK047,레조시놀,Resorcinol,,Resorcinol,1,C1=CC(=CC(=C1)O)O
+HK,HK048,카테콜,Catechol,,Catechol,1,C1=CC=C(C(=C1)O)O
+HK,HK049,아네솔,Anethole,,Anethole,1,C/C=C/C1=CC=C(C=C1)OC
+HK,HK050,트라이에틸글라이콜,Triethylene Glycol,,Triethylene Glycol,1,C(COCCOCCO)O
+HK,HK051,에틸바닐린,Ethyl Vanillin,,Ethyl Vanillin,1,CCOC1=C(C=CC(=C1)C=O)O
+HK,HK052,아세톤,Acetone,,Acetone,1,CC(=O)C
+HK,HK053,사이클로헥산온,Cyclohexanone,,Cyclohexanone,1,C1CCC(=O)CC1
+HK,HK054,메틸아이오논,Methyl Ionones,,,0,
+HK,HK055,포믹애씨드,Formic Acid,,Formic Acid,1,C(=O)O
+HK,HK056,아세틱애씨드,Acetic Acid,,Acetic Acid,1,CC(=O)O
+HK,HK057,칼슘아세테이트,Calcium Acetate,,Calcium Acetate,1,CC(=O)[O-].CC(=O)[O-].[Ca+2]
+HK,HK058,소듐아세테이트,Sodium Acetate,,Sodium Acetate,1,CC(=O)[O-].[Na+]
+HK,HK059,에틸아세테이트,Ethyl Acetate,,Ethyl Acetate,1,CCOC(=O)C
+HK,HK060,비닐아세테이트,Vinyl Acetate,,Vinyl Acetate,1,CC(=O)OC=C
+HK,HK061,아밀아세테이트,Amyl Acetate,,Amyl Acetate,1,CCCCCOC(=O)C
+HK,HK062,아이소아밀아세테이트,Isoamyl Acetate,,Isoamyl Acetate,1,CC(C)CCOC(=O)C
+HK,HK063,아이소부틸아세테이트,Isobutyl Acetate,,Isobutyl Acetate,1,CC(C)COC(=O)C
+HK,HK064,프로피오닉애씨드,Propionic Acid,,Propionic Acid,1,CCC(=O)O
+HK,HK065,징크스테아레이트,Zinc Stearate,,Zinc Stearate,1,CCCCCCCCCCCCCCCCCC(=O)[O-].CCCCCCCCCCCCCCCCCC(=O)[O-].[Zn+2]
+HK,HK066,칼슘스테아레이트,Calcium Stearate,,Calcium Stearate,1,CCCCCCCCCCCCCCCCCC(=O)[O-].CCCCCCCCCCCCCCCCCC(=O)[O-].[Ca+2]
+HK,HK067,아크릴릭애씨드,Acrylic Acid,,Acrylic Acid,1,C=CC(=O)O
+HK,HK068,메타크릴릭애씨드,Methacrylic Acid,,Methacrylic Acid,1,CC(=C)C(=O)O
+HK,HK069,벤조일클로라이드,Benzoyl Chloride,,Benzoyl Chloride,1,C1=CC=C(C=C1)C(=O)Cl
+HK,HK070,신나믹애씨드,Cinnamic Acid,,Cinnamic Acid,1,C1=CC=C(C=C1)/C=C/C(=O)O
+HK,HK071,옥살릭애씨드,Oxalic Acid,,Oxalic Acid,1,C(=O)(C(=O)O)O
+HK,HK072,아디픽애씨드,Adipic Acid,,Adipic Acid,1,C(CCC(=O)O)CC(=O)O
+HK,HK073,세바식애씨드,Sebacic Acid,111-20-6,111-20-6,1,C(CCCCC(=O)O)CCCC(=O)O
+HK,HK074,말레익안하이드라이드,Maleic Anhydride,,Maleic Anhydride,1,C1=CC(=O)OC1=O
+HK,HK075,소듐석시네이트,Sodium Succinate,,Sodium Succinate,1,C(CC(=O)[O-])C(=O)[O-].[Na+].[Na+]
+HK,HK076,트라이옥틸트라이멜리테이트,Trioctyl Trimellitate,,Trioctyl Trimellitate,1,CCCCC(CC)COC(=O)C1=CC(=C(C=C1)C(=O)OCC(CC)CCCC)C(=O)OCC(CC)CCCC
+HK,HK077,락틱애씨드,Lactic Acid,,Lactic Acid,1,CC(C(=O)O)O
+HK,HK078,타타릭애씨드,Tartaric Acid,,Tartaric Acid,1,[C@@H]([C@H](C(=O)O)O)(C(=O)O)O
+HK,HK079,시트릭애씨드,Citric Acid,,Citric Acid,1,C(C(=O)O)C(CC(=O)O)(C(=O)O)O
+HK,HK080,갈릭애씨드,Gallic Acid,,Gallic Acid,1,C1=C(C=C(C(=C1O)O)O)C(=O)O
+HK,HK081,메틸다이에탄올아민,Methyl Diethanolamine,,Methyl Diethanolamine,1,CN(CCO)CCO
+HK,HK082,라이신,Lysine,,Lysine,1,C(CCN)C[C@@H](C(=O)O)N
+HK,HK083,소듐글루타메이트,Sodium Glutamate,,Sodium Glutamate,1,C(CC(=O)O)[C@@H](C(=O)[O-])N.[Na+]
+HK,HK084,알라닌,Alanine,,Alanine,1,C[C@@H](C(=O)O)N
+HK,HK085,아세트아미노펜,Acetaminophen,,Acetaminophen,1,CC(=O)NC1=CC=C(C=C1)O
+HK,HK086,시스테인,Cysteine,,Cysteine,1,C([C@@H](C(=O)O)N)S
+HK,HK087,테트라하이드로퍼퓨릴알코올,Tetrahydrofurfuryl Alcohol,,Tetrahydrofurfuryl Alcohol,1,C1CC(OC1)CO
+HK,HK088,쿠마린,Coumarin,,Coumarin,1,C1=CC=C2C(=C1)C=CC(=O)O2
+HK,HK089,부티로락톤,Butyrolactone,,Butyrolactone,1,C1CC(=O)OC1
+HK,HK090,아스코빅애씨드,Ascorbic Acid,,Ascorbic Acid,1,C([C@@H]([C@@H]1C(=C(C(=O)O1)O)O)O)O
+HK,HK091,소듐아스코베이트,Sodium Ascorbate,,Sodium Ascorbate,1,C([C@@H]([C@@H]1C(=C(C(=O)O1)O)[O-])O)O.[Na+]
+HK,HK092,칼슘아스코베이트,Calcium Ascorbate,,Calcium Ascorbate,1,C([C@@H]([C@@H]1C(=C(C(=O)O1)[O-])O)O)O.C([C@@H]([C@@H]1C(=C(C(=O)O1)[O-])O)O)O.[Ca+2]
+HK,HK093,스테비오사이드,Stevioside,,Stevioside,1,C[C@@]12CCC[C@@]([C@H]1CC[C@]34[C@H]2CC[C@](C3)(C(=C)C4)O[C@H]5[C@@H]([C@H]([C@@H]([C@H](O5)CO)O)O)O[C@H]6[C@@H]([C@H]([C@@H]([C@H](O6)CO)O)O)O)(C)C(=O)O[C@H]7[C@@H]([C@H]([C@@H]([C@H](O7)CO)O)O)O
+HK,HK094,카페인,Caffeine,,Caffeine,1,CN1C=NC2=C1C(=O)N(C(=O)N2C)C
+HK,HK095,갈락토오스,Galactose,,Galactose,1,C([C@@H]1[C@@H]([C@@H]([C@H](C(O1)O)O)O)O)O
+HK,HK096,자일로오스,Xylose,,Xylose,1,C1[C@H]([C@@H]([C@H](C(O1)O)O)O)O
+HK,HK097,헤파린,Heparin,,,0,
+HK,HK098,암모늄나이트레이트,Ammonium Nitrate,,Ammonium Nitrate,1,[NH4+].[N+](=O)([O-])[O-]
+HK,HK099,포타슘클로라이드,Potassium Chloride,,Potassium Chloride,1,[Cl-].[K+]
+HK,HK100,코치닐,Cochineal,1343-78-8,1343-78-8,1,CC1=C2C(=CC(=C1C(=O)O)O)C(=O)C3=C(C2=O)C(=C(C(=C3O)O)C4C(C(C(C(O4)CO)O)O)O)O
+HK,HK101,세피아,Sepia,,,0,
+HK,HK102,오렌지유,Orange Oil,,,0,
+HK,HK103,젤라틴,Gelatin,9000-70-8,,0,
+HK,HK104,케라틴,Keratin,,,0,
+HK,HK105,덱스트린,Dextrin,,Dextrin,1,C([C@@H]1[C@H]([C@@H]([C@H](C(O1)O[C@@H]2[C@H](OC([C@@H]([C@H]2O)O)O[C@@H]3[C@H](O[C@@H]([C@@H]([C@H]3O)O)O)CO)CO)O)O)O)O
+HK,HK106,파파인,Papain,,,0,
+HK,HK107,피신,Ficin,,Ficin,1,C(=IF)I=N
+HK,HK108,아밀라아제,Amylase,,Amylase,1,C=C=CCNC(=O)C1=CC=C(C=C1)F
+HK,HK109,프로테아제,Protease,,Protease,1,CCCCCCCCC1CC(=O)N[C@H](C(=O)N[C@@H](C(=O)N[C@@H](C(=O)N2CCC[C@H]2C(=O)N[C@H](C(=O)N[C@@H](C(=O)N[C@H](C(=O)N1)[C@@H](C)O)CO)CCC(=O)O)CC(=O)N)CC3=CC=C(C=C3)O)CC(=O)N
+HK,HK110,톨오일,Tall Oil,,,0,
+HK,HK111,로진,Rosin,,,0,
+HK,HK112,폴리프로필렌,Polypropylene,,,0,
+HK,HK113,폴리메틸메타크릴레이트,Polymethyl Methacrylate,,,0,
+HK,HK114,폴리아크릴아마이드,Polyacrylamide,,,0,
+HK,HK115,폴리락틱애씨드,Polylactic Acid,,,0,
+HK,HK116,폴리부틸렌테레프탈레이트,Polybutylene Terephthalate,,Polybutylene Terephthalate,1,COC(=O)C1=CC=C(C=C1)C(=O)OC.C(CCO)CO
+HK,HK117,프로필렌글라이콜알지네이트,Propylene Glycol Alginate,,,0,
